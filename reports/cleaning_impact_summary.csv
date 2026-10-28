@@ -1,0 +1,11 @@
+metric,value
+records_before_cleaning,5000
+records_after_cleaning,5000
+records_removed_as_duplicate_ids,0
+text_values_standardized,0
+invalid_enrollment_values_converted_to_missing,0
+invalid_age_values_converted_to_missing,0
+invalid_date_values_converted_to_missing,0
+expected_columns_added,0
+missing_values_before_cleaning,9295
+missing_values_after_cleaning,9295

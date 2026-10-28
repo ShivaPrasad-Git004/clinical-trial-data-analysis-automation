@@ -1,0 +1,9 @@
+,precision,precision,recall,recall,f1_score,f1_score,average_precision,average_precision,roc_auc,roc_auc
+,mean,std,mean,std,mean,std,mean,std,mean,std
+model,,,,,,,,,,
+Hybrid + Isolation Forest,0.4681,0.0528,0.844,0.0865,0.6016,0.0616,,,,
+Hybrid + Local Outlier Factor,0.4084,0.0436,0.664,0.0555,0.5052,0.0462,,,,
+Hybrid + One-Class SVM,0.4276,0.0347,0.784,0.0792,0.5532,0.0479,,,,
+Isolation Forest,0.38,0.0578,0.588,0.0879,0.4609,0.0657,0.3719,0.0497,0.8187,0.0149
+Local Outlier Factor,0.407,0.0443,0.66,0.0529,0.503,0.0465,0.6605,0.0404,0.9002,0.034
+One-Class SVM,0.4238,0.0364,0.772,0.0807,0.5471,0.0499,0.5888,0.0375,0.9359,0.0147

@@ -1,0 +1,3001 @@
+true_anomaly,defect_type,predicted_anomaly,anomaly_score,model
+0,normal,0,-0.14057863394001557,Isolation Forest
+0,normal,0,-0.17329759325401595,Isolation Forest
+0,normal,0,-0.11452342088111472,Isolation Forest
+0,normal,0,-0.15808159514036518,Isolation Forest
+0,normal,0,-0.039588096574326825,Isolation Forest
+0,normal,0,-0.08237725772233012,Isolation Forest
+0,normal,0,-0.13953227616254787,Isolation Forest
+1,extreme_duration,1,0.1311773851366772,Isolation Forest
+0,normal,0,-0.13947052556203848,Isolation Forest
+0,normal,0,-0.1340747085303416,Isolation Forest
+0,normal,0,-0.07880848542634356,Isolation Forest
+0,normal,0,-0.12893050507627218,Isolation Forest
+0,normal,0,-0.12307858854266202,Isolation Forest
+0,normal,0,-0.028229599697672136,Isolation Forest
+0,normal,0,-0.08364772979745316,Isolation Forest
+0,normal,0,-0.09058809939899765,Isolation Forest
+1,extreme_duration,1,0.09430257643894102,Isolation Forest
+1,extreme_duration,1,0.14185558707403534,Isolation Forest
+0,normal,0,-0.039273741313272215,Isolation Forest
+0,normal,0,-0.05408151137165218,Isolation Forest
+0,normal,0,-0.16248970096477494,Isolation Forest
+0,normal,0,-0.1115188091491604,Isolation Forest
+0,normal,0,-0.04545120165964367,Isolation Forest
+0,normal,0,-0.14167876819477992,Isolation Forest
+0,normal,0,-0.10782727432343991,Isolation Forest
+0,normal,0,-0.15879665533142007,Isolation Forest
+0,normal,0,-0.05554314062191157,Isolation Forest
+0,normal,0,-0.10704470960815876,Isolation Forest
+0,normal,0,-0.1242670908794497,Isolation Forest
+0,normal,0,-0.0943868972370922,Isolation Forest
+0,normal,0,-0.11466927394439203,Isolation Forest
+0,normal,0,-0.1598516065867926,Isolation Forest
+0,normal,0,-0.14036214687711956,Isolation Forest
+0,normal,0,-0.10544372472407842,Isolation Forest
+0,normal,0,-0.15065774582296138,Isolation Forest
+0,normal,0,-0.12234630292898468,Isolation Forest
+0,normal,0,-0.1601534795337839,Isolation Forest
+0,normal,0,-0.14926158702775827,Isolation Forest
+1,extreme_duration,1,0.07363122810321321,Isolation Forest
+0,normal,0,-0.1565748510945454,Isolation Forest
+0,normal,1,0.004797852512646195,Isolation Forest
+0,normal,0,-0.15154254886339358,Isolation Forest
+0,normal,0,-0.1709343436445812,Isolation Forest
+0,normal,0,-0.09279899846545164,Isolation Forest
+0,normal,0,-0.15141004575484823,Isolation Forest
+0,normal,0,-0.15331078413135257,Isolation Forest
+0,normal,0,-0.12319860444472785,Isolation Forest
+0,normal,0,-0.14196922486361385,Isolation Forest
+1,extreme_enrollment,1,0.1351666989125302,Isolation Forest
+0,normal,0,-0.04467593251425184,Isolation Forest
+0,normal,0,-0.06972262181553968,Isolation Forest
+0,normal,0,-0.034883232430399036,Isolation Forest
+0,normal,0,-0.04334216291651216,Isolation Forest
+0,normal,0,-0.11468401440232345,Isolation Forest
+0,normal,0,-0.1681909849847137,Isolation Forest
+0,normal,0,-0.04414707578542376,Isolation Forest
+0,normal,0,-0.14316826013073514,Isolation Forest
+0,normal,0,-0.1506173945346888,Isolation Forest
+0,normal,1,0.06008499814474777,Isolation Forest
+0,normal,0,-0.14144573432396146,Isolation Forest
+0,normal,0,-0.1169066208521477,Isolation Forest
+1,invalid_age_range,1,0.07647209261020615,Isolation Forest
+0,normal,0,-0.1380318460211991,Isolation Forest
+0,normal,0,-0.1681118065885454,Isolation Forest
+0,normal,0,-0.0616939106114609,Isolation Forest
+0,normal,0,-0.17782035754668546,Isolation Forest
+0,normal,0,-0.16835491472198927,Isolation Forest
+0,normal,0,-0.1664523400550707,Isolation Forest
+0,normal,0,-0.015280682709638005,Isolation Forest
+0,normal,0,-0.179467305284014,Isolation Forest
+0,normal,0,-0.15532703061726405,Isolation Forest
+0,normal,0,-0.1524751828234881,Isolation Forest
+0,normal,0,-0.1303960120782644,Isolation Forest
+0,normal,0,-0.16016424195706225,Isolation Forest
+1,extreme_enrollment,1,0.12583880934185132,Isolation Forest
+0,normal,0,-0.1655823725094469,Isolation Forest
+0,normal,0,-0.08158662037764258,Isolation Forest
+0,normal,0,-0.16659165705251117,Isolation Forest
+0,normal,0,-0.13298838923711698,Isolation Forest
+0,normal,0,-0.13645656242518772,Isolation Forest
+0,normal,0,-0.13242924668556827,Isolation Forest
+0,normal,0,-0.11005918374679308,Isolation Forest
+0,normal,0,-0.12078545267760332,Isolation Forest
+0,normal,0,-0.10877686130884107,Isolation Forest
+0,normal,0,-0.1351969680208664,Isolation Forest
+0,normal,0,-0.1145390314021641,Isolation Forest
+0,normal,0,-0.17025484156684162,Isolation Forest
+0,normal,0,-0.043229112327467845,Isolation Forest
+0,normal,0,-0.16727469946674778,Isolation Forest
+0,normal,0,-0.050993112023335785,Isolation Forest
+0,normal,0,-0.08407074700269229,Isolation Forest
+0,normal,0,-0.12420631636002905,Isolation Forest
+0,normal,0,-0.10737920083837343,Isolation Forest
+0,normal,0,-0.14770134440916538,Isolation Forest
+0,normal,0,-0.14513796996702605,Isolation Forest
+0,normal,0,-0.14208451792918791,Isolation Forest
+0,normal,0,-0.13200339905460018,Isolation Forest
+0,normal,0,-0.053987044226760705,Isolation Forest
+0,normal,0,-0.08353497751424638,Isolation Forest
+0,normal,0,-0.14933398628265965,Isolation Forest
+0,normal,0,-0.0995139511311039,Isolation Forest
+0,normal,0,-0.13817360602591483,Isolation Forest
+0,normal,0,-0.14816333524044895,Isolation Forest
+0,normal,0,-0.13117839471021908,Isolation Forest
+0,normal,0,-0.17288559884403715,Isolation Forest
+0,normal,0,-0.17242530262866362,Isolation Forest
+0,normal,0,-0.0867505518154621,Isolation Forest
+0,normal,0,-0.1691763182857804,Isolation Forest
+0,normal,0,-0.09792336316702516,Isolation Forest
+0,normal,0,-0.12981260179217258,Isolation Forest
+0,normal,0,-0.16797256550080553,Isolation Forest
+0,normal,0,-0.14595707391712953,Isolation Forest
+0,normal,0,-0.1652487397609022,Isolation Forest
+0,normal,0,-0.09007136805992405,Isolation Forest
+0,normal,0,-0.10439493084446771,Isolation Forest
+0,normal,0,-0.047838119086576314,Isolation Forest
+0,normal,0,-0.13235310037127213,Isolation Forest
+0,normal,0,-0.14340014856647476,Isolation Forest
+0,normal,0,-0.01979493845295277,Isolation Forest
+0,normal,0,-0.13953840821484664,Isolation Forest
+0,normal,0,-0.10228165862274008,Isolation Forest
+0,normal,0,-0.13474299525140326,Isolation Forest
+0,normal,0,-0.09437443171768578,Isolation Forest
+0,normal,0,-0.14774707797110553,Isolation Forest
+0,normal,0,-0.1389024360174086,Isolation Forest
+0,normal,0,-0.14987038456302637,Isolation Forest
+0,normal,0,-0.15947564834727013,Isolation Forest
+0,normal,0,-0.08099519453725451,Isolation Forest
+0,normal,0,-0.14364847811047315,Isolation Forest
+0,normal,0,-0.17121342222596952,Isolation Forest
+0,normal,0,-0.11091979467941876,Isolation Forest
+0,normal,0,-0.05464220558583721,Isolation Forest
+0,normal,0,-0.1620931540950888,Isolation Forest
+0,normal,0,-0.13363028049673287,Isolation Forest
+0,normal,0,-0.08339498745220053,Isolation Forest
+0,normal,0,-0.15449113165177014,Isolation Forest
+0,normal,0,-0.148457361297055,Isolation Forest
+0,normal,0,-0.11589158367638996,Isolation Forest
+1,invalid_age_range,1,0.07149531551722943,Isolation Forest
+0,normal,0,-0.07445481741977544,Isolation Forest
+0,normal,0,-0.17642168901637506,Isolation Forest
+0,normal,0,-0.15792815894696915,Isolation Forest
+0,normal,0,-0.057775032366835344,Isolation Forest
+0,normal,0,-0.13824634674747482,Isolation Forest
+0,normal,0,-0.11531202039547134,Isolation Forest
+0,normal,0,-0.08420807312268958,Isolation Forest
+0,normal,0,-0.1365677765172984,Isolation Forest
+0,normal,0,-0.04074061991118516,Isolation Forest
+0,normal,0,-0.11477991508607271,Isolation Forest
+0,normal,0,-0.12064232026406618,Isolation Forest
+0,normal,0,-0.12584165324475316,Isolation Forest
+0,normal,0,-0.1298918959734109,Isolation Forest
+0,normal,0,-0.0569028321317957,Isolation Forest
+0,normal,0,-0.16343198039683315,Isolation Forest
+0,normal,0,-0.1516271094719311,Isolation Forest
+0,normal,0,-0.1762596520857141,Isolation Forest
+0,normal,0,-0.13262373888608364,Isolation Forest
+0,normal,0,-0.07036269845849052,Isolation Forest
+0,normal,0,-0.1463162163239195,Isolation Forest
+1,extreme_enrollment,1,0.12075059781814812,Isolation Forest
+0,normal,0,-0.11785500297113194,Isolation Forest
+0,normal,0,-0.15161295008976133,Isolation Forest
+0,normal,0,-0.17321223873346486,Isolation Forest
+0,normal,0,-0.1565193369673023,Isolation Forest
+0,normal,0,-0.09012598063315302,Isolation Forest
+0,normal,0,-0.13346914643443597,Isolation Forest
+0,normal,0,-0.10713273244632987,Isolation Forest
+0,normal,0,-0.1023136141712282,Isolation Forest
+0,normal,1,0.0629996900805968,Isolation Forest
+0,normal,0,-0.16933116633470602,Isolation Forest
+0,normal,0,-0.04390548305938802,Isolation Forest
+0,normal,0,-0.0978683201369599,Isolation Forest
+0,normal,0,-0.16359854467154988,Isolation Forest
+0,normal,0,-0.18186460410871252,Isolation Forest
+0,normal,0,-0.15556265265258462,Isolation Forest
+0,normal,0,-0.11754203542413133,Isolation Forest
+0,normal,0,-0.13300338089046482,Isolation Forest
+0,normal,0,-0.1477468950043042,Isolation Forest
+0,normal,0,-0.15300783096719678,Isolation Forest
+0,normal,0,-0.16984994840949746,Isolation Forest
+0,normal,0,-0.10533869914049626,Isolation Forest
+0,normal,0,-0.10762718192663151,Isolation Forest
+0,normal,0,-0.17563741702148994,Isolation Forest
+0,normal,1,0.03801621923692988,Isolation Forest
+0,normal,0,-0.14161972589255806,Isolation Forest
+0,normal,0,-0.0871730548537285,Isolation Forest
+0,normal,0,-0.033161975097140806,Isolation Forest
+0,normal,0,-0.16174408076086766,Isolation Forest
+0,normal,0,-0.10928081041321513,Isolation Forest
+0,normal,0,-0.16713478598170045,Isolation Forest
+0,normal,0,-0.08017015828757196,Isolation Forest
+0,normal,0,-0.1282106436275645,Isolation Forest
+0,normal,0,-0.12541029568543882,Isolation Forest
+0,normal,1,0.0020523133638212787,Isolation Forest
+0,normal,0,-0.12409945280141993,Isolation Forest
+0,normal,0,-0.16349394759679786,Isolation Forest
+0,normal,0,-0.17467562002735332,Isolation Forest
+0,normal,0,-0.17134604793873642,Isolation Forest
+0,normal,0,-0.08906350918653805,Isolation Forest
+0,normal,0,-0.15049618257134378,Isolation Forest
+0,normal,0,-0.18410975809059466,Isolation Forest
+0,normal,0,-0.11401437742602999,Isolation Forest
+0,normal,0,-0.15436294408383294,Isolation Forest
+0,normal,0,-0.15443468535423915,Isolation Forest
+0,normal,0,-0.08550797060792698,Isolation Forest
+0,normal,0,-0.12914169843007456,Isolation Forest
+0,normal,0,-0.10667575009508856,Isolation Forest
+0,normal,0,-0.009121402032723602,Isolation Forest
+0,normal,0,-0.033632531306126645,Isolation Forest
+0,normal,0,-0.08888602870173418,Isolation Forest
+0,normal,0,-0.1468204322565208,Isolation Forest
+0,normal,0,-0.11859286854688,Isolation Forest
+1,invalid_age_range,1,0.0621143742872412,Isolation Forest
+0,normal,1,0.020071114507157373,Isolation Forest
+0,normal,0,-0.15918327867673732,Isolation Forest
+0,normal,1,0.09041387832239123,Isolation Forest
+0,normal,0,-0.1278850394791693,Isolation Forest
+0,normal,0,-0.015679650144403423,Isolation Forest
+0,normal,0,-0.07578402488998764,Isolation Forest
+0,normal,0,-0.13553669537283008,Isolation Forest
+0,normal,0,-0.10789291593142719,Isolation Forest
+0,normal,0,-0.054102142926175434,Isolation Forest
+0,normal,0,-0.15808360534580518,Isolation Forest
+0,normal,0,-0.13439396053509856,Isolation Forest
+0,normal,0,-0.1408428232676079,Isolation Forest
+0,normal,0,-0.1107096418280541,Isolation Forest
+0,normal,1,0.02863269598745799,Isolation Forest
+0,normal,0,-0.15731498446164743,Isolation Forest
+0,normal,0,-0.04845916488611979,Isolation Forest
+0,normal,0,-0.09045829943928152,Isolation Forest
+0,normal,0,-0.1256532594649173,Isolation Forest
+0,normal,0,-0.14114637915663286,Isolation Forest
+0,normal,0,-0.16321171401157097,Isolation Forest
+0,normal,0,-0.15603020658770672,Isolation Forest
+0,normal,0,-0.043179902775573376,Isolation Forest
+0,normal,0,-0.05142782120734901,Isolation Forest
+0,normal,0,-0.154353077347759,Isolation Forest
+0,normal,0,-0.15126077701524643,Isolation Forest
+0,normal,0,-0.14128917479479658,Isolation Forest
+0,normal,0,-0.14586953526345187,Isolation Forest
+0,normal,0,-0.16460091984859693,Isolation Forest
+0,normal,0,-0.030462931637898816,Isolation Forest
+0,normal,0,-0.14580594736439784,Isolation Forest
+0,normal,0,-0.15023594623385217,Isolation Forest
+0,normal,0,-0.09530148921006654,Isolation Forest
+0,normal,0,-0.1486686349067145,Isolation Forest
+0,normal,0,-0.10834735571522647,Isolation Forest
+0,normal,0,-0.17965425360994974,Isolation Forest
+1,invalid_age_range,1,0.08457887673870845,Isolation Forest
+1,extreme_enrollment,1,0.06234588246639816,Isolation Forest
+0,normal,0,-0.10298080337396526,Isolation Forest
+0,normal,0,-0.17009827388406845,Isolation Forest
+0,normal,0,-0.13084956011027687,Isolation Forest
+0,normal,0,-0.04571062820943428,Isolation Forest
+0,normal,0,-0.04991446515852627,Isolation Forest
+0,normal,0,-0.175436760839919,Isolation Forest
+0,normal,0,-0.1466340441897449,Isolation Forest
+0,normal,0,-0.007050481436544853,Isolation Forest
+0,normal,0,-0.05526503646536385,Isolation Forest
+0,normal,0,-0.17053796244549985,Isolation Forest
+0,normal,0,-0.15054951627792756,Isolation Forest
+0,normal,0,-0.11814348824509902,Isolation Forest
+0,normal,0,-0.11584786558869015,Isolation Forest
+0,normal,0,-0.16108664405235634,Isolation Forest
+0,normal,0,-0.1330538922064058,Isolation Forest
+0,normal,0,-0.11140437982407048,Isolation Forest
+0,normal,0,-0.08155905634520738,Isolation Forest
+0,normal,0,-0.07976439073722386,Isolation Forest
+0,normal,0,-0.16789701061041318,Isolation Forest
+0,normal,0,-0.18149296304070783,Isolation Forest
+0,normal,0,-0.16226424792831506,Isolation Forest
+0,normal,0,-0.11913043159854758,Isolation Forest
+0,normal,0,-0.12884383061486732,Isolation Forest
+0,normal,0,-0.15409332538572784,Isolation Forest
+0,normal,0,-0.1147025416602041,Isolation Forest
+0,normal,0,-0.07887340941836785,Isolation Forest
+0,normal,0,-0.11789715550468327,Isolation Forest
+0,normal,0,-0.18256673706873727,Isolation Forest
+0,normal,0,-0.10884962550453542,Isolation Forest
+0,normal,0,-0.14729555483258688,Isolation Forest
+0,normal,0,-0.13669270038998732,Isolation Forest
+0,normal,0,-0.15855841092072537,Isolation Forest
+0,normal,0,-0.1541096659946523,Isolation Forest
+0,normal,0,-0.14414707491150536,Isolation Forest
+0,normal,0,-0.13253845429278654,Isolation Forest
+0,normal,0,-0.13930657092979232,Isolation Forest
+0,normal,0,-0.03586877140902689,Isolation Forest
+0,normal,0,-0.14355411595713408,Isolation Forest
+0,normal,0,-0.10955499275695518,Isolation Forest
+0,normal,0,-0.16718163490274474,Isolation Forest
+0,normal,0,-0.13790803937700413,Isolation Forest
+1,extreme_enrollment,1,0.10914189664538876,Isolation Forest
+0,normal,0,-0.13654088493140237,Isolation Forest
+0,normal,0,-0.1359931701992355,Isolation Forest
+0,normal,0,-0.09795817168524978,Isolation Forest
+0,normal,0,-0.12603650289490792,Isolation Forest
+0,normal,0,-0.13291712366970243,Isolation Forest
+0,normal,0,-0.1385714771946845,Isolation Forest
+0,normal,0,-0.012950491871340453,Isolation Forest
+0,normal,0,-0.08997722003145159,Isolation Forest
+0,normal,0,-0.0856984746166854,Isolation Forest
+0,normal,0,-0.15165553280231736,Isolation Forest
+0,normal,0,-0.1297787237577943,Isolation Forest
+0,normal,0,-0.049832053064362,Isolation Forest
+0,normal,0,-0.1240389498068743,Isolation Forest
+0,normal,0,-0.16812286160138418,Isolation Forest
+0,normal,0,-0.15225811053744231,Isolation Forest
+0,normal,0,-0.1741239511666704,Isolation Forest
+0,normal,0,-0.17563313505610795,Isolation Forest
+0,normal,0,-0.056213770674703345,Isolation Forest
+0,normal,0,-0.16504149639330018,Isolation Forest
+0,normal,0,-0.04305168445195906,Isolation Forest
+0,normal,0,-0.0752124875972987,Isolation Forest
+0,normal,0,-0.16552870608134912,Isolation Forest
+0,normal,0,-0.042075698566639064,Isolation Forest
+0,normal,0,-0.102589247855433,Isolation Forest
+0,normal,0,-0.14266293435935434,Isolation Forest
+0,normal,0,-0.08399161640563046,Isolation Forest
+0,normal,0,-0.13963677644514766,Isolation Forest
+0,normal,0,-0.08235349030244093,Isolation Forest
+0,normal,0,-0.14882039795501928,Isolation Forest
+0,normal,0,-0.11461920126279401,Isolation Forest
+0,normal,0,-0.0793258732668275,Isolation Forest
+0,normal,0,-0.1540902393927826,Isolation Forest
+0,normal,0,-0.057107611326179364,Isolation Forest
+0,normal,0,-0.057518499256650646,Isolation Forest
+0,normal,0,-0.1645705940546106,Isolation Forest
+0,normal,1,0.03022135101868484,Isolation Forest
+0,normal,0,-0.1478288629716472,Isolation Forest
+1,invalid_age_range,1,0.11220049545942268,Isolation Forest
+0,normal,0,-0.09592763563151302,Isolation Forest
+1,extreme_duration,1,0.09078328766620014,Isolation Forest
+0,normal,0,-0.16182049669091092,Isolation Forest
+1,invalid_age_range,1,0.03230323976098448,Isolation Forest
+1,extreme_enrollment,1,0.11662021844167725,Isolation Forest
+0,normal,0,-0.012564770051453733,Isolation Forest
+0,normal,0,-0.15484632890862499,Isolation Forest
+0,normal,0,-0.10941612538995726,Isolation Forest
+0,normal,0,-0.15256373231074133,Isolation Forest
+1,invalid_age_range,1,0.07065365709231874,Isolation Forest
+0,normal,0,-0.15690332182326455,Isolation Forest
+0,normal,0,-0.09008031851066606,Isolation Forest
+0,normal,0,-0.16271302986527048,Isolation Forest
+1,extreme_duration,1,0.07583432877822571,Isolation Forest
+1,extreme_enrollment,1,0.12717547878456759,Isolation Forest
+0,normal,0,-0.17531937826859584,Isolation Forest
+0,normal,0,-0.14309456573236473,Isolation Forest
+0,normal,0,-0.14428431486563564,Isolation Forest
+0,normal,0,-0.08908989287565278,Isolation Forest
+0,normal,0,-0.16242590555069464,Isolation Forest
+0,normal,0,-0.16302306487079815,Isolation Forest
+0,normal,0,-0.1224712929763635,Isolation Forest
+0,normal,0,-0.16945344994616612,Isolation Forest
+0,normal,0,-0.13721660351401999,Isolation Forest
+0,normal,0,-0.17081269801423704,Isolation Forest
+0,normal,0,-0.08834956398150934,Isolation Forest
+0,normal,0,-0.12052675086003117,Isolation Forest
+0,normal,0,-0.1716272877576272,Isolation Forest
+0,normal,0,-0.1282023747580638,Isolation Forest
+0,normal,0,-0.0749171016122766,Isolation Forest
+0,normal,0,-0.03982145541845339,Isolation Forest
+0,normal,0,-0.09770998798485603,Isolation Forest
+0,normal,0,-0.13948569620078893,Isolation Forest
+0,normal,0,-0.1186890997076685,Isolation Forest
+0,normal,0,-0.17158121531295734,Isolation Forest
+0,normal,1,0.0029934502555244435,Isolation Forest
+0,normal,0,-0.16550124768509838,Isolation Forest
+0,normal,0,-0.01704421764280617,Isolation Forest
+0,normal,0,-0.1620939185270892,Isolation Forest
+0,normal,0,-0.1507759660413593,Isolation Forest
+0,normal,0,-0.09693586871965959,Isolation Forest
+0,normal,0,-0.1463010925713804,Isolation Forest
+0,normal,0,-0.15035057351482378,Isolation Forest
+0,normal,0,-0.0785074153588311,Isolation Forest
+0,normal,0,-0.08408837676913788,Isolation Forest
+0,normal,0,-0.13087386783846,Isolation Forest
+0,normal,0,-0.1715049539973968,Isolation Forest
+0,normal,0,-0.16187264788713707,Isolation Forest
+0,normal,0,-0.10441308860184945,Isolation Forest
+0,normal,0,-0.059834743463432316,Isolation Forest
+0,normal,0,-0.09733813179389073,Isolation Forest
+0,normal,0,-0.10710907626277938,Isolation Forest
+0,normal,0,-0.13372854383603267,Isolation Forest
+1,extreme_enrollment,1,0.10157606746988401,Isolation Forest
+0,normal,0,-0.14762550732851515,Isolation Forest
+0,normal,0,-0.1698666282040251,Isolation Forest
+0,normal,0,-0.15619136647782267,Isolation Forest
+0,normal,0,-0.1781791152885886,Isolation Forest
+1,extreme_duration,1,0.11548266567834975,Isolation Forest
+0,normal,0,-0.1397216442736356,Isolation Forest
+0,normal,0,-0.029603543983265035,Isolation Forest
+0,normal,0,-0.12254316630548251,Isolation Forest
+0,normal,0,-0.18064381911578264,Isolation Forest
+0,normal,0,-0.16157677230856643,Isolation Forest
+0,normal,0,-0.06521905250504734,Isolation Forest
+1,invalid_age_range,1,0.11977916143647671,Isolation Forest
+0,normal,0,-0.10509714633812656,Isolation Forest
+0,normal,0,-0.14773568721450092,Isolation Forest
+0,normal,0,-0.16075585283494298,Isolation Forest
+0,normal,1,0.021316854401406626,Isolation Forest
+1,extreme_enrollment,1,0.07846753844864529,Isolation Forest
+0,normal,0,-0.14003462383390314,Isolation Forest
+0,normal,0,-0.08681469298271816,Isolation Forest
+1,extreme_enrollment,1,0.10463973891409373,Isolation Forest
+0,normal,0,-0.18011082314411936,Isolation Forest
+0,normal,0,-0.09487267846242109,Isolation Forest
+0,normal,0,-0.09864110070632798,Isolation Forest
+0,normal,0,-0.05755560045232422,Isolation Forest
+0,normal,0,-0.14219629880275358,Isolation Forest
+0,normal,0,-0.12857337079007364,Isolation Forest
+0,normal,0,-0.08504733589975766,Isolation Forest
+0,normal,0,-0.1215709710255588,Isolation Forest
+0,normal,0,-0.12877970035903474,Isolation Forest
+0,normal,0,-0.17484726863565037,Isolation Forest
+0,normal,0,-0.0811551846938579,Isolation Forest
+0,normal,0,-0.022034195440226334,Isolation Forest
+0,normal,0,-0.1477720548000948,Isolation Forest
+0,normal,0,-0.16497707355308788,Isolation Forest
+0,normal,0,-0.14210591406377215,Isolation Forest
+0,normal,0,-0.13411679427038564,Isolation Forest
+0,normal,0,-0.14704702657810725,Isolation Forest
+0,normal,0,-0.13825027735470058,Isolation Forest
+0,normal,0,-0.10709507986112493,Isolation Forest
+1,invalid_age_range,1,0.07037278906559419,Isolation Forest
+0,normal,0,-0.16986188457148782,Isolation Forest
+0,normal,0,-0.14717320610157975,Isolation Forest
+0,normal,0,-0.12915785061943663,Isolation Forest
+0,normal,0,-0.07068408700669582,Isolation Forest
+0,normal,0,-0.1347544474129878,Isolation Forest
+0,normal,0,-0.11916366709568676,Isolation Forest
+0,normal,0,-0.04069591021061458,Isolation Forest
+0,normal,0,-0.11424149688382895,Isolation Forest
+0,normal,0,-0.1774011995817984,Isolation Forest
+0,normal,0,-0.0732534945744,Isolation Forest
+0,normal,0,-0.11363363440695495,Isolation Forest
+0,normal,0,-0.13242649244530053,Isolation Forest
+0,normal,0,-0.12524440918352298,Isolation Forest
+0,normal,0,-0.14516356363918181,Isolation Forest
+0,normal,0,-0.10664183519494397,Isolation Forest
+0,normal,0,-0.004080948471963386,Isolation Forest
+0,normal,0,-0.046491667486170285,Isolation Forest
+0,normal,0,-0.13232662137167744,Isolation Forest
+0,normal,0,-0.008876429156424281,Isolation Forest
+0,normal,0,-0.0560524009774811,Isolation Forest
+0,normal,0,-0.08248453469005168,Isolation Forest
+0,normal,0,-0.01978481888440764,Isolation Forest
+0,normal,0,-0.04447553426829898,Isolation Forest
+0,normal,0,-0.13111655640511238,Isolation Forest
+0,normal,0,-0.18045177064287976,Isolation Forest
+0,normal,0,-0.03317168571405105,Isolation Forest
+0,normal,0,-0.1619665129992417,Isolation Forest
+0,normal,0,-0.06288286772976615,Isolation Forest
+0,normal,0,-0.11358025692436202,Isolation Forest
+0,normal,0,-0.12988951409545246,Isolation Forest
+0,normal,0,-0.16186299001065085,Isolation Forest
+0,normal,0,-0.09866914044540187,Isolation Forest
+1,extreme_duration,1,0.04385408315640171,Isolation Forest
+0,normal,0,-0.15425211923975496,Isolation Forest
+0,normal,0,-0.14376140596175496,Isolation Forest
+0,normal,0,-0.09012562328030915,Isolation Forest
+0,normal,0,-0.06417738208077672,Isolation Forest
+0,normal,0,-0.11171592210990333,Isolation Forest
+0,normal,0,-0.07663421025539485,Isolation Forest
+1,invalid_age_range,1,0.05708013016958047,Isolation Forest
+0,normal,0,-0.10999311855596777,Isolation Forest
+0,normal,0,-0.14293832469278256,Isolation Forest
+0,normal,0,-0.17297265618001734,Isolation Forest
+0,normal,0,-0.12877841526008205,Isolation Forest
+0,normal,0,-0.11125944277335575,Isolation Forest
+0,normal,0,-0.13960638300128536,Isolation Forest
+0,normal,0,-0.0511334814722868,Isolation Forest
+0,normal,0,-0.1384913023199429,Isolation Forest
+0,normal,0,-0.16583985272236695,Isolation Forest
+0,normal,0,-0.06449022376966551,Isolation Forest
+0,normal,0,-0.1063971455610202,Isolation Forest
+0,normal,0,-0.11403496852623707,Isolation Forest
+0,normal,0,-0.15269692598153572,Isolation Forest
+0,normal,0,-0.17268534454513973,Isolation Forest
+0,normal,0,-0.05540809706635075,Isolation Forest
+0,normal,0,-0.1721321863172383,Isolation Forest
+0,normal,0,-0.10291731226779866,Isolation Forest
+0,normal,0,-0.13172619837353117,Isolation Forest
+0,normal,1,0.1364989362756195,Isolation Forest
+0,normal,0,-0.04608032173156951,Isolation Forest
+0,normal,0,-0.12241462734015762,Isolation Forest
+0,normal,0,-0.17564611587710127,Isolation Forest
+0,normal,0,-0.13518868657833055,Isolation Forest
+0,normal,0,-0.14469075755851418,Isolation Forest
+0,normal,0,-0.12410959054995951,Isolation Forest
+0,normal,0,-0.12693588330393962,Isolation Forest
+0,normal,1,0.026506555392514564,Isolation Forest
+0,normal,0,-0.11476233410305414,Isolation Forest
+0,normal,1,0.014783968246393275,Isolation Forest
+0,normal,0,-0.14225862334317985,Isolation Forest
+0,normal,0,-0.018993713812183288,Isolation Forest
+0,normal,0,-0.08381590014312162,Isolation Forest
+0,normal,0,-0.13218642529709707,Isolation Forest
+0,normal,0,-0.05040671115440898,Isolation Forest
+0,normal,0,-0.13656116192259043,Isolation Forest
+0,normal,0,-0.14364403691541716,Isolation Forest
+0,normal,0,-0.16019211108421927,Isolation Forest
+0,normal,0,-0.04936788301433015,Isolation Forest
+0,normal,0,-0.16218447113460127,Isolation Forest
+0,normal,0,-0.17669426939109728,Isolation Forest
+0,normal,0,-0.09543957725725094,Isolation Forest
+0,normal,0,-0.1359213895454966,Isolation Forest
+0,normal,0,-0.06257937036242323,Isolation Forest
+0,normal,0,-0.09108841635333598,Isolation Forest
+0,normal,0,-0.043447241426342154,Isolation Forest
+0,normal,0,-0.062336597725151766,Isolation Forest
+0,normal,0,-0.16482440147595118,Isolation Forest
+0,normal,0,-0.12465307558991001,Isolation Forest
+0,normal,0,-0.1738495070497717,Isolation Forest
+0,normal,0,-0.08781241955685493,Isolation Forest
+0,normal,0,-0.10618661765361981,Isolation Forest
+0,normal,0,-0.07166705272901203,Isolation Forest
+0,normal,0,-0.13529250683670413,Isolation Forest
+0,normal,0,-0.10756904200177125,Isolation Forest
+0,normal,0,-0.12848565073527235,Isolation Forest
+0,normal,0,-0.025549015144067044,Isolation Forest
+1,invalid_age_range,1,0.07476286126504561,Isolation Forest
+0,normal,0,-0.08652788116057969,Isolation Forest
+0,normal,0,-0.10426592092976678,Isolation Forest
+0,normal,0,-0.1479238233590815,Isolation Forest
+0,normal,0,-0.15636834877960132,Isolation Forest
+0,normal,0,-0.1205683000469337,Isolation Forest
+0,normal,0,-0.03989229568916597,Isolation Forest
+0,normal,0,-0.0514798877620013,Isolation Forest
+0,normal,0,-0.08224794248424344,Isolation Forest
+0,normal,0,-0.14992956820416314,Isolation Forest
+0,normal,1,0.05321935565743652,Isolation Forest
+0,normal,0,-0.0024946160668817274,Isolation Forest
+0,normal,0,-0.13827955487058824,Isolation Forest
+0,normal,0,-0.04987102566995283,Isolation Forest
+0,normal,0,-0.15704993426510266,Isolation Forest
+0,normal,0,-0.14419215490117043,Isolation Forest
+0,normal,0,-0.1427703754095646,Isolation Forest
+0,normal,0,-0.13918664225990124,Isolation Forest
+0,normal,0,-0.1638120520269309,Isolation Forest
+0,normal,0,-0.09406654426482403,Isolation Forest
+0,normal,0,-0.0990360893062901,Isolation Forest
+0,normal,0,-0.10238054829070364,Isolation Forest
+0,normal,0,-0.15459282137625668,Isolation Forest
+0,normal,0,-0.05866394670902797,Isolation Forest
+0,normal,0,-0.18020922923429855,Isolation Forest
+0,normal,1,0.0391375549271733,Isolation Forest
+0,normal,0,-0.015685730379079055,Isolation Forest
+0,normal,0,-0.16437770817598407,Isolation Forest
+0,normal,0,-0.16200264456956487,Isolation Forest
+1,extreme_duration,1,0.10948014036981923,Isolation Forest
+1,invalid_age_range,1,0.045989097315586314,Isolation Forest
+0,normal,0,-0.14713829375523552,Isolation Forest
+0,normal,0,-0.02351932200004858,Isolation Forest
+0,normal,0,-0.16392645910829445,Isolation Forest
+0,normal,0,-0.0610779591272278,Isolation Forest
+0,normal,0,-0.08213753521455958,Isolation Forest
+0,normal,1,0.07386286896258465,Isolation Forest
+0,normal,0,-0.16031401726091776,Isolation Forest
+0,normal,0,-0.18314634188066597,Isolation Forest
+0,normal,0,-0.11383602709539686,Isolation Forest
+0,normal,0,-0.15157607144338048,Isolation Forest
+0,normal,0,-0.14329722588707916,Isolation Forest
+0,normal,0,-0.1700203065168645,Isolation Forest
+0,normal,0,-0.11624952948179285,Isolation Forest
+0,normal,0,-0.12895152867484905,Isolation Forest
+0,normal,0,-0.15774176915869625,Isolation Forest
+0,normal,0,-0.1212980756347154,Isolation Forest
+0,normal,0,-0.1525510674334581,Isolation Forest
+0,normal,0,-0.12857846022090974,Isolation Forest
+0,normal,0,-0.14009365881819635,Isolation Forest
+0,normal,0,-0.1616772790431506,Isolation Forest
+0,normal,0,-0.13832242430208658,Isolation Forest
+0,normal,0,-0.11852244391593297,Isolation Forest
+0,normal,0,-0.14148074512926684,Isolation Forest
+0,normal,0,-0.10450966135005196,Isolation Forest
+0,normal,0,-0.011741715253167806,Isolation Forest
+0,normal,0,-0.1334800824284783,Isolation Forest
+0,normal,0,-0.14179731005295843,Isolation Forest
+0,normal,0,-0.12898605408619784,Isolation Forest
+0,normal,0,-0.07147032516976326,Isolation Forest
+0,normal,0,-0.020245182947713602,Isolation Forest
+0,normal,0,-0.16783420108430025,Isolation Forest
+0,normal,0,-0.15118538268657594,Isolation Forest
+1,extreme_duration,1,0.12039025510655332,Isolation Forest
+0,normal,0,-0.1564629746076116,Isolation Forest
+0,normal,1,0.03738594781976701,Isolation Forest
+0,normal,0,-0.05815119727741114,Isolation Forest
+0,normal,0,-0.15392685258574246,Isolation Forest
+0,normal,0,-0.17951569439204995,Isolation Forest
+0,normal,0,-0.14903085228538415,Isolation Forest
+0,normal,0,-0.10273548625141854,Isolation Forest
+0,normal,0,-0.16404061638260337,Isolation Forest
+0,normal,0,-0.148946490320909,Isolation Forest
+0,normal,0,-0.09072195112795817,Isolation Forest
+1,extreme_duration,1,0.12764161722850853,Isolation Forest
+0,normal,0,-0.1397992613194307,Isolation Forest
+0,normal,0,-0.14275454522797493,Isolation Forest
+0,normal,0,-0.1304829658746468,Isolation Forest
+0,normal,0,-0.16284771960381667,Isolation Forest
+0,normal,0,-0.1760555540663657,Isolation Forest
+0,normal,1,0.049013346157392834,Isolation Forest
+0,normal,0,-0.14892490548007037,Isolation Forest
+0,normal,0,-0.16603755555834132,Isolation Forest
+0,normal,0,-0.09418434762833894,Isolation Forest
+0,normal,0,-0.1444909236066838,Isolation Forest
+0,normal,0,-0.15284791845687395,Isolation Forest
+0,normal,0,-0.17216861206412593,Isolation Forest
+0,normal,0,-0.15293136796157208,Isolation Forest
+0,normal,0,-0.11307421884973018,Isolation Forest
+0,normal,0,-0.1481188512124686,Isolation Forest
+0,normal,0,-0.13091185582649822,Isolation Forest
+0,normal,0,-0.0868581383765995,Isolation Forest
+0,normal,0,-0.09615485650410693,Isolation Forest
+0,normal,0,-0.12869645401484564,Isolation Forest
+0,normal,0,-0.017151287216121802,Isolation Forest
+0,normal,0,-0.05033541445811396,Isolation Forest
+0,normal,0,-0.02846370079226912,Isolation Forest
+0,normal,0,-0.15601324589310722,Isolation Forest
+0,normal,0,-0.16390722198402963,Isolation Forest
+1,extreme_enrollment,1,0.13537279323592166,Isolation Forest
+0,normal,0,-0.06102969703638983,Isolation Forest
+0,normal,0,-0.15939232130382247,Isolation Forest
+0,normal,0,-0.11322726255058563,Isolation Forest
+0,normal,0,-0.1601783089518285,Isolation Forest
+0,normal,0,-0.11895856942930816,Isolation Forest
+0,normal,0,-0.11352659980740065,Isolation Forest
+0,normal,0,-0.15227836185579757,Isolation Forest
+0,normal,0,-0.14037489684998544,Isolation Forest
+0,normal,0,-0.15693308486199786,Isolation Forest
+0,normal,0,-0.16302945548232473,Isolation Forest
+0,normal,0,-0.08802940573470275,Isolation Forest
+0,normal,0,-0.14245667784080812,Isolation Forest
+0,normal,0,-0.05258184457857262,Isolation Forest
+0,normal,0,-0.13015119232060002,Isolation Forest
+0,normal,0,-0.12575549002344955,Isolation Forest
+0,normal,0,-0.09900390782009932,Isolation Forest
+0,normal,0,-0.11310313234392,Isolation Forest
+0,normal,0,-0.024939713165219368,Isolation Forest
+0,normal,0,-0.12280325453061425,Isolation Forest
+0,normal,0,-0.064045006005648,Isolation Forest
+0,normal,1,0.056759799537184574,Isolation Forest
+0,normal,0,-0.12933072720150723,Isolation Forest
+0,normal,0,-0.1466433323707681,Isolation Forest
+0,normal,0,-0.13389726160108378,Isolation Forest
+0,normal,1,0.018652273539976894,Isolation Forest
+0,normal,0,-0.0909382366177604,Isolation Forest
+0,normal,0,-0.12908995473758578,Isolation Forest
+0,normal,0,-0.16000572094389248,Isolation Forest
+0,normal,0,-0.15260491345208038,Isolation Forest
+0,normal,0,-0.15318025301499122,Isolation Forest
+0,normal,0,-0.164211843031982,Isolation Forest
+0,normal,0,-0.016784416930704205,Isolation Forest
+0,normal,0,-0.07394198734064766,Isolation Forest
+0,normal,1,0.01991986700366155,Isolation Forest
+0,normal,0,-0.15875021217451762,Isolation Forest
+0,normal,0,-0.06018673990496404,Isolation Forest
+0,normal,0,-0.08284790441960027,Isolation Forest
+0,normal,0,-0.16649450497168772,Isolation Forest
+0,normal,0,-0.13049377988245725,Isolation Forest
+0,normal,0,-0.1721473336767682,Isolation Forest
+0,normal,0,-0.1218160383896299,Isolation Forest
+0,normal,0,-0.17889464193167282,Isolation Forest
+0,normal,0,-0.17107791950037138,Isolation Forest
+0,normal,0,-0.05787409596855164,Isolation Forest
+0,normal,0,-0.15150357341256449,Isolation Forest
+0,normal,0,-0.12828901400566867,Isolation Forest
+0,normal,0,-0.1577770619276645,Isolation Forest
+0,normal,0,-0.17529110382558238,Isolation Forest
+0,normal,0,-0.08184844864518559,Isolation Forest
+0,normal,0,-0.1478567707330068,Isolation Forest
+0,normal,0,-0.14116964896235595,Isolation Forest
+1,extreme_duration,1,0.12365008161311086,Isolation Forest
+0,normal,0,-0.11337357485685862,Isolation Forest
+0,normal,0,-0.11176082605278276,Isolation Forest
+0,normal,0,-0.16651148245720637,Isolation Forest
+0,normal,0,-0.11085903325694413,Isolation Forest
+0,normal,0,-0.0014937208955831949,Isolation Forest
+0,normal,0,-0.10142868930252885,Isolation Forest
+0,normal,0,-0.1708300814911271,Isolation Forest
+0,normal,0,-0.12777653310869375,Isolation Forest
+0,normal,0,-0.029067117225283434,Isolation Forest
+0,normal,0,-0.08816413995354305,Isolation Forest
+0,normal,0,-0.1485556191272671,Isolation Forest
+0,normal,0,-0.11117445653828956,Isolation Forest
+0,normal,0,-0.12051922470826476,Isolation Forest
+0,normal,0,-0.16931057995251686,Isolation Forest
+0,normal,0,-0.1303999881471785,Isolation Forest
+0,normal,0,-0.12974625657841338,Isolation Forest
+0,normal,0,-0.16737806885982676,Isolation Forest
+0,normal,0,-0.12747916803229847,Isolation Forest
+0,normal,0,-0.06986058693546521,Isolation Forest
+0,normal,0,-0.09832733338400201,Isolation Forest
+0,normal,0,-0.128989441486613,Isolation Forest
+0,normal,0,-0.1295564656218362,Isolation Forest
+1,invalid_age_range,1,0.08300148296776155,Isolation Forest
+0,normal,1,0.030536317616065678,Isolation Forest
+0,normal,0,-0.16257738161770757,Isolation Forest
+0,normal,0,-0.17192441186119584,Isolation Forest
+0,normal,0,-0.148164353085959,Isolation Forest
+0,normal,0,-0.1535716507535273,Isolation Forest
+0,normal,0,-0.15994822488868482,Isolation Forest
+0,normal,0,-0.13545663958975102,Isolation Forest
+1,extreme_duration,1,0.034607030008610096,Isolation Forest
+0,normal,0,-0.1778109561297983,Isolation Forest
+0,normal,0,-0.06388917098109415,Isolation Forest
+0,normal,0,-0.09410945416244926,Isolation Forest
+0,normal,0,-0.14322985287686907,Isolation Forest
+0,normal,0,-0.1078778561631018,Isolation Forest
+1,invalid_age_range,1,0.12211323525998674,Isolation Forest
+0,normal,0,-0.14150786953360794,Isolation Forest
+0,normal,0,-0.16870118268995993,Isolation Forest
+0,normal,0,-0.1465653500314693,Isolation Forest
+0,normal,0,-0.17225287081002677,Isolation Forest
+0,normal,0,-0.06946076192320771,Isolation Forest
+0,normal,0,-0.1122146639236491,Isolation Forest
+1,extreme_duration,1,0.10898113016975619,Isolation Forest
+0,normal,0,-0.05642773748792351,Isolation Forest
+0,normal,0,-0.14456916018543525,Isolation Forest
+0,normal,0,-0.1688818382496382,Isolation Forest
+0,normal,0,-0.0831299426073902,Isolation Forest
+0,normal,0,-0.11894029338145173,Isolation Forest
+0,normal,0,-0.06574366713242674,Isolation Forest
+0,normal,0,-0.049748704797769494,Isolation Forest
+0,normal,0,-0.17080189877453267,Isolation Forest
+0,normal,0,-0.0863234671063085,Isolation Forest
+0,normal,0,-0.18143698037715517,Isolation Forest
+0,normal,0,-0.1230161964969525,Isolation Forest
+0,normal,1,0.0009648033446870707,Isolation Forest
+0,normal,0,-0.17288173387515232,Isolation Forest
+0,normal,0,-0.1482625344232864,Isolation Forest
+0,normal,0,-0.1496525320031079,Isolation Forest
+0,normal,0,-0.05487297346841191,Isolation Forest
+0,normal,0,-0.14305755568452266,Isolation Forest
+0,normal,0,-0.16102060977449179,Isolation Forest
+0,normal,0,-0.07082188006511048,Isolation Forest
+0,normal,0,-0.02048758298647335,Isolation Forest
+0,normal,0,-0.09491357054311567,Isolation Forest
+0,normal,0,-0.055306826422022115,Isolation Forest
+0,normal,0,-0.04300092255089427,Isolation Forest
+0,normal,1,0.012128773878551269,Isolation Forest
+0,normal,0,-0.12298599286672929,Isolation Forest
+0,normal,0,-0.12082806522553391,Isolation Forest
+0,normal,0,-0.14523653322677443,Isolation Forest
+0,normal,0,-0.11714399201775905,Isolation Forest
+0,normal,0,-0.08262851784739872,Isolation Forest
+0,normal,0,-0.11928197884847896,Isolation Forest
+1,extreme_duration,1,0.05753075336634961,Isolation Forest
+0,normal,0,-0.15896198201248346,Isolation Forest
+1,extreme_duration,1,0.08376784601997012,Isolation Forest
+0,normal,0,-0.15463520918510942,Isolation Forest
+0,normal,1,0.06982745410397151,Isolation Forest
+0,normal,0,-0.06670359034174544,Isolation Forest
+0,normal,0,-0.06976941762963318,Isolation Forest
+0,normal,0,-0.0028994926911329877,Isolation Forest
+0,normal,0,-0.09886133901840338,Isolation Forest
+0,normal,0,-0.12723842936965712,Isolation Forest
+0,normal,0,-0.17789151327561153,Isolation Forest
+0,normal,0,-0.14040876602209496,Isolation Forest
+0,normal,0,-0.06593186239692572,Isolation Forest
+0,normal,0,-0.16553500438890795,Isolation Forest
+0,normal,0,-0.004334406978306116,Isolation Forest
+0,normal,0,-0.15479560052353675,Isolation Forest
+0,normal,0,-0.014820785442642648,Isolation Forest
+0,normal,0,-0.051144255232032254,Isolation Forest
+0,normal,0,-0.12003132076046108,Isolation Forest
+0,normal,0,-0.10932624733373952,Isolation Forest
+0,normal,0,-0.09886765470581593,Isolation Forest
+0,normal,0,-0.16063800303043063,Isolation Forest
+0,normal,0,-0.042630964860733256,Isolation Forest
+0,normal,0,-0.029400149744598147,Isolation Forest
+0,normal,0,-0.05673565782542889,Isolation Forest
+0,normal,0,-0.10292755445209384,Isolation Forest
+0,normal,0,-0.14730055804621922,Isolation Forest
+0,normal,0,-0.13005976831828664,Isolation Forest
+0,normal,0,-0.04083845900876859,Isolation Forest
+0,normal,0,-0.055848558499891676,Isolation Forest
+0,normal,0,-0.18152795929099996,Isolation Forest
+0,normal,0,-0.022226427036702745,Isolation Forest
+0,normal,1,0.04304048697320395,Isolation Forest
+0,normal,0,-0.15878105419312338,Isolation Forest
+0,normal,0,-0.11546298931610066,Isolation Forest
+0,normal,0,-0.15320826192018666,Isolation Forest
+0,normal,0,-0.022914256393396615,Isolation Forest
+0,normal,0,-0.12895317761947067,Isolation Forest
+0,normal,0,-0.1315173424087665,Isolation Forest
+0,normal,0,-0.05326886055241087,Isolation Forest
+0,normal,0,-0.13980739127820235,Isolation Forest
+0,normal,0,-0.12043269255024597,Isolation Forest
+0,normal,0,-0.15255733666297316,Isolation Forest
+0,normal,0,-0.11275998883333971,Isolation Forest
+0,normal,0,-0.14592827794909752,Isolation Forest
+0,normal,0,-0.1739113560357708,Isolation Forest
+0,normal,0,-0.16434517387544684,Isolation Forest
+1,invalid_age_range,1,0.07112579858672163,Isolation Forest
+0,normal,1,0.08679267186055872,Isolation Forest
+0,normal,0,-0.09866740904462062,Isolation Forest
+0,normal,0,-0.10141365782732087,Isolation Forest
+0,normal,0,-0.12335507610092394,Isolation Forest
+0,normal,0,-0.1451637873371413,Isolation Forest
+0,normal,0,-0.08883632510629191,Isolation Forest
+0,normal,0,-0.14781529103200347,Isolation Forest
+0,normal,0,-0.08864243672336275,Isolation Forest
+0,normal,0,-0.12129908193114847,Isolation Forest
+0,normal,0,-0.13596224876886953,Isolation Forest
+0,normal,0,-0.14636190636419222,Isolation Forest
+1,extreme_enrollment,1,0.08579390236512108,Isolation Forest
+0,normal,0,-0.08891724904740855,Isolation Forest
+0,normal,0,-0.1341900375739415,Isolation Forest
+0,normal,0,-0.04642639326247877,Isolation Forest
+0,normal,0,-0.1516244541449196,Isolation Forest
+0,normal,0,-0.14713344604352369,Isolation Forest
+0,normal,0,-0.15055020863499463,Isolation Forest
+0,normal,0,-0.13719352304469312,Isolation Forest
+0,normal,0,-0.0469939767551506,Isolation Forest
+0,normal,0,-0.04150991469880427,Isolation Forest
+0,normal,0,-0.004326795029693575,Isolation Forest
+0,normal,0,-0.04997389788728723,Isolation Forest
+0,normal,0,-0.046290925246702086,Isolation Forest
+0,normal,0,-0.15742552720095088,Isolation Forest
+0,normal,0,-0.15604249220186078,Isolation Forest
+0,normal,0,-0.07363529749731568,Isolation Forest
+0,normal,0,-0.14157906965160955,Isolation Forest
+0,normal,0,-0.07626973244384894,Isolation Forest
+0,normal,0,-0.15360752880102824,Isolation Forest
+0,normal,0,-0.096195235857086,Isolation Forest
+0,normal,0,-0.15568188493137358,Isolation Forest
+0,normal,0,-0.15052567227122488,Isolation Forest
+0,normal,0,-0.1233078705632073,Isolation Forest
+0,normal,0,-0.0893721893550034,Isolation Forest
+0,normal,0,-0.15545958502249385,Isolation Forest
+0,normal,0,-0.11070082289138788,Isolation Forest
+0,normal,0,-0.04896970972683656,Isolation Forest
+0,normal,0,-0.1669787650739311,Isolation Forest
+0,normal,0,-0.0586062168722038,Isolation Forest
+0,normal,0,-0.13516856989666642,Isolation Forest
+0,normal,0,-0.14100508345105967,Isolation Forest
+0,normal,0,-0.1469954179087432,Isolation Forest
+0,normal,0,-0.1670973082236683,Isolation Forest
+0,normal,0,-0.02784968228998419,Isolation Forest
+0,normal,0,-0.130604213228262,Isolation Forest
+0,normal,0,-0.15152832013350448,Isolation Forest
+0,normal,0,-0.1315126904224836,Isolation Forest
+0,normal,0,-0.17756947234765325,Isolation Forest
+0,normal,0,-0.10180814178884179,Isolation Forest
+0,normal,0,-0.1333243667402666,Isolation Forest
+0,normal,0,-0.14349603097280245,Isolation Forest
+0,normal,0,-0.17160102435552355,Isolation Forest
+0,normal,0,-0.1636422018287536,Isolation Forest
+0,normal,0,-0.1589015113165556,Isolation Forest
+0,normal,0,-0.04288935860547605,Isolation Forest
+0,normal,0,-0.17583814476681625,Isolation Forest
+0,normal,0,-0.15696837339403913,Isolation Forest
+0,normal,0,-0.08218276231107435,Isolation Forest
+0,normal,0,-0.11606597309957117,Isolation Forest
+0,normal,0,-0.16902830155923343,Isolation Forest
+0,normal,0,-0.17562567709174037,Isolation Forest
+0,normal,0,-0.06716700016194965,Isolation Forest
+0,normal,0,-0.06971402208426342,Isolation Forest
+0,normal,0,-0.1583804248925399,Isolation Forest
+0,normal,0,-0.14023526747137283,Isolation Forest
+0,normal,0,-0.1033080922338161,Isolation Forest
+0,normal,0,-0.15809541655305925,Isolation Forest
+0,normal,0,-0.15315722762147238,Isolation Forest
+0,normal,0,-0.12215574780046434,Isolation Forest
+0,normal,0,-0.11562958298679066,Isolation Forest
+0,normal,0,-0.16850859566641324,Isolation Forest
+0,normal,0,-0.10024743058067964,Isolation Forest
+1,invalid_age_range,1,0.05334477247214109,Isolation Forest
+0,normal,0,-0.132115932927671,Isolation Forest
+0,normal,0,-0.15331933153699634,Isolation Forest
+0,normal,0,-0.12627694213242996,Isolation Forest
+0,normal,0,-0.15531940154019153,Isolation Forest
+0,normal,0,-0.05706916620402769,Isolation Forest
+0,normal,0,-0.1115233878403688,Isolation Forest
+0,normal,0,-0.09760691640711128,Isolation Forest
+1,extreme_enrollment,1,0.07998744646287381,Isolation Forest
+0,normal,0,-0.14374399481032984,Isolation Forest
+0,normal,0,-0.1794099950663937,Isolation Forest
+0,normal,0,-0.13977160757430523,Isolation Forest
+0,normal,0,-0.14681899433697682,Isolation Forest
+1,extreme_enrollment,1,0.15184751377558914,Isolation Forest
+0,normal,0,-0.09081243289020408,Isolation Forest
+0,normal,0,-0.15262579573673785,Isolation Forest
+0,normal,0,-0.100993342500653,Isolation Forest
+0,normal,0,-0.14029489325737954,Isolation Forest
+0,normal,0,-0.14493012575634262,Isolation Forest
+0,normal,0,-0.14277843446246374,Isolation Forest
+0,normal,0,-0.1553435860918616,Isolation Forest
+0,normal,0,-0.17065383322992794,Isolation Forest
+0,normal,0,-0.16351644853336877,Isolation Forest
+0,normal,0,-0.08676823996485522,Isolation Forest
+0,normal,0,-0.16266385901837083,Isolation Forest
+0,normal,0,-0.09753576447634671,Isolation Forest
+0,normal,0,-0.10377379717949753,Isolation Forest
+0,normal,0,-0.057770963784766316,Isolation Forest
+0,normal,0,-0.11133465449525415,Isolation Forest
+0,normal,0,-0.13725129169097006,Isolation Forest
+0,normal,0,-0.039835945244149906,Isolation Forest
+0,normal,0,-0.12303321994375144,Isolation Forest
+0,normal,0,-0.07725259073619528,Isolation Forest
+0,normal,0,-0.13239713376077977,Isolation Forest
+0,normal,0,-0.12658342560039104,Isolation Forest
+0,normal,0,-0.16318566492441272,Isolation Forest
+0,normal,0,-0.12945004416970707,Isolation Forest
+0,normal,0,-0.09368349728185499,Isolation Forest
+0,normal,0,-0.1589353447620046,Isolation Forest
+0,normal,0,-0.06823107192359196,Isolation Forest
+0,normal,0,-0.13959757187772293,Isolation Forest
+0,normal,0,-0.10081139941622769,Isolation Forest
+0,normal,0,-0.12632291870115753,Isolation Forest
+0,normal,0,-0.12848603372040746,Isolation Forest
+0,normal,0,-0.1645089450279218,Isolation Forest
+0,normal,0,-0.16202099445216728,Isolation Forest
+0,normal,0,-0.0985608041794469,Isolation Forest
+0,normal,0,-0.07296828044607678,Isolation Forest
+0,normal,0,-0.13379211261448853,Isolation Forest
+0,normal,1,0.0845377014684463,Isolation Forest
+0,normal,0,-0.037616481109277955,Isolation Forest
+0,normal,0,-0.13965298697229606,Isolation Forest
+0,normal,0,-0.1399169851046307,Isolation Forest
+0,normal,0,-0.10211223017060944,Isolation Forest
+0,normal,0,-0.16349404262276496,Isolation Forest
+0,normal,1,0.0047692885584694755,Isolation Forest
+0,normal,0,-0.15047813929014558,Isolation Forest
+0,normal,0,-0.06698682549024915,Isolation Forest
+0,normal,0,-0.16933275685194604,Isolation Forest
+0,normal,0,-0.1527341693542058,Isolation Forest
+0,normal,0,-0.08743898062116862,Isolation Forest
+0,normal,0,-0.14104753490428784,Isolation Forest
+0,normal,0,-0.13324917302799477,Isolation Forest
+0,normal,0,-0.06891426237166948,Isolation Forest
+0,normal,0,-0.17732661607772804,Isolation Forest
+0,normal,0,-0.05841726846920603,Isolation Forest
+0,normal,0,-0.0473296654463623,Isolation Forest
+0,normal,0,-0.14186214128358132,Isolation Forest
+0,normal,0,-0.13319135411167293,Isolation Forest
+0,normal,0,-0.13082262941065398,Isolation Forest
+1,extreme_enrollment,1,0.08284948167246964,Isolation Forest
+0,normal,0,-0.16983432589850123,Isolation Forest
+0,normal,0,-0.11230943293480461,Isolation Forest
+0,normal,0,-0.0999929776970912,Isolation Forest
+0,normal,1,0.0054221894960047035,Isolation Forest
+0,normal,0,-0.14891020445720904,Isolation Forest
+0,normal,0,-0.14580538261358988,Isolation Forest
+0,normal,0,-0.16011170651291246,Isolation Forest
+0,normal,0,-0.0529052230734639,Isolation Forest
+0,normal,0,-0.12114633894408461,Isolation Forest
+0,normal,0,-0.10212149870427961,Isolation Forest
+0,normal,0,-0.08309840294130244,Isolation Forest
+0,normal,0,-0.07912521244783399,Isolation Forest
+0,normal,0,-0.1356859180408993,Isolation Forest
+0,normal,0,-0.1711849473840995,Isolation Forest
+0,normal,0,-0.13283070359138716,Isolation Forest
+0,normal,0,-0.05584848280021326,Isolation Forest
+0,normal,0,-0.17772992802452614,Isolation Forest
+0,normal,0,-0.07332725975336923,Isolation Forest
+0,normal,0,-0.06683421837930525,Isolation Forest
+0,normal,1,0.029464063632120507,Isolation Forest
+0,normal,1,0.07914881565325138,Isolation Forest
+0,normal,0,-0.059209190891626906,Isolation Forest
+0,normal,0,-0.02636677027880363,Isolation Forest
+0,normal,0,-0.14579207135689704,Isolation Forest
+0,normal,0,-0.11248913317776782,Isolation Forest
+0,normal,0,-0.17263891815735344,Isolation Forest
+0,normal,0,-0.13114391687416987,Isolation Forest
+0,normal,0,-0.1328153735282887,Isolation Forest
+0,normal,0,-0.12501149147517893,Isolation Forest
+1,invalid_age_range,1,0.07101587185618152,Isolation Forest
+0,normal,0,-0.07596897845519945,Isolation Forest
+0,normal,0,-0.12794988370480886,Isolation Forest
+0,normal,0,-0.13590802814189135,Isolation Forest
+1,extreme_enrollment,1,0.08355675723462042,Isolation Forest
+0,normal,0,-0.11463052596961776,Isolation Forest
+0,normal,0,-0.1758579126400555,Isolation Forest
+0,normal,0,-0.15050824690657683,Isolation Forest
+0,normal,0,-0.05141675575328075,Isolation Forest
+0,normal,0,-0.1311651315832802,Isolation Forest
+0,normal,0,-0.17938579256454018,Isolation Forest
+1,extreme_enrollment,1,0.07563769635974704,Isolation Forest
+0,normal,0,-0.1521115850936211,Isolation Forest
+0,normal,0,-0.07615250534762791,Isolation Forest
+0,normal,0,-0.10562395464145374,Isolation Forest
+0,normal,0,-0.14783317658206413,Isolation Forest
+0,normal,0,-0.17196791410142837,Isolation Forest
+0,normal,0,-0.11519790901359372,Isolation Forest
+0,normal,0,-0.1632384807359576,Isolation Forest
+0,normal,1,0.07914739422042605,Isolation Forest
+0,normal,0,-0.052282656477079414,Isolation Forest
+0,normal,0,-0.13641819926094773,Isolation Forest
+0,normal,0,-0.13170816549404607,Isolation Forest
+0,normal,0,-0.1279209674163303,Isolation Forest
+0,normal,0,-0.09483161683652969,Isolation Forest
+0,normal,0,-0.14347711112402917,Isolation Forest
+0,normal,0,-0.15938433768621302,Isolation Forest
+0,normal,0,-0.008763495205298177,Isolation Forest
+0,normal,0,-0.11423447740355291,Isolation Forest
+0,normal,0,-0.08980836407461046,Isolation Forest
+0,normal,0,-0.14961106423547493,Isolation Forest
+0,normal,1,0.10961625352399662,Isolation Forest
+0,normal,0,-0.1292507969065465,Isolation Forest
+0,normal,0,-2.5249817672659116,One-Class SVM
+0,normal,0,-3.1659696610862476,One-Class SVM
+0,normal,0,-2.6122135361532717,One-Class SVM
+0,normal,0,-3.9599170831818924,One-Class SVM
+0,normal,0,-0.2917570730108334,One-Class SVM
+0,normal,1,0.9233513537150468,One-Class SVM
+0,normal,0,-2.521339786928362,One-Class SVM
+1,extreme_duration,1,13.364796542103985,One-Class SVM
+0,normal,0,-3.244188575871725,One-Class SVM
+0,normal,0,-1.7658533010689137,One-Class SVM
+0,normal,0,-1.72930398394527,One-Class SVM
+0,normal,0,-2.4301850457042935,One-Class SVM
+0,normal,0,-2.4142787758214332,One-Class SVM
+0,normal,0,-0.9492795623593366,One-Class SVM
+0,normal,1,0.2178743962344445,One-Class SVM
+0,normal,0,-1.4135415850295558,One-Class SVM
+1,extreme_duration,1,13.364796542041129,One-Class SVM
+1,extreme_duration,1,13.364675045848477,One-Class SVM
+0,normal,0,-0.964485894810954,One-Class SVM
+0,normal,0,-1.6225119726933777,One-Class SVM
+0,normal,0,-3.1183611466360333,One-Class SVM
+0,normal,0,-2.299994622500508,One-Class SVM
+0,normal,0,-2.073947223035068,One-Class SVM
+0,normal,0,-3.330994241656448,One-Class SVM
+0,normal,0,-1.604251999129069,One-Class SVM
+0,normal,0,-3.0324466991991734,One-Class SVM
+0,normal,0,-0.6169303085854736,One-Class SVM
+0,normal,0,-0.9815569613579651,One-Class SVM
+0,normal,0,-1.3452843725178845,One-Class SVM
+0,normal,0,-1.5931058377857656,One-Class SVM
+0,normal,0,-2.5719063607522408,One-Class SVM
+0,normal,0,-3.4670449743116087,One-Class SVM
+0,normal,0,-2.8073367060994023,One-Class SVM
+0,normal,0,-2.7837711679630637,One-Class SVM
+0,normal,0,-4.083229618299789,One-Class SVM
+0,normal,0,-1.5127855133141868,One-Class SVM
+0,normal,0,-2.206858488415678,One-Class SVM
+0,normal,0,-2.411067004076644,One-Class SVM
+1,extreme_duration,1,13.364768195290708,One-Class SVM
+0,normal,0,-3.3934894118467973,One-Class SVM
+0,normal,0,-1.4110163006876295,One-Class SVM
+0,normal,0,-3.7972935077735883,One-Class SVM
+0,normal,0,-3.7311292265786236,One-Class SVM
+0,normal,0,-0.12934499890670814,One-Class SVM
+0,normal,0,-1.619688147459108,One-Class SVM
+0,normal,0,-1.826041231282172,One-Class SVM
+0,normal,0,-2.7223743939939062,One-Class SVM
+0,normal,0,-1.0276122359863695,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-2.643052781792459,One-Class SVM
+0,normal,0,-0.689672730688887,One-Class SVM
+0,normal,0,-1.20628862648425,One-Class SVM
+0,normal,0,-1.3912542446224503,One-Class SVM
+0,normal,0,-2.0021449960593856,One-Class SVM
+0,normal,0,-2.9050924470425734,One-Class SVM
+0,normal,0,-2.6996991344457975,One-Class SVM
+0,normal,0,-2.441302563429449,One-Class SVM
+0,normal,0,-1.6418093729525758,One-Class SVM
+0,normal,1,1.889883517091814,One-Class SVM
+0,normal,0,-3.175169677368931,One-Class SVM
+0,normal,0,-2.803066538124117,One-Class SVM
+1,invalid_age_range,1,13.262898036357898,One-Class SVM
+0,normal,0,-1.8170926377692602,One-Class SVM
+0,normal,0,-2.9399445035835647,One-Class SVM
+0,normal,1,0.2709654628335123,One-Class SVM
+0,normal,0,-3.0019708660495255,One-Class SVM
+0,normal,0,-3.041913271483807,One-Class SVM
+0,normal,0,-2.606382765679758,One-Class SVM
+0,normal,0,-2.5488446712436854,One-Class SVM
+0,normal,0,-3.760689919710785,One-Class SVM
+0,normal,0,-1.7417888917535578,One-Class SVM
+0,normal,0,-2.429009469936771,One-Class SVM
+0,normal,0,-2.226536468003273,One-Class SVM
+0,normal,0,-2.2123546877175855,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-2.647631875392811,One-Class SVM
+0,normal,0,-2.291025563795424,One-Class SVM
+0,normal,0,-3.9368304181409925,One-Class SVM
+0,normal,0,-2.3323975570955344,One-Class SVM
+0,normal,0,-1.5039263956853937,One-Class SVM
+0,normal,0,-2.7250656980018846,One-Class SVM
+0,normal,0,-2.415178634568697,One-Class SVM
+0,normal,0,-3.283900291848596,One-Class SVM
+0,normal,0,-2.714843389055467,One-Class SVM
+0,normal,0,-2.6181531655101757,One-Class SVM
+0,normal,0,-1.6460080658350336,One-Class SVM
+0,normal,0,-3.669327680080535,One-Class SVM
+0,normal,0,-2.231480072166013,One-Class SVM
+0,normal,0,-2.856448227962776,One-Class SVM
+0,normal,0,-1.8780076802622343,One-Class SVM
+0,normal,0,-2.650074700911116,One-Class SVM
+0,normal,0,-2.7035738426523537,One-Class SVM
+0,normal,0,-2.8621873643338063,One-Class SVM
+0,normal,0,-1.7075573632352494,One-Class SVM
+0,normal,0,-2.779733341644917,One-Class SVM
+0,normal,0,-3.2341421830190917,One-Class SVM
+0,normal,0,-1.6159149505500814,One-Class SVM
+0,normal,0,-0.3741572806364335,One-Class SVM
+0,normal,0,-2.5236636324324966,One-Class SVM
+0,normal,0,-1.5546838886361662,One-Class SVM
+0,normal,0,-2.1064016750379224,One-Class SVM
+0,normal,0,-1.9817959052226577,One-Class SVM
+0,normal,0,-3.593877081245555,One-Class SVM
+0,normal,0,-3.147174429456083,One-Class SVM
+0,normal,0,-3.1908754456858652,One-Class SVM
+0,normal,0,-3.601283237414446,One-Class SVM
+0,normal,0,-2.4820176573303723,One-Class SVM
+0,normal,0,-2.583930166969365,One-Class SVM
+0,normal,0,-2.109725510863699,One-Class SVM
+0,normal,0,-2.978621706976419,One-Class SVM
+0,normal,0,-3.4076017877887033,One-Class SVM
+0,normal,0,-3.857048153131899,One-Class SVM
+0,normal,0,-3.5428663836678034,One-Class SVM
+0,normal,0,-2.803680073954638,One-Class SVM
+0,normal,0,-1.4700134738634194,One-Class SVM
+0,normal,0,-2.4082970586953074,One-Class SVM
+0,normal,0,-2.6232349298201676,One-Class SVM
+0,normal,0,-1.6264419621036126,One-Class SVM
+0,normal,0,-1.3996485426999143,One-Class SVM
+0,normal,0,-3.1355994680533925,One-Class SVM
+0,normal,0,-2.9358535679496036,One-Class SVM
+0,normal,0,-2.5808807512132024,One-Class SVM
+0,normal,0,-1.4078814004010738,One-Class SVM
+0,normal,0,-3.13844803154133,One-Class SVM
+0,normal,0,-3.622575892987868,One-Class SVM
+0,normal,0,-3.2848500632055675,One-Class SVM
+0,normal,0,-2.9896856805752776,One-Class SVM
+0,normal,0,-3.0825849927444295,One-Class SVM
+0,normal,0,-3.225662321607455,One-Class SVM
+0,normal,0,-2.8780762330550758,One-Class SVM
+0,normal,0,-2.1255647623956104,One-Class SVM
+0,normal,0,-0.9222273770278093,One-Class SVM
+0,normal,0,-2.2323721084729247,One-Class SVM
+0,normal,0,-2.0196636809391197,One-Class SVM
+0,normal,0,-0.7659472426292062,One-Class SVM
+0,normal,0,-2.1681840356718975,One-Class SVM
+0,normal,0,-2.0910537924857877,One-Class SVM
+0,normal,0,-2.842494850780117,One-Class SVM
+1,invalid_age_range,1,13.340518776420238,One-Class SVM
+0,normal,0,-2.844725547284991,One-Class SVM
+0,normal,0,-3.194382110878518,One-Class SVM
+0,normal,0,-3.5790562227204674,One-Class SVM
+0,normal,1,0.944746281559004,One-Class SVM
+0,normal,0,-1.3052300464851285,One-Class SVM
+0,normal,0,-2.4151529165034447,One-Class SVM
+0,normal,0,-2.92335237379611,One-Class SVM
+0,normal,0,-3.624443345229885,One-Class SVM
+0,normal,0,-0.428053265841843,One-Class SVM
+0,normal,0,-2.526587384611215,One-Class SVM
+0,normal,0,-3.0901140651000603,One-Class SVM
+0,normal,0,-3.026704454360477,One-Class SVM
+0,normal,0,-3.1488178763509325,One-Class SVM
+0,normal,0,-2.8828465880598415,One-Class SVM
+0,normal,0,-3.2103798427646097,One-Class SVM
+0,normal,0,-3.2180343984037236,One-Class SVM
+0,normal,0,-3.591648679349344,One-Class SVM
+0,normal,0,-2.648710248666667,One-Class SVM
+0,normal,0,-2.2552083845869415,One-Class SVM
+0,normal,0,-2.6834687567867483,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-3.4572517453275537,One-Class SVM
+0,normal,0,-2.843549352713783,One-Class SVM
+0,normal,0,-3.5812571437034997,One-Class SVM
+0,normal,0,-3.31229125765795,One-Class SVM
+0,normal,0,-2.8240816325457097,One-Class SVM
+0,normal,0,-2.8938641343145903,One-Class SVM
+0,normal,0,-2.0030994642354774,One-Class SVM
+0,normal,0,-2.8828563069090407,One-Class SVM
+0,normal,1,4.914959246384596,One-Class SVM
+0,normal,0,-3.569485185984309,One-Class SVM
+0,normal,0,-1.6427708458008965,One-Class SVM
+0,normal,0,-2.5811682123364292,One-Class SVM
+0,normal,0,-2.3917972046944627,One-Class SVM
+0,normal,0,-3.5054057365580995,One-Class SVM
+0,normal,0,-3.789001500059136,One-Class SVM
+0,normal,0,-3.1241706780922947,One-Class SVM
+0,normal,0,-3.8886788184630383,One-Class SVM
+0,normal,0,-3.1403086305691588,One-Class SVM
+0,normal,0,-3.282185461009636,One-Class SVM
+0,normal,0,-2.7677684673296277,One-Class SVM
+0,normal,0,-2.7921252397969525,One-Class SVM
+0,normal,0,-2.8866330968386436,One-Class SVM
+0,normal,0,-2.9870293221126794,One-Class SVM
+0,normal,1,0.5521643835773862,One-Class SVM
+0,normal,0,-2.8160937336026066,One-Class SVM
+0,normal,0,-1.0824842809958675,One-Class SVM
+0,normal,0,-2.4081072227471747,One-Class SVM
+0,normal,0,-2.18302700106741,One-Class SVM
+0,normal,0,-3.4753996232771733,One-Class SVM
+0,normal,0,-4.00876103445469,One-Class SVM
+0,normal,0,-2.8714754628037973,One-Class SVM
+0,normal,0,-3.473404313320639,One-Class SVM
+0,normal,0,-2.919497060028206,One-Class SVM
+0,normal,0,-1.1558552103097561,One-Class SVM
+0,normal,0,-3.377441407385181,One-Class SVM
+0,normal,0,-2.4853730256185127,One-Class SVM
+0,normal,0,-3.745741389097816,One-Class SVM
+0,normal,0,-3.342246376390282,One-Class SVM
+0,normal,0,-0.8657451492273704,One-Class SVM
+0,normal,0,-4.038785253479752,One-Class SVM
+0,normal,0,-3.530586977436439,One-Class SVM
+0,normal,0,-2.3325808103413834,One-Class SVM
+0,normal,0,-3.389765792417478,One-Class SVM
+0,normal,0,-3.6182161916247395,One-Class SVM
+0,normal,0,-1.9147812300255715,One-Class SVM
+0,normal,0,-2.5101836875934875,One-Class SVM
+0,normal,0,-3.569801353733588,One-Class SVM
+0,normal,0,-2.3737539571437267,One-Class SVM
+0,normal,0,-1.5111282375291495,One-Class SVM
+0,normal,0,-2.669069756854455,One-Class SVM
+0,normal,0,-3.657489086589795,One-Class SVM
+0,normal,0,-3.007600717592979,One-Class SVM
+1,invalid_age_range,1,13.23157713002356,One-Class SVM
+0,normal,1,0.3825928029912653,One-Class SVM
+0,normal,0,-2.642734413724707,One-Class SVM
+0,normal,1,3.609235054894974,One-Class SVM
+0,normal,0,-2.4514046702189933,One-Class SVM
+0,normal,0,-0.3334406917362003,One-Class SVM
+0,normal,0,-0.7180116020844398,One-Class SVM
+0,normal,0,-2.6613854546621454,One-Class SVM
+0,normal,0,-2.378061021012181,One-Class SVM
+0,normal,1,0.16752365549796266,One-Class SVM
+0,normal,0,-1.953162023253908,One-Class SVM
+0,normal,0,-2.598121147840059,One-Class SVM
+0,normal,0,-1.6172020846396666,One-Class SVM
+0,normal,0,-2.129265037332228,One-Class SVM
+0,normal,1,0.28006768337763255,One-Class SVM
+0,normal,0,-2.4131213606083204,One-Class SVM
+0,normal,0,-1.3528410102322486,One-Class SVM
+0,normal,0,-3.1294107696950917,One-Class SVM
+0,normal,0,-3.4305629156925157,One-Class SVM
+0,normal,0,-2.9641841813352485,One-Class SVM
+0,normal,0,-2.95267864562825,One-Class SVM
+0,normal,0,-3.9558936763287136,One-Class SVM
+0,normal,0,-0.8100899556544388,One-Class SVM
+0,normal,0,-1.732432279259804,One-Class SVM
+0,normal,0,-2.734717032699823,One-Class SVM
+0,normal,0,-2.9692248812784463,One-Class SVM
+0,normal,0,-2.1683932438708506,One-Class SVM
+0,normal,0,-3.037872032708947,One-Class SVM
+0,normal,0,-2.4987473385249874,One-Class SVM
+0,normal,0,-1.166893134348772,One-Class SVM
+0,normal,0,-2.236252727986429,One-Class SVM
+0,normal,0,-2.7816148250752306,One-Class SVM
+0,normal,0,-2.5930118484821456,One-Class SVM
+0,normal,0,-2.7595538079698763,One-Class SVM
+0,normal,0,-1.945182449507275,One-Class SVM
+0,normal,0,-3.5306500361436335,One-Class SVM
+1,invalid_age_range,1,13.349226263228003,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-2.0940833114923443,One-Class SVM
+0,normal,0,-3.648100499541986,One-Class SVM
+0,normal,0,-2.436398854153623,One-Class SVM
+0,normal,0,-0.7156395269672782,One-Class SVM
+0,normal,0,-1.0158746635466755,One-Class SVM
+0,normal,0,-3.403448909741421,One-Class SVM
+0,normal,0,-2.6424792790881853,One-Class SVM
+0,normal,1,0.24119361658605598,One-Class SVM
+0,normal,0,-0.7576432033452445,One-Class SVM
+0,normal,0,-2.6861481030741174,One-Class SVM
+0,normal,0,-2.7560796293200127,One-Class SVM
+0,normal,0,-1.8177571841863305,One-Class SVM
+0,normal,0,-2.1720979026282965,One-Class SVM
+0,normal,0,-2.63077960999537,One-Class SVM
+0,normal,0,-3.2970185880585063,One-Class SVM
+0,normal,0,-0.9309499786235165,One-Class SVM
+0,normal,0,-2.995436049013314,One-Class SVM
+0,normal,0,-3.2308358926721503,One-Class SVM
+0,normal,0,-2.8902577434320946,One-Class SVM
+0,normal,0,-3.829085685341205,One-Class SVM
+0,normal,0,-2.9676001841686457,One-Class SVM
+0,normal,0,-3.2411293795228,One-Class SVM
+0,normal,0,-3.2449112811991867,One-Class SVM
+0,normal,0,-3.8200503568716897,One-Class SVM
+0,normal,0,-1.5109207867622416,One-Class SVM
+0,normal,0,-0.48158338515669286,One-Class SVM
+0,normal,0,-3.1317325434210552,One-Class SVM
+0,normal,0,-3.785406069803006,One-Class SVM
+0,normal,0,-2.7503168677958065,One-Class SVM
+0,normal,0,-3.1708739767841365,One-Class SVM
+0,normal,0,-3.236815332421852,One-Class SVM
+0,normal,0,-2.5379164125881495,One-Class SVM
+0,normal,0,-2.3662313080308817,One-Class SVM
+0,normal,0,-2.0309552013745815,One-Class SVM
+0,normal,0,-2.4626144839332476,One-Class SVM
+0,normal,0,-1.413039773355937,One-Class SVM
+0,normal,0,-2.1446365658688595,One-Class SVM
+0,normal,0,-2.44165333773563,One-Class SVM
+0,normal,0,-0.7757509045087456,One-Class SVM
+0,normal,0,-3.136332548125882,One-Class SVM
+0,normal,0,-1.7436797722220554,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-1.936010703799031,One-Class SVM
+0,normal,0,-3.48415715193444,One-Class SVM
+0,normal,0,-1.825487287620696,One-Class SVM
+0,normal,0,-3.3030015510277195,One-Class SVM
+0,normal,0,-1.4851118215588794,One-Class SVM
+0,normal,0,-3.0968207822615312,One-Class SVM
+0,normal,0,-0.7901208065581642,One-Class SVM
+0,normal,0,-1.762477722072246,One-Class SVM
+0,normal,0,-1.841557565420601,One-Class SVM
+0,normal,0,-1.6184270697330607,One-Class SVM
+0,normal,0,-3.521812256082395,One-Class SVM
+0,normal,1,0.3125732422051364,One-Class SVM
+0,normal,0,-2.48495252972433,One-Class SVM
+0,normal,0,-2.9952496822061043,One-Class SVM
+0,normal,0,-1.8517049879302014,One-Class SVM
+0,normal,0,-3.0324732596872543,One-Class SVM
+0,normal,0,-3.863952577831757,One-Class SVM
+0,normal,0,-1.183979355617252,One-Class SVM
+0,normal,0,-3.579732701134965,One-Class SVM
+0,normal,0,-2.846254063370349,One-Class SVM
+0,normal,0,-1.134472188949454,One-Class SVM
+0,normal,0,-2.7762609408922962,One-Class SVM
+0,normal,1,0.37804903637049314,One-Class SVM
+0,normal,0,-2.295335125519646,One-Class SVM
+0,normal,0,-3.266750821829646,One-Class SVM
+0,normal,0,-1.1673800439361681,One-Class SVM
+0,normal,0,-2.4003150330597443,One-Class SVM
+0,normal,1,0.4079248126865007,One-Class SVM
+0,normal,0,-3.176193312032858,One-Class SVM
+0,normal,0,-2.814806271462068,One-Class SVM
+0,normal,0,-1.2136586403540797,One-Class SVM
+0,normal,0,-3.5133732461354548,One-Class SVM
+0,normal,0,-0.7347309942052505,One-Class SVM
+0,normal,0,-2.3458198597696143,One-Class SVM
+0,normal,0,-3.6758164605384422,One-Class SVM
+0,normal,1,0.7142269966401198,One-Class SVM
+0,normal,0,-2.8377907415066517,One-Class SVM
+1,invalid_age_range,1,13.261843262900959,One-Class SVM
+0,normal,0,-2.788033297612248,One-Class SVM
+1,extreme_duration,1,13.364703513485756,One-Class SVM
+0,normal,0,-3.3734229810268204,One-Class SVM
+1,invalid_age_range,1,13.293686467184799,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-1.7463883368600328,One-Class SVM
+0,normal,0,-2.4339031666041304,One-Class SVM
+0,normal,0,-2.8093615128136378,One-Class SVM
+0,normal,0,-2.5735703102758762,One-Class SVM
+1,invalid_age_range,1,12.768709483886806,One-Class SVM
+0,normal,0,-3.2612325017655763,One-Class SVM
+0,normal,0,-2.744310421021275,One-Class SVM
+0,normal,0,-2.9082361813135265,One-Class SVM
+1,extreme_duration,1,13.36478590067434,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-3.197947036629728,One-Class SVM
+0,normal,0,-2.3628865920404394,One-Class SVM
+0,normal,0,-2.7717092923094633,One-Class SVM
+0,normal,0,-0.5644631275866594,One-Class SVM
+0,normal,0,-3.2834997616059134,One-Class SVM
+0,normal,0,-3.3661628038413696,One-Class SVM
+0,normal,0,-1.8966513952033566,One-Class SVM
+0,normal,0,-3.2852360960278553,One-Class SVM
+0,normal,0,-3.2948832455849875,One-Class SVM
+0,normal,0,-3.479010467310953,One-Class SVM
+0,normal,0,-1.1843085914038802,One-Class SVM
+0,normal,0,-1.059451395892653,One-Class SVM
+0,normal,0,-3.404504161227404,One-Class SVM
+0,normal,0,-1.3742942644970437,One-Class SVM
+0,normal,0,-0.9981884918353732,One-Class SVM
+0,normal,0,-0.9692086107914335,One-Class SVM
+0,normal,0,-2.007595994896299,One-Class SVM
+0,normal,0,-4.319548375551545,One-Class SVM
+0,normal,0,-2.729947400214943,One-Class SVM
+0,normal,0,-3.8333498892385656,One-Class SVM
+0,normal,1,0.40961111433095887,One-Class SVM
+0,normal,0,-2.537518245025785,One-Class SVM
+0,normal,0,-1.798276864633765,One-Class SVM
+0,normal,0,-2.6509095952540562,One-Class SVM
+0,normal,0,-2.5048976913374172,One-Class SVM
+0,normal,0,-1.8958602379753806,One-Class SVM
+0,normal,0,-2.8618301119073415,One-Class SVM
+0,normal,0,-2.218319090381206,One-Class SVM
+0,normal,1,0.05598959260699843,One-Class SVM
+0,normal,0,-2.180573231225175,One-Class SVM
+0,normal,0,-3.2830293260396246,One-Class SVM
+0,normal,0,-3.1175596974550217,One-Class SVM
+0,normal,0,-2.8594724468179145,One-Class SVM
+0,normal,0,-1.7104841170380531,One-Class SVM
+0,normal,0,-0.532757813579229,One-Class SVM
+0,normal,0,-1.3776762033386856,One-Class SVM
+0,normal,0,-2.776430598628746,One-Class SVM
+0,normal,0,-3.851900503560419,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-3.0325109854043397,One-Class SVM
+0,normal,0,-3.354994348862135,One-Class SVM
+0,normal,0,-4.093019571015166,One-Class SVM
+0,normal,0,-3.4077171219905154,One-Class SVM
+1,extreme_duration,1,13.36479654210398,One-Class SVM
+0,normal,0,-3.5141025097348937,One-Class SVM
+0,normal,1,0.23469730617534879,One-Class SVM
+0,normal,0,-2.0599841058944115,One-Class SVM
+0,normal,0,-3.3243856278546424,One-Class SVM
+0,normal,0,-3.1070817180701518,One-Class SVM
+0,normal,0,-0.765918025634182,One-Class SVM
+1,invalid_age_range,1,13.270608124871263,One-Class SVM
+0,normal,0,-3.764105343082665,One-Class SVM
+0,normal,0,-4.1596189516729645,One-Class SVM
+0,normal,0,-3.5052645078455384,One-Class SVM
+0,normal,0,-0.21865222859900157,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-1.4077648402365543,One-Class SVM
+0,normal,0,-2.2704240689812085,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-3.522780108083669,One-Class SVM
+0,normal,0,-0.6663894267873136,One-Class SVM
+0,normal,0,-3.573754267934916,One-Class SVM
+0,normal,0,-2.234662696471089,One-Class SVM
+0,normal,0,-2.4401941695843608,One-Class SVM
+0,normal,0,-3.552200119747642,One-Class SVM
+0,normal,0,-3.5542313328661805,One-Class SVM
+0,normal,0,-3.468559227795332,One-Class SVM
+0,normal,0,-2.9102624856203505,One-Class SVM
+0,normal,0,-3.7807653547093842,One-Class SVM
+0,normal,0,-0.9769580855071869,One-Class SVM
+0,normal,0,-0.3925246361083339,One-Class SVM
+0,normal,0,-3.7469281200900753,One-Class SVM
+0,normal,0,-3.962132819787513,One-Class SVM
+0,normal,0,-2.3858162362444926,One-Class SVM
+0,normal,0,-1.1870121369944435,One-Class SVM
+0,normal,0,-3.24620020886951,One-Class SVM
+0,normal,0,-2.56019409765344,One-Class SVM
+0,normal,0,-2.2049411439385267,One-Class SVM
+1,invalid_age_range,1,13.024913139240095,One-Class SVM
+0,normal,0,-3.6274780883469546,One-Class SVM
+0,normal,0,-1.992329743101065,One-Class SVM
+0,normal,0,-1.3485142734448505,One-Class SVM
+0,normal,0,-2.0434800803050166,One-Class SVM
+0,normal,0,-2.2706085255646133,One-Class SVM
+0,normal,0,-1.2159246403170787,One-Class SVM
+0,normal,0,-1.0436330988589244,One-Class SVM
+0,normal,0,-3.421189820421013,One-Class SVM
+0,normal,0,-3.2541351834304777,One-Class SVM
+0,normal,0,-2.2670348581274578,One-Class SVM
+0,normal,0,-2.4874943161778607,One-Class SVM
+0,normal,0,-3.6120460012633195,One-Class SVM
+0,normal,0,-2.797086207638884,One-Class SVM
+0,normal,0,-3.6650902452154703,One-Class SVM
+0,normal,0,-2.55218635352508,One-Class SVM
+0,normal,0,-0.2926792049762881,One-Class SVM
+0,normal,0,-0.29371528840916383,One-Class SVM
+0,normal,0,-1.425714524119659,One-Class SVM
+0,normal,1,1.0640728982574643,One-Class SVM
+0,normal,0,-0.06966354119670193,One-Class SVM
+0,normal,0,-0.5536031972035946,One-Class SVM
+0,normal,0,-0.39891397714409216,One-Class SVM
+0,normal,1,0.06739766238927203,One-Class SVM
+0,normal,0,-0.8755147407048725,One-Class SVM
+0,normal,0,-3.6096758231084607,One-Class SVM
+0,normal,0,-1.2222928907447574,One-Class SVM
+0,normal,0,-2.6987812529707824,One-Class SVM
+0,normal,0,-1.5800572514858864,One-Class SVM
+0,normal,0,-1.9354204580822323,One-Class SVM
+0,normal,0,-1.8154545089710936,One-Class SVM
+0,normal,0,-2.478906887164177,One-Class SVM
+0,normal,0,-3.8285230611614764,One-Class SVM
+1,extreme_duration,1,13.364796496024784,One-Class SVM
+0,normal,0,-2.8082881558775767,One-Class SVM
+0,normal,0,-2.2477489605538032,One-Class SVM
+0,normal,0,-1.7190081729796898,One-Class SVM
+0,normal,0,-1.8118052017187587,One-Class SVM
+0,normal,0,-3.482458956009964,One-Class SVM
+0,normal,1,0.06827816288889288,One-Class SVM
+1,invalid_age_range,1,13.263132105969893,One-Class SVM
+0,normal,0,-1.5782964590909305,One-Class SVM
+0,normal,0,-2.8520202667874237,One-Class SVM
+0,normal,0,-3.714960861304558,One-Class SVM
+0,normal,0,-2.8505509452577904,One-Class SVM
+0,normal,0,-0.9872272215316702,One-Class SVM
+0,normal,0,-3.4318236615675772,One-Class SVM
+0,normal,0,-2.3254476622770053,One-Class SVM
+0,normal,0,-2.877487001490696,One-Class SVM
+0,normal,0,-3.5673130012152683,One-Class SVM
+0,normal,0,-1.6649406792168424,One-Class SVM
+0,normal,0,-1.6803960329003367,One-Class SVM
+0,normal,0,-3.2094180843309523,One-Class SVM
+0,normal,0,-2.8139707693030402,One-Class SVM
+0,normal,0,-3.1419688103444905,One-Class SVM
+0,normal,0,-2.4659303692789027,One-Class SVM
+0,normal,0,-2.7823640507351115,One-Class SVM
+0,normal,0,-2.2318827381546367,One-Class SVM
+0,normal,0,-1.6662706430492982,One-Class SVM
+0,normal,1,12.578058180453976,One-Class SVM
+0,normal,0,-2.2935729571964885,One-Class SVM
+0,normal,0,-3.3157690788572083,One-Class SVM
+0,normal,0,-3.097620163305397,One-Class SVM
+0,normal,0,-1.0162565942270643,One-Class SVM
+0,normal,0,-2.7806197112740882,One-Class SVM
+0,normal,0,-3.054481823069718,One-Class SVM
+0,normal,0,-2.7608178056897934,One-Class SVM
+0,normal,1,0.8968664489908527,One-Class SVM
+0,normal,0,-1.6123357203789705,One-Class SVM
+0,normal,0,-0.5052285376167749,One-Class SVM
+0,normal,0,-3.5341548529747584,One-Class SVM
+0,normal,0,-1.4474296487594032,One-Class SVM
+0,normal,0,-0.6893711889778498,One-Class SVM
+0,normal,0,-3.1430145566267633,One-Class SVM
+0,normal,0,-1.9277362400893185,One-Class SVM
+0,normal,0,-2.2344490983541725,One-Class SVM
+0,normal,0,-2.5557063649539913,One-Class SVM
+0,normal,0,-3.116220610147039,One-Class SVM
+0,normal,0,-0.23410642887229116,One-Class SVM
+0,normal,0,-3.7957374582368466,One-Class SVM
+0,normal,0,-3.0911355891373766,One-Class SVM
+0,normal,0,-2.276583269875891,One-Class SVM
+0,normal,0,-1.7727952176485005,One-Class SVM
+0,normal,0,-2.2697544859474448,One-Class SVM
+0,normal,0,-2.609134454326556,One-Class SVM
+0,normal,0,-0.9322344762375305,One-Class SVM
+0,normal,0,-2.8403658493813886,One-Class SVM
+0,normal,0,-2.7157962954262693,One-Class SVM
+0,normal,0,-1.0062648651573145,One-Class SVM
+0,normal,0,-3.317870060451753,One-Class SVM
+0,normal,0,-1.8340493076434328,One-Class SVM
+0,normal,0,-3.7262542691292886,One-Class SVM
+0,normal,1,0.16179317127137516,One-Class SVM
+0,normal,0,-1.6512816586222172,One-Class SVM
+0,normal,0,-1.5749746080991383,One-Class SVM
+0,normal,0,-2.8500856107668397,One-Class SVM
+0,normal,0,-2.2754559338890648,One-Class SVM
+1,invalid_age_range,1,13.223347689451964,One-Class SVM
+0,normal,0,-1.64251101284996,One-Class SVM
+0,normal,0,-2.3467183890478047,One-Class SVM
+0,normal,0,-3.3837089118243426,One-Class SVM
+0,normal,0,-2.9386921922870712,One-Class SVM
+0,normal,0,-3.426628437920943,One-Class SVM
+0,normal,1,0.6555245437005084,One-Class SVM
+0,normal,0,-1.8930796428561933,One-Class SVM
+0,normal,0,-0.4455501123840939,One-Class SVM
+0,normal,0,-2.097504910816401,One-Class SVM
+0,normal,1,3.1057881111508223,One-Class SVM
+0,normal,0,-0.8777509159134684,One-Class SVM
+0,normal,0,-2.042378746568767,One-Class SVM
+0,normal,1,0.5058594976412323,One-Class SVM
+0,normal,0,-3.496371081142911,One-Class SVM
+0,normal,0,-2.1423957060081307,One-Class SVM
+0,normal,0,-2.5866568459611496,One-Class SVM
+0,normal,0,-2.246312145352766,One-Class SVM
+0,normal,0,-2.533179360823782,One-Class SVM
+0,normal,0,-0.020575477769959605,One-Class SVM
+0,normal,0,-2.302465755782263,One-Class SVM
+0,normal,0,-0.29077901616937574,One-Class SVM
+0,normal,0,-3.3510516817519758,One-Class SVM
+0,normal,0,-2.3853408285803788,One-Class SVM
+0,normal,0,-3.1038441058938453,One-Class SVM
+0,normal,1,0.33893936935892555,One-Class SVM
+0,normal,0,-0.5435363320638302,One-Class SVM
+0,normal,0,-2.953514708958455,One-Class SVM
+0,normal,0,-3.5632417861130783,One-Class SVM
+1,extreme_duration,1,13.364796541685179,One-Class SVM
+1,invalid_age_range,1,13.162493180709351,One-Class SVM
+0,normal,0,-3.207574170373146,One-Class SVM
+0,normal,0,-2.48173933243293,One-Class SVM
+0,normal,0,-3.563621547800306,One-Class SVM
+0,normal,0,-3.043484555877864,One-Class SVM
+0,normal,0,-0.3552980940620767,One-Class SVM
+0,normal,1,3.879722829063418,One-Class SVM
+0,normal,0,-4.019184041575823,One-Class SVM
+0,normal,0,-3.64885686580266,One-Class SVM
+0,normal,0,-1.6925452094382738,One-Class SVM
+0,normal,0,-4.096134200828189,One-Class SVM
+0,normal,0,-2.4513262228465003,One-Class SVM
+0,normal,0,-3.576778586318923,One-Class SVM
+0,normal,0,-2.589094348266922,One-Class SVM
+0,normal,0,-2.2869628198276377,One-Class SVM
+0,normal,0,-3.583985125115966,One-Class SVM
+0,normal,0,-1.3455777223487146,One-Class SVM
+0,normal,0,-3.6735889541468865,One-Class SVM
+0,normal,0,-2.868017686289285,One-Class SVM
+0,normal,0,-3.0414218757284317,One-Class SVM
+0,normal,0,-3.0887778806142734,One-Class SVM
+0,normal,0,-2.4165679935789903,One-Class SVM
+0,normal,0,-3.072108736094254,One-Class SVM
+0,normal,0,-3.799432937477963,One-Class SVM
+0,normal,0,-0.21732677253921473,One-Class SVM
+0,normal,0,-0.558592029462984,One-Class SVM
+0,normal,0,-3.341293275516744,One-Class SVM
+0,normal,0,-3.9530597590444856,One-Class SVM
+0,normal,0,-3.347157717065926,One-Class SVM
+0,normal,0,-2.4963294803636966,One-Class SVM
+0,normal,0,-1.0235198718221188,One-Class SVM
+0,normal,0,-2.7798972770962322,One-Class SVM
+0,normal,0,-2.0558248443485017,One-Class SVM
+1,extreme_duration,1,13.364796542103985,One-Class SVM
+0,normal,0,-3.8592312475444217,One-Class SVM
+0,normal,1,0.09788587675564742,One-Class SVM
+0,normal,0,-1.6015472707670515,One-Class SVM
+0,normal,0,-3.343671550938396,One-Class SVM
+0,normal,0,-3.769785807656781,One-Class SVM
+0,normal,0,-2.6910382642058366,One-Class SVM
+0,normal,0,-3.0007060071126688,One-Class SVM
+0,normal,0,-2.6074376749385646,One-Class SVM
+0,normal,0,-2.0695645912274845,One-Class SVM
+0,normal,0,-1.6661201051453745,One-Class SVM
+1,extreme_duration,1,13.364796542103985,One-Class SVM
+0,normal,0,-2.9562345717710414,One-Class SVM
+0,normal,0,-1.8134914228701113,One-Class SVM
+0,normal,0,-1.294070606315998,One-Class SVM
+0,normal,0,-2.2185894058014917,One-Class SVM
+0,normal,0,-3.288259893002209,One-Class SVM
+0,normal,1,2.5110139909999205,One-Class SVM
+0,normal,0,-2.890900858277096,One-Class SVM
+0,normal,0,-2.7519821677999055,One-Class SVM
+0,normal,0,-2.159130643313526,One-Class SVM
+0,normal,0,-3.9686584652190824,One-Class SVM
+0,normal,0,-3.5080880036697906,One-Class SVM
+0,normal,0,-3.303959432633242,One-Class SVM
+0,normal,0,-2.2745325069301447,One-Class SVM
+0,normal,0,-3.9389127371205106,One-Class SVM
+0,normal,0,-2.12596663271181,One-Class SVM
+0,normal,0,-3.020018425889411,One-Class SVM
+0,normal,0,-2.294333950062759,One-Class SVM
+0,normal,0,-2.4155110371943653,One-Class SVM
+0,normal,0,-3.0116775868860906,One-Class SVM
+0,normal,0,-2.15682396224533,One-Class SVM
+0,normal,0,-0.8660448411227417,One-Class SVM
+0,normal,0,-0.4726207133076681,One-Class SVM
+0,normal,0,-2.9744350571468345,One-Class SVM
+0,normal,0,-2.698006517261984,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-0.09138757221057325,One-Class SVM
+0,normal,0,-2.341552497021171,One-Class SVM
+0,normal,0,-2.6278181362990995,One-Class SVM
+0,normal,0,-3.587668052186153,One-Class SVM
+0,normal,0,-1.6891918226351255,One-Class SVM
+0,normal,0,-1.5780755929216284,One-Class SVM
+0,normal,0,-2.8966930755631815,One-Class SVM
+0,normal,0,-1.907394106237513,One-Class SVM
+0,normal,0,-2.7759310098014893,One-Class SVM
+0,normal,0,-2.5534531727833656,One-Class SVM
+0,normal,0,-2.510536751416753,One-Class SVM
+0,normal,0,-3.932594367124974,One-Class SVM
+0,normal,0,-2.0873361843612948,One-Class SVM
+0,normal,0,-3.1220161190089257,One-Class SVM
+0,normal,0,-1.3779508445809707,One-Class SVM
+0,normal,0,-2.011722402113554,One-Class SVM
+0,normal,0,-1.443734036670996,One-Class SVM
+0,normal,0,-2.7406870868146243,One-Class SVM
+0,normal,0,-1.7523367875846905,One-Class SVM
+0,normal,0,-2.8493619548908313,One-Class SVM
+0,normal,1,2.913264997009911,One-Class SVM
+0,normal,0,-2.095760424664915,One-Class SVM
+0,normal,0,-2.569109839095777,One-Class SVM
+0,normal,0,-3.207968172622106,One-Class SVM
+0,normal,1,1.6542778672147787,One-Class SVM
+0,normal,0,-1.7464941187816585,One-Class SVM
+0,normal,0,-1.6602521159635337,One-Class SVM
+0,normal,0,-2.6042009858512127,One-Class SVM
+0,normal,0,-2.647713700605511,One-Class SVM
+0,normal,0,-2.8534131431536913,One-Class SVM
+0,normal,0,-3.653944541031535,One-Class SVM
+0,normal,0,-1.0544127715820366,One-Class SVM
+0,normal,0,-2.2306484519011835,One-Class SVM
+0,normal,0,-0.40418379748776445,One-Class SVM
+0,normal,0,-2.9664622622943284,One-Class SVM
+0,normal,0,-2.2001767363898725,One-Class SVM
+0,normal,0,-0.5498444185061206,One-Class SVM
+0,normal,0,-3.5218535827150106,One-Class SVM
+0,normal,0,-1.4530018065385626,One-Class SVM
+0,normal,0,-3.8440299419515433,One-Class SVM
+0,normal,0,-2.7089308501557383,One-Class SVM
+0,normal,0,-3.4724484898159815,One-Class SVM
+0,normal,0,-2.815233990903465,One-Class SVM
+0,normal,0,-0.9393792897390725,One-Class SVM
+0,normal,0,-2.3030878201698357,One-Class SVM
+0,normal,0,-1.1970564992304933,One-Class SVM
+0,normal,0,-3.265112638410379,One-Class SVM
+0,normal,0,-3.4824918852258016,One-Class SVM
+0,normal,0,-2.7206559111041635,One-Class SVM
+0,normal,0,-2.8636574264152763,One-Class SVM
+0,normal,0,-3.2297617465748445,One-Class SVM
+1,extreme_duration,1,13.36479654210397,One-Class SVM
+0,normal,0,-0.969627242157987,One-Class SVM
+0,normal,0,-1.2198283961770837,One-Class SVM
+0,normal,0,-2.841880851051261,One-Class SVM
+0,normal,0,-2.7422520069410012,One-Class SVM
+0,normal,0,-1.0520196308905145,One-Class SVM
+0,normal,0,-0.6632427980055411,One-Class SVM
+0,normal,0,-2.6385224232301887,One-Class SVM
+0,normal,0,-2.214800734147925,One-Class SVM
+0,normal,0,-1.150172879677898,One-Class SVM
+0,normal,0,-1.8222838897729865,One-Class SVM
+0,normal,0,-2.3657000171591918,One-Class SVM
+0,normal,0,-1.628002766170109,One-Class SVM
+0,normal,0,-4.353660462642221,One-Class SVM
+0,normal,0,-3.986711058621978,One-Class SVM
+0,normal,0,-2.2514237125344394,One-Class SVM
+0,normal,0,-3.2177954583666306,One-Class SVM
+0,normal,0,-3.4080045012138314,One-Class SVM
+0,normal,0,-2.069627513347184,One-Class SVM
+0,normal,0,-3.2826656553873512,One-Class SVM
+0,normal,0,-2.2242037637137493,One-Class SVM
+0,normal,0,-1.6906453242570496,One-Class SVM
+0,normal,0,-3.240416111339634,One-Class SVM
+1,invalid_age_range,1,13.348007659710094,One-Class SVM
+0,normal,1,0.9821302753777044,One-Class SVM
+0,normal,0,-3.566935713284856,One-Class SVM
+0,normal,0,-2.8671462670512327,One-Class SVM
+0,normal,0,-2.786471660857096,One-Class SVM
+0,normal,0,-3.8348820115380313,One-Class SVM
+0,normal,0,-3.9492088889071617,One-Class SVM
+0,normal,0,-1.9584165607761097,One-Class SVM
+1,extreme_duration,1,13.364795531490087,One-Class SVM
+0,normal,0,-3.6760127032229057,One-Class SVM
+0,normal,0,-0.9241939052349117,One-Class SVM
+0,normal,0,-3.849290548625955,One-Class SVM
+0,normal,0,-3.3085040530850094,One-Class SVM
+0,normal,0,-2.0654856418452443,One-Class SVM
+1,invalid_age_range,1,13.348977412259734,One-Class SVM
+0,normal,0,-3.529461398934444,One-Class SVM
+0,normal,0,-2.4466223671300984,One-Class SVM
+0,normal,0,-2.988859983877834,One-Class SVM
+0,normal,0,-3.666157551764499,One-Class SVM
+0,normal,0,-2.059263441534929,One-Class SVM
+0,normal,0,-1.9206288416764181,One-Class SVM
+1,extreme_duration,1,13.364796542103985,One-Class SVM
+0,normal,0,-1.5700190612761311,One-Class SVM
+0,normal,0,-3.596540163530875,One-Class SVM
+0,normal,0,-2.6934678258237064,One-Class SVM
+0,normal,0,-3.0799407821355906,One-Class SVM
+0,normal,0,-2.9616426240906684,One-Class SVM
+0,normal,1,0.06169708342343405,One-Class SVM
+0,normal,1,0.02209032166080327,One-Class SVM
+0,normal,0,-3.5392543506730654,One-Class SVM
+0,normal,0,-1.0413991797405409,One-Class SVM
+0,normal,0,-3.7580860613639473,One-Class SVM
+0,normal,0,-1.9824923276537767,One-Class SVM
+0,normal,0,-1.193779436014582,One-Class SVM
+0,normal,0,-3.5381486101769326,One-Class SVM
+0,normal,0,-3.737370746527919,One-Class SVM
+0,normal,0,-2.3460124010318193,One-Class SVM
+0,normal,0,-0.8978371246430239,One-Class SVM
+0,normal,0,-1.6970692292998972,One-Class SVM
+0,normal,0,-3.4320198744540775,One-Class SVM
+0,normal,0,-1.1972323390097852,One-Class SVM
+0,normal,0,-1.831031786262237,One-Class SVM
+0,normal,0,-1.8310547614117052,One-Class SVM
+0,normal,0,-0.4454143284078196,One-Class SVM
+0,normal,1,0.4128494082777916,One-Class SVM
+0,normal,0,-1.1769756886048164,One-Class SVM
+0,normal,0,-1.4291962491511754,One-Class SVM
+0,normal,0,-2.2592167019914466,One-Class SVM
+0,normal,0,-2.0499609072353877,One-Class SVM
+0,normal,0,-3.243226343849493,One-Class SVM
+0,normal,0,-3.2027008805488073,One-Class SVM
+0,normal,0,-3.0682796769906133,One-Class SVM
+1,extreme_duration,1,13.364796535752859,One-Class SVM
+0,normal,0,-3.148639656078565,One-Class SVM
+1,extreme_duration,1,13.364796542103985,One-Class SVM
+0,normal,0,-2.0052460556999705,One-Class SVM
+0,normal,1,2.6357003690849474,One-Class SVM
+0,normal,0,-1.4852426817237117,One-Class SVM
+0,normal,0,-2.017711252444279,One-Class SVM
+0,normal,0,-0.7951550587690033,One-Class SVM
+0,normal,0,-2.6237635428565866,One-Class SVM
+0,normal,0,-3.7692714830847223,One-Class SVM
+0,normal,0,-3.052879242816868,One-Class SVM
+0,normal,0,-2.253250185383221,One-Class SVM
+0,normal,0,-1.04609748629918,One-Class SVM
+0,normal,0,-3.4256033745214616,One-Class SVM
+0,normal,0,-1.7720966659980366,One-Class SVM
+0,normal,0,-3.7632756296649994,One-Class SVM
+0,normal,0,-1.6035104575573857,One-Class SVM
+0,normal,0,-3.029948365196745,One-Class SVM
+0,normal,0,-2.551135223231652,One-Class SVM
+0,normal,0,-1.5764115572110722,One-Class SVM
+0,normal,0,-1.5792239152010143,One-Class SVM
+0,normal,0,-2.6675005819889464,One-Class SVM
+0,normal,0,-2.5372787612512546,One-Class SVM
+0,normal,0,-2.1842122259288193,One-Class SVM
+0,normal,0,-1.334493116838443,One-Class SVM
+0,normal,0,-2.398589591620512,One-Class SVM
+0,normal,0,-2.8602373335298346,One-Class SVM
+0,normal,0,-2.7328003574494417,One-Class SVM
+0,normal,0,-0.05051296899225299,One-Class SVM
+0,normal,0,-0.6780403721962411,One-Class SVM
+0,normal,0,-3.707147373852056,One-Class SVM
+0,normal,0,-1.6922304835104498,One-Class SVM
+0,normal,1,0.9212073752161736,One-Class SVM
+0,normal,0,-3.018864651147851,One-Class SVM
+0,normal,0,-2.4711201410716406,One-Class SVM
+0,normal,0,-1.754348913407373,One-Class SVM
+0,normal,1,0.020638036072584853,One-Class SVM
+0,normal,0,-3.962684207012874,One-Class SVM
+0,normal,0,-4.086235591749233,One-Class SVM
+0,normal,0,-1.4834238155420802,One-Class SVM
+0,normal,0,-2.7556809908290134,One-Class SVM
+0,normal,0,-2.954787071854202,One-Class SVM
+0,normal,0,-3.426538734466444,One-Class SVM
+0,normal,0,-3.3330691430143204,One-Class SVM
+0,normal,0,-2.766458971352847,One-Class SVM
+0,normal,0,-2.849691940914699,One-Class SVM
+0,normal,0,-3.006907004311852,One-Class SVM
+1,invalid_age_range,1,13.034536981381624,One-Class SVM
+0,normal,1,8.423978834154967,One-Class SVM
+0,normal,0,-1.1987777649087725,One-Class SVM
+0,normal,0,-2.4366179031618636,One-Class SVM
+0,normal,0,-2.0989162173525724,One-Class SVM
+0,normal,0,-3.30100299918735,One-Class SVM
+0,normal,0,-2.7473702194317156,One-Class SVM
+0,normal,0,-1.902588872959404,One-Class SVM
+0,normal,0,-2.1896756793632424,One-Class SVM
+0,normal,0,-2.564360967979585,One-Class SVM
+0,normal,0,-2.4495154624803064,One-Class SVM
+0,normal,0,-3.111459393467811,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-1.702678028873832,One-Class SVM
+0,normal,0,-2.9138084095920505,One-Class SVM
+0,normal,0,-1.8959216122221125,One-Class SVM
+0,normal,0,-3.2778850140834166,One-Class SVM
+0,normal,0,-1.6490798732833376,One-Class SVM
+0,normal,0,-3.382733117590309,One-Class SVM
+0,normal,0,-2.37229695783976,One-Class SVM
+0,normal,0,-1.4478292039528569,One-Class SVM
+0,normal,0,-1.5033060002976981,One-Class SVM
+0,normal,0,-0.3371450776267384,One-Class SVM
+0,normal,1,0.06280923700492025,One-Class SVM
+0,normal,0,-1.5266255021420942,One-Class SVM
+0,normal,0,-2.1411623308005705,One-Class SVM
+0,normal,0,-3.8804867789619983,One-Class SVM
+0,normal,0,-2.3635492595679466,One-Class SVM
+0,normal,0,-2.9345055564113913,One-Class SVM
+0,normal,0,-2.823189745029122,One-Class SVM
+0,normal,0,-2.7809203791243924,One-Class SVM
+0,normal,0,-3.095561502574686,One-Class SVM
+0,normal,0,-3.9672736039422,One-Class SVM
+0,normal,0,-2.3153433456027255,One-Class SVM
+0,normal,0,-1.2903468850941433,One-Class SVM
+0,normal,0,-0.501272974798205,One-Class SVM
+0,normal,0,-2.3794783547105,One-Class SVM
+0,normal,0,-1.896299031535138,One-Class SVM
+0,normal,0,-2.290344111119037,One-Class SVM
+0,normal,0,-2.640334034413815,One-Class SVM
+0,normal,0,-2.2781070170272812,One-Class SVM
+0,normal,0,-2.9282508918405092,One-Class SVM
+0,normal,0,-3.583614522282886,One-Class SVM
+0,normal,0,-3.0191918065688874,One-Class SVM
+0,normal,0,-2.7547067339347358,One-Class SVM
+0,normal,1,0.2370497889579486,One-Class SVM
+0,normal,0,-2.2644850596071695,One-Class SVM
+0,normal,0,-2.9088492740491425,One-Class SVM
+0,normal,0,-2.2359807973406447,One-Class SVM
+0,normal,0,-3.627122562823814,One-Class SVM
+0,normal,0,-0.8800904301141621,One-Class SVM
+0,normal,0,-2.6884108835381575,One-Class SVM
+0,normal,0,-2.8434337043376168,One-Class SVM
+0,normal,0,-3.149487226570262,One-Class SVM
+0,normal,0,-3.1581998854331808,One-Class SVM
+0,normal,0,-4.004234574786654,One-Class SVM
+0,normal,0,-1.9911996584951996,One-Class SVM
+0,normal,0,-3.1823423779674123,One-Class SVM
+0,normal,0,-2.2454223122856742,One-Class SVM
+0,normal,0,-2.57214708817342,One-Class SVM
+0,normal,0,-2.437485060571264,One-Class SVM
+0,normal,0,-3.0787274978001555,One-Class SVM
+0,normal,0,-3.1644848965639447,One-Class SVM
+0,normal,0,-2.4903388887996787,One-Class SVM
+0,normal,1,0.5959705096101846,One-Class SVM
+0,normal,0,-2.5862886171566526,One-Class SVM
+0,normal,0,-2.483869323701102,One-Class SVM
+0,normal,0,-2.089117059859607,One-Class SVM
+0,normal,0,-3.4378197718481402,One-Class SVM
+0,normal,0,-3.3701711800887537,One-Class SVM
+0,normal,0,-3.6065540142397623,One-Class SVM
+0,normal,0,-0.9852475609141962,One-Class SVM
+0,normal,0,-2.364379346096433,One-Class SVM
+0,normal,0,-0.5784344491683093,One-Class SVM
+1,invalid_age_range,1,13.135587849643473,One-Class SVM
+0,normal,0,-3.1969365259651816,One-Class SVM
+0,normal,0,-3.3390922183159013,One-Class SVM
+0,normal,0,-3.076278915416129,One-Class SVM
+0,normal,0,-2.3721832064579953,One-Class SVM
+0,normal,0,-2.261638133842519,One-Class SVM
+0,normal,0,-2.1558262782183935,One-Class SVM
+0,normal,0,-3.4756173276981386,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-2.609789655714927,One-Class SVM
+0,normal,0,-3.340772303229798,One-Class SVM
+0,normal,0,-4.004918108676318,One-Class SVM
+0,normal,0,-2.433428872020432,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-3.1454287640472245,One-Class SVM
+0,normal,0,-2.584977148335307,One-Class SVM
+0,normal,0,-1.0601747302008793,One-Class SVM
+0,normal,0,-3.5935964692995377,One-Class SVM
+0,normal,0,-3.355969091578366,One-Class SVM
+0,normal,0,-2.2832411081393165,One-Class SVM
+0,normal,0,-2.5760188119060157,One-Class SVM
+0,normal,0,-3.1401477201625134,One-Class SVM
+0,normal,0,-3.82899698345091,One-Class SVM
+0,normal,0,-1.3219055529995671,One-Class SVM
+0,normal,0,-2.555057648806182,One-Class SVM
+0,normal,0,-0.35050122761028746,One-Class SVM
+0,normal,0,-3.2438402966373303,One-Class SVM
+0,normal,0,-0.6819662592244153,One-Class SVM
+0,normal,0,-0.8193621229072896,One-Class SVM
+0,normal,0,-3.1662856542046747,One-Class SVM
+0,normal,0,-0.15791092074585578,One-Class SVM
+0,normal,0,-2.0129331030996056,One-Class SVM
+0,normal,0,-2.881322156031054,One-Class SVM
+0,normal,0,-2.075917239622097,One-Class SVM
+0,normal,0,-2.829520645294032,One-Class SVM
+0,normal,0,-3.3613242476126857,One-Class SVM
+0,normal,0,-2.795687516125703,One-Class SVM
+0,normal,0,-3.2256119716625484,One-Class SVM
+0,normal,0,-2.7037484745660265,One-Class SVM
+0,normal,0,-0.720274714258144,One-Class SVM
+0,normal,0,-1.3989190216840441,One-Class SVM
+0,normal,0,-1.5859266751100822,One-Class SVM
+0,normal,0,-2.83757711061833,One-Class SVM
+0,normal,0,-1.9739028234097944,One-Class SVM
+0,normal,0,-3.0160185925917418,One-Class SVM
+0,normal,0,-2.9660510245498095,One-Class SVM
+0,normal,0,-0.9947207925141193,One-Class SVM
+0,normal,0,-1.4535003334396066,One-Class SVM
+0,normal,0,-2.5597683776354074,One-Class SVM
+0,normal,1,2.6671726273571483,One-Class SVM
+0,normal,0,-1.0599759671081674,One-Class SVM
+0,normal,0,-1.596514347974745,One-Class SVM
+0,normal,0,-3.080850327319215,One-Class SVM
+0,normal,0,-2.982865258137256,One-Class SVM
+0,normal,0,-3.8229740270902184,One-Class SVM
+0,normal,0,-0.9213211900293938,One-Class SVM
+0,normal,0,-3.133402709288859,One-Class SVM
+0,normal,0,-2.0188555567189965,One-Class SVM
+0,normal,0,-3.347990572383548,One-Class SVM
+0,normal,0,-2.246322662851437,One-Class SVM
+0,normal,0,-3.457373793748623,One-Class SVM
+0,normal,0,-2.0971898089037975,One-Class SVM
+0,normal,0,-2.675811947481904,One-Class SVM
+0,normal,0,-2.0910146302401067,One-Class SVM
+0,normal,0,-3.182197712237752,One-Class SVM
+0,normal,0,-0.31036756273867816,One-Class SVM
+0,normal,1,0.2455920232431108,One-Class SVM
+0,normal,0,-3.036087612922355,One-Class SVM
+0,normal,0,-2.8677969880537546,One-Class SVM
+0,normal,0,-1.8881205982629101,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-2.745133454970638,One-Class SVM
+0,normal,0,-2.1672069062028587,One-Class SVM
+0,normal,0,-0.7367758402364171,One-Class SVM
+0,normal,0,-0.06634748820780878,One-Class SVM
+0,normal,0,-2.809487471750117,One-Class SVM
+0,normal,0,-1.9928267430287008,One-Class SVM
+0,normal,0,-2.8918473073605178,One-Class SVM
+0,normal,0,-1.5348606643594476,One-Class SVM
+0,normal,0,-3.9034956345033187,One-Class SVM
+0,normal,0,-1.7410535805358958,One-Class SVM
+0,normal,0,-1.8454803830014939,One-Class SVM
+0,normal,0,-1.8496816955574982,One-Class SVM
+0,normal,0,-3.448739087542368,One-Class SVM
+0,normal,0,-3.3104147843398977,One-Class SVM
+0,normal,0,-2.142613978990955,One-Class SVM
+0,normal,0,-0.05456788538836577,One-Class SVM
+0,normal,0,-3.620747250415782,One-Class SVM
+0,normal,0,-1.6587680177124913,One-Class SVM
+0,normal,0,-0.2256666053202352,One-Class SVM
+0,normal,0,-0.07941375280130991,One-Class SVM
+0,normal,1,4.560970317267376,One-Class SVM
+0,normal,0,-2.493841386798568,One-Class SVM
+0,normal,1,0.5646836044315702,One-Class SVM
+0,normal,0,-2.84206003685928,One-Class SVM
+0,normal,0,-3.4668830355522147,One-Class SVM
+0,normal,0,-3.1792790569461147,One-Class SVM
+0,normal,0,-2.6248405169450706,One-Class SVM
+0,normal,0,-3.1196183311600336,One-Class SVM
+0,normal,0,-3.162766310211804,One-Class SVM
+1,invalid_age_range,1,13.212120926369618,One-Class SVM
+0,normal,0,-0.49533522840265576,One-Class SVM
+0,normal,0,-2.3243271762828215,One-Class SVM
+0,normal,0,-3.2032818098021423,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-3.5132976802563043,One-Class SVM
+0,normal,0,-3.7459437076910973,One-Class SVM
+0,normal,0,-2.5430349645938133,One-Class SVM
+0,normal,0,-0.9982757768378718,One-Class SVM
+0,normal,0,-1.478265950377768,One-Class SVM
+0,normal,0,-3.158887500379574,One-Class SVM
+1,extreme_enrollment,1,13.364796542103985,One-Class SVM
+0,normal,0,-3.058828583042864,One-Class SVM
+0,normal,0,-0.03539810958487699,One-Class SVM
+0,normal,0,-2.728306865898496,One-Class SVM
+0,normal,0,-3.7227279991175948,One-Class SVM
+0,normal,0,-3.0911414383549207,One-Class SVM
+0,normal,0,-3.050016724196219,One-Class SVM
+0,normal,0,-2.6082757144523683,One-Class SVM
+0,normal,1,9.39741504461714,One-Class SVM
+0,normal,0,-1.6042960480845547,One-Class SVM
+0,normal,0,-2.597196105477318,One-Class SVM
+0,normal,0,-1.5833660237852651,One-Class SVM
+0,normal,0,-3.4845422108278967,One-Class SVM
+0,normal,0,-1.442397116549479,One-Class SVM
+0,normal,0,-2.8541538214838873,One-Class SVM
+0,normal,0,-2.268480073715324,One-Class SVM
+0,normal,0,-1.4813896798990722,One-Class SVM
+0,normal,0,-1.982843349110075,One-Class SVM
+0,normal,0,-2.74572210496909,One-Class SVM
+0,normal,0,-3.2469227552484163,One-Class SVM
+0,normal,1,8.790536142052407,One-Class SVM
+0,normal,0,-1.7361409579003837,One-Class SVM
+0,normal,0,-0.22862039205418172,Local Outlier Factor
+0,normal,0,-0.21705633083752796,Local Outlier Factor
+0,normal,0,-0.24673990658187606,Local Outlier Factor
+0,normal,0,-0.23072630542784223,Local Outlier Factor
+0,normal,0,-0.025935188328709557,Local Outlier Factor
+0,normal,1,0.31083965210583075,Local Outlier Factor
+0,normal,0,-0.20116513733531116,Local Outlier Factor
+1,extreme_duration,1,7.382509676720575,Local Outlier Factor
+0,normal,0,-0.19195058109416285,Local Outlier Factor
+0,normal,0,-0.12459441517701109,Local Outlier Factor
+0,normal,0,-0.1263488975346354,Local Outlier Factor
+0,normal,0,-0.149823498808477,Local Outlier Factor
+0,normal,0,-0.14174856295809168,Local Outlier Factor
+0,normal,0,-0.122509671296396,Local Outlier Factor
+0,normal,1,0.006651904701908462,Local Outlier Factor
+0,normal,0,-0.12337250855734538,Local Outlier Factor
+1,extreme_duration,1,4.764069554305218,Local Outlier Factor
+1,extreme_duration,1,3.034972456485292,Local Outlier Factor
+0,normal,0,-0.12607839897728956,Local Outlier Factor
+0,normal,0,-0.1786082072153503,Local Outlier Factor
+0,normal,0,-0.22204378831018068,Local Outlier Factor
+0,normal,0,-0.18261228940351182,Local Outlier Factor
+0,normal,0,-0.13131329866607766,Local Outlier Factor
+0,normal,0,-0.2068198445113154,Local Outlier Factor
+0,normal,0,-0.1985810587732859,Local Outlier Factor
+0,normal,0,-0.18165147529723802,Local Outlier Factor
+0,normal,0,-0.13256721709314379,Local Outlier Factor
+0,normal,0,-0.1658251413256382,Local Outlier Factor
+0,normal,0,-0.1389667911783108,Local Outlier Factor
+0,normal,0,-0.09741686222388424,Local Outlier Factor
+0,normal,0,-0.18925833256680002,Local Outlier Factor
+0,normal,0,-0.22512895061879679,Local Outlier Factor
+0,normal,0,-0.18477970032700886,Local Outlier Factor
+0,normal,0,-0.19948931462347042,Local Outlier Factor
+0,normal,0,-0.2176073095631741,Local Outlier Factor
+0,normal,0,-0.2145434927565646,Local Outlier Factor
+0,normal,0,-0.22142708665254918,Local Outlier Factor
+0,normal,0,-0.23770677860120093,Local Outlier Factor
+1,extreme_duration,1,3.197463136477043,Local Outlier Factor
+0,normal,0,-0.2418405558474983,Local Outlier Factor
+0,normal,0,-0.16168273773378972,Local Outlier Factor
+0,normal,0,-0.20751608075876815,Local Outlier Factor
+0,normal,0,-0.20219124048326353,Local Outlier Factor
+0,normal,1,0.036352709926950055,Local Outlier Factor
+0,normal,0,-0.2151503662308527,Local Outlier Factor
+0,normal,0,-0.21976737209750996,Local Outlier Factor
+0,normal,0,-0.007226486858858738,Local Outlier Factor
+0,normal,0,-0.14984252648502894,Local Outlier Factor
+1,extreme_enrollment,1,19.093754167183665,Local Outlier Factor
+0,normal,0,-0.16543079428529217,Local Outlier Factor
+0,normal,0,-0.12118715194639074,Local Outlier Factor
+0,normal,0,-0.09874326031080716,Local Outlier Factor
+0,normal,0,-0.16180805293817935,Local Outlier Factor
+0,normal,0,-0.2206400821383172,Local Outlier Factor
+0,normal,0,-0.2249314700988716,Local Outlier Factor
+0,normal,0,-0.1938036258205691,Local Outlier Factor
+0,normal,0,-0.18568987726912067,Local Outlier Factor
+0,normal,0,-0.2038606549245916,Local Outlier Factor
+0,normal,0,-0.011972867418290623,Local Outlier Factor
+0,normal,0,-0.22341238941525932,Local Outlier Factor
+0,normal,0,-0.17428324615664925,Local Outlier Factor
+1,invalid_age_range,1,3.8723701439824456,Local Outlier Factor
+0,normal,0,-0.15673070600101813,Local Outlier Factor
+0,normal,0,-0.21231795371626205,Local Outlier Factor
+0,normal,0,-0.11519216875466465,Local Outlier Factor
+0,normal,0,-0.22555792994053725,Local Outlier Factor
+0,normal,0,-0.2285869284595219,Local Outlier Factor
+0,normal,0,-0.26698744059018686,Local Outlier Factor
+0,normal,0,-0.16946967451186468,Local Outlier Factor
+0,normal,0,-0.22015352177202274,Local Outlier Factor
+0,normal,0,-0.21433710151224705,Local Outlier Factor
+0,normal,0,-0.2072012328794821,Local Outlier Factor
+0,normal,0,-0.2301932811159928,Local Outlier Factor
+0,normal,0,-0.19170309093905447,Local Outlier Factor
+1,extreme_enrollment,1,27.9371110115078,Local Outlier Factor
+0,normal,0,-0.22206481079721851,Local Outlier Factor
+0,normal,0,-0.16092077701917273,Local Outlier Factor
+0,normal,0,-0.17895226898163163,Local Outlier Factor
+0,normal,0,-0.16193596859837323,Local Outlier Factor
+0,normal,0,-0.15633346751304478,Local Outlier Factor
+0,normal,0,-0.24031293409201715,Local Outlier Factor
+0,normal,0,-0.2244110149410401,Local Outlier Factor
+0,normal,0,-0.21095359176817863,Local Outlier Factor
+0,normal,0,-0.1981518554452495,Local Outlier Factor
+0,normal,0,-0.21748362006885835,Local Outlier Factor
+0,normal,0,-0.09181732000537535,Local Outlier Factor
+0,normal,0,-0.23098694159557254,Local Outlier Factor
+0,normal,0,-0.13387526987523435,Local Outlier Factor
+0,normal,0,-0.24511500921242235,Local Outlier Factor
+0,normal,0,-0.13267760583650667,Local Outlier Factor
+0,normal,0,-0.15646284709944291,Local Outlier Factor
+0,normal,0,-0.16294118929063917,Local Outlier Factor
+0,normal,0,-0.1985512467636914,Local Outlier Factor
+0,normal,0,-0.16351823164531476,Local Outlier Factor
+0,normal,0,-0.1603639446906473,Local Outlier Factor
+0,normal,0,-0.2430721332782776,Local Outlier Factor
+0,normal,0,-0.1439257276429613,Local Outlier Factor
+0,normal,0,-0.08516743846279384,Local Outlier Factor
+0,normal,0,-0.18722339733726168,Local Outlier Factor
+0,normal,0,-0.16149891330303445,Local Outlier Factor
+0,normal,0,-0.1721671489162162,Local Outlier Factor
+0,normal,0,-0.2101377937081712,Local Outlier Factor
+0,normal,0,-0.19871977866878687,Local Outlier Factor
+0,normal,0,-0.1206048206602448,Local Outlier Factor
+0,normal,0,-0.24415128518181928,Local Outlier Factor
+0,normal,0,-0.15938328517599842,Local Outlier Factor
+0,normal,0,-0.24659566341509387,Local Outlier Factor
+0,normal,0,-0.23018956602092422,Local Outlier Factor
+0,normal,0,-0.1013646837786577,Local Outlier Factor
+0,normal,0,-0.1561670738796701,Local Outlier Factor
+0,normal,0,-0.2520363563296021,Local Outlier Factor
+0,normal,0,-0.22967415347860531,Local Outlier Factor
+0,normal,0,-0.2287268188650472,Local Outlier Factor
+0,normal,0,-0.1544066169267535,Local Outlier Factor
+0,normal,0,-0.21385121098841742,Local Outlier Factor
+0,normal,0,-0.11228499898428379,Local Outlier Factor
+0,normal,0,-0.22524823396977167,Local Outlier Factor
+0,normal,0,-0.1137214191643845,Local Outlier Factor
+0,normal,0,-0.06421573731321573,Local Outlier Factor
+0,normal,0,-0.23540801848471538,Local Outlier Factor
+0,normal,0,-0.12963506048441475,Local Outlier Factor
+0,normal,0,-0.1956543422350825,Local Outlier Factor
+0,normal,0,-0.14748410784521093,Local Outlier Factor
+0,normal,0,-0.18097875437764332,Local Outlier Factor
+0,normal,0,-0.19686642091569073,Local Outlier Factor
+0,normal,0,-0.22810930042006794,Local Outlier Factor
+0,normal,0,-0.21969492814556468,Local Outlier Factor
+0,normal,0,-0.16383004789139433,Local Outlier Factor
+0,normal,0,-0.18541426524532945,Local Outlier Factor
+0,normal,0,-0.2513797678270594,Local Outlier Factor
+0,normal,0,-0.22200806757615554,Local Outlier Factor
+0,normal,0,-0.09572611429836653,Local Outlier Factor
+0,normal,0,-0.20939882976754753,Local Outlier Factor
+0,normal,0,-0.2126268741356725,Local Outlier Factor
+0,normal,0,-0.09274527785651365,Local Outlier Factor
+0,normal,0,-0.16102970241281134,Local Outlier Factor
+0,normal,0,-0.1720389916288434,Local Outlier Factor
+0,normal,0,-0.25564291075260603,Local Outlier Factor
+1,invalid_age_range,1,4.648782826588655,Local Outlier Factor
+0,normal,0,-0.21175327186275017,Local Outlier Factor
+0,normal,0,-0.25123775363910217,Local Outlier Factor
+0,normal,0,-0.22047654850434717,Local Outlier Factor
+0,normal,0,-0.0598759651377887,Local Outlier Factor
+0,normal,0,-0.11773771202215766,Local Outlier Factor
+0,normal,0,-0.23377790255166264,Local Outlier Factor
+0,normal,0,-0.16616702878678624,Local Outlier Factor
+0,normal,0,-0.2064042309513725,Local Outlier Factor
+0,normal,0,-0.20138474641880366,Local Outlier Factor
+0,normal,0,-0.22828200704970547,Local Outlier Factor
+0,normal,0,-0.22935596386419288,Local Outlier Factor
+0,normal,0,-0.21193704158105664,Local Outlier Factor
+0,normal,0,-0.20674161817638592,Local Outlier Factor
+0,normal,0,-0.1838964490768249,Local Outlier Factor
+0,normal,0,-0.24766034746909682,Local Outlier Factor
+0,normal,0,-0.16309952263649596,Local Outlier Factor
+0,normal,0,-0.2321758506983812,Local Outlier Factor
+0,normal,0,-0.13703720335243696,Local Outlier Factor
+0,normal,0,-0.24557402889955227,Local Outlier Factor
+0,normal,0,-0.19636754513055688,Local Outlier Factor
+1,extreme_enrollment,1,25.967899922685532,Local Outlier Factor
+0,normal,0,-0.20724107388291801,Local Outlier Factor
+0,normal,0,-0.18541229807977877,Local Outlier Factor
+0,normal,0,-0.2354605472080008,Local Outlier Factor
+0,normal,0,-0.21249423164834846,Local Outlier Factor
+0,normal,0,-0.14889951305799332,Local Outlier Factor
+0,normal,0,-0.20905250700197975,Local Outlier Factor
+0,normal,0,-0.13393012986460562,Local Outlier Factor
+0,normal,0,-0.20571580304281634,Local Outlier Factor
+0,normal,1,0.17859094467102876,Local Outlier Factor
+0,normal,0,-0.20536532777896288,Local Outlier Factor
+0,normal,0,-0.1905182947278612,Local Outlier Factor
+0,normal,0,-0.1604483280688549,Local Outlier Factor
+0,normal,0,-0.24482927715133618,Local Outlier Factor
+0,normal,0,-0.24606612210566825,Local Outlier Factor
+0,normal,0,-0.2346711731676301,Local Outlier Factor
+0,normal,0,-0.22098674365566606,Local Outlier Factor
+0,normal,0,-0.18971395973809724,Local Outlier Factor
+0,normal,0,-0.2099168147996222,Local Outlier Factor
+0,normal,0,-0.23148503878185367,Local Outlier Factor
+0,normal,0,-0.23977840074004653,Local Outlier Factor
+0,normal,0,-0.2336717407051525,Local Outlier Factor
+0,normal,0,-0.2024200526983635,Local Outlier Factor
+0,normal,0,-0.24789177013657948,Local Outlier Factor
+0,normal,0,-0.11944752129055192,Local Outlier Factor
+0,normal,0,-0.2250317135617652,Local Outlier Factor
+0,normal,0,-0.144363969145608,Local Outlier Factor
+0,normal,0,-0.19632213583659874,Local Outlier Factor
+0,normal,0,-0.20457686157268795,Local Outlier Factor
+0,normal,0,-0.18707555984127855,Local Outlier Factor
+0,normal,0,-0.18957387246986368,Local Outlier Factor
+0,normal,0,-0.20531222236009028,Local Outlier Factor
+0,normal,0,-0.2006263590314865,Local Outlier Factor
+0,normal,0,-0.1697129812224243,Local Outlier Factor
+0,normal,0,-0.13700027220565958,Local Outlier Factor
+0,normal,0,-0.21653383107737034,Local Outlier Factor
+0,normal,0,-0.22276915689227272,Local Outlier Factor
+0,normal,0,-0.20464067940372854,Local Outlier Factor
+0,normal,0,-0.22027106742552327,Local Outlier Factor
+0,normal,0,-0.14400321836982766,Local Outlier Factor
+0,normal,0,-0.18884280112369178,Local Outlier Factor
+0,normal,0,-0.250812112817121,Local Outlier Factor
+0,normal,0,-0.14861867462502487,Local Outlier Factor
+0,normal,0,-0.19321149408097016,Local Outlier Factor
+0,normal,0,-0.22818121713073913,Local Outlier Factor
+0,normal,0,-0.0095377844200486,Local Outlier Factor
+0,normal,0,-0.22656178371643176,Local Outlier Factor
+0,normal,0,-0.20656245495802072,Local Outlier Factor
+0,normal,0,-0.10165722556572687,Local Outlier Factor
+0,normal,0,-0.10437205104362923,Local Outlier Factor
+0,normal,0,-0.2299418108973852,Local Outlier Factor
+0,normal,0,-0.22188944552707524,Local Outlier Factor
+0,normal,0,-0.171314660124118,Local Outlier Factor
+1,invalid_age_range,1,4.450989958294406,Local Outlier Factor
+0,normal,0,-0.0053942284119645745,Local Outlier Factor
+0,normal,0,-0.22580473065884132,Local Outlier Factor
+0,normal,1,0.10511233268440856,Local Outlier Factor
+0,normal,0,-0.11355186294880415,Local Outlier Factor
+0,normal,1,0.015948995767702367,Local Outlier Factor
+0,normal,0,-0.14518986133149636,Local Outlier Factor
+0,normal,0,-0.13583971277485896,Local Outlier Factor
+0,normal,0,-0.15002316997388965,Local Outlier Factor
+0,normal,1,0.12341318591337269,Local Outlier Factor
+0,normal,0,-0.16006446660356044,Local Outlier Factor
+0,normal,0,-0.18312777671191083,Local Outlier Factor
+0,normal,0,-0.1954108295416057,Local Outlier Factor
+0,normal,0,-0.1938000711664012,Local Outlier Factor
+0,normal,1,0.054466435778429245,Local Outlier Factor
+0,normal,0,-0.18641765075289474,Local Outlier Factor
+0,normal,0,-0.08609017142336528,Local Outlier Factor
+0,normal,0,-0.20563752342337804,Local Outlier Factor
+0,normal,0,-0.18053603921607286,Local Outlier Factor
+0,normal,0,-0.19628600522139328,Local Outlier Factor
+0,normal,0,-0.21398721767775886,Local Outlier Factor
+0,normal,0,-0.24052466520899496,Local Outlier Factor
+0,normal,0,-0.14055297886493334,Local Outlier Factor
+0,normal,0,-0.13523040776164552,Local Outlier Factor
+0,normal,0,-0.23036172142185907,Local Outlier Factor
+0,normal,0,-0.18351192401495697,Local Outlier Factor
+0,normal,0,-0.20756763685157376,Local Outlier Factor
+0,normal,0,-0.22581484475079394,Local Outlier Factor
+0,normal,0,-0.23993350192698792,Local Outlier Factor
+0,normal,0,-0.15270689889971445,Local Outlier Factor
+0,normal,0,-0.17540652568168458,Local Outlier Factor
+0,normal,0,-0.23141195016491023,Local Outlier Factor
+0,normal,0,-0.18506788197523827,Local Outlier Factor
+0,normal,0,-0.23488550048567414,Local Outlier Factor
+0,normal,0,-0.12712777511683937,Local Outlier Factor
+0,normal,0,-0.20275388211526946,Local Outlier Factor
+1,invalid_age_range,1,5.333978291382366,Local Outlier Factor
+1,extreme_enrollment,1,32.377649900095335,Local Outlier Factor
+0,normal,0,-0.22336544775333,Local Outlier Factor
+0,normal,0,-0.19616754679945347,Local Outlier Factor
+0,normal,0,-0.21285946637625952,Local Outlier Factor
+0,normal,0,-0.016765380628031457,Local Outlier Factor
+0,normal,0,-0.18820561422093363,Local Outlier Factor
+0,normal,0,-0.23751482551117264,Local Outlier Factor
+0,normal,0,-0.22905490264909856,Local Outlier Factor
+0,normal,0,-0.09810434443949756,Local Outlier Factor
+0,normal,0,-0.17475272022425403,Local Outlier Factor
+0,normal,0,-0.20545707559907034,Local Outlier Factor
+0,normal,0,-0.161218354673754,Local Outlier Factor
+0,normal,0,-0.20028373656617848,Local Outlier Factor
+0,normal,0,-0.21911783547241637,Local Outlier Factor
+0,normal,0,-0.2288533830197409,Local Outlier Factor
+0,normal,0,-0.1766705927656287,Local Outlier Factor
+0,normal,0,-0.10427906807043086,Local Outlier Factor
+0,normal,0,-0.20960921411300615,Local Outlier Factor
+0,normal,0,-0.13210246732634312,Local Outlier Factor
+0,normal,0,-0.22949558696610595,Local Outlier Factor
+0,normal,0,-0.21093873232084137,Local Outlier Factor
+0,normal,0,-0.20322990781171346,Local Outlier Factor
+0,normal,0,-0.2162209750370223,Local Outlier Factor
+0,normal,0,-0.21190574819304553,Local Outlier Factor
+0,normal,0,-0.1782544791279821,Local Outlier Factor
+0,normal,0,-0.09553260810430819,Local Outlier Factor
+0,normal,0,-0.13236193400632001,Local Outlier Factor
+0,normal,0,-0.1672727233979494,Local Outlier Factor
+0,normal,0,-0.20164716742772337,Local Outlier Factor
+0,normal,0,-0.14826525555701187,Local Outlier Factor
+0,normal,0,-0.19389363973292717,Local Outlier Factor
+0,normal,0,-0.18067328348958256,Local Outlier Factor
+0,normal,0,-0.2385776225178784,Local Outlier Factor
+0,normal,0,-0.21664602576918957,Local Outlier Factor
+0,normal,0,-0.21199357190349977,Local Outlier Factor
+0,normal,0,-0.22007602480076005,Local Outlier Factor
+0,normal,0,-0.19372896685697616,Local Outlier Factor
+0,normal,0,-0.09241115965133462,Local Outlier Factor
+0,normal,0,-0.155823772166364,Local Outlier Factor
+0,normal,0,-0.12031852924552222,Local Outlier Factor
+0,normal,0,-0.23764873833981537,Local Outlier Factor
+0,normal,0,-0.2063810441631233,Local Outlier Factor
+1,extreme_enrollment,1,20.09642909095371,Local Outlier Factor
+0,normal,0,-0.21104931400164983,Local Outlier Factor
+0,normal,0,-0.23518468243975832,Local Outlier Factor
+0,normal,0,-0.18862799206959235,Local Outlier Factor
+0,normal,0,-0.14753930328671294,Local Outlier Factor
+0,normal,0,-0.10047174704185347,Local Outlier Factor
+0,normal,0,-0.15974130104956386,Local Outlier Factor
+0,normal,0,-0.016282679847132053,Local Outlier Factor
+0,normal,0,-0.1938741434168878,Local Outlier Factor
+0,normal,0,-0.1426974653834432,Local Outlier Factor
+0,normal,0,-0.1735504443660587,Local Outlier Factor
+0,normal,0,-0.18664680402825984,Local Outlier Factor
+0,normal,1,0.09222738004426634,Local Outlier Factor
+0,normal,0,-0.22803444787000027,Local Outlier Factor
+0,normal,0,-0.24622690638485822,Local Outlier Factor
+0,normal,0,-0.18795684450859662,Local Outlier Factor
+0,normal,0,-0.25267197816979525,Local Outlier Factor
+0,normal,0,-0.21672314250114333,Local Outlier Factor
+0,normal,0,-0.1863520974874293,Local Outlier Factor
+0,normal,0,-0.22006011947859205,Local Outlier Factor
+0,normal,0,-0.212765780385181,Local Outlier Factor
+0,normal,0,-0.005779094853163302,Local Outlier Factor
+0,normal,0,-0.22727858104304577,Local Outlier Factor
+0,normal,0,-0.038521994412335836,Local Outlier Factor
+0,normal,0,-0.10909124254097202,Local Outlier Factor
+0,normal,0,-0.21585599004836054,Local Outlier Factor
+0,normal,0,-0.15131648052739566,Local Outlier Factor
+0,normal,0,-0.14405082564743332,Local Outlier Factor
+0,normal,1,0.07986090774738352,Local Outlier Factor
+0,normal,0,-0.203047983663311,Local Outlier Factor
+0,normal,0,-0.18429199916658723,Local Outlier Factor
+0,normal,0,-0.02710658002259736,Local Outlier Factor
+0,normal,0,-0.1969503640341883,Local Outlier Factor
+0,normal,0,-0.1393730895085703,Local Outlier Factor
+0,normal,0,-0.1630934340100998,Local Outlier Factor
+0,normal,0,-0.23551090007000097,Local Outlier Factor
+0,normal,0,-0.04074940380591774,Local Outlier Factor
+0,normal,0,-0.22716151984591026,Local Outlier Factor
+1,invalid_age_range,1,3.305438779456166,Local Outlier Factor
+0,normal,0,-0.22351650737303141,Local Outlier Factor
+1,extreme_duration,1,3.0169669731327984,Local Outlier Factor
+0,normal,0,-0.2262960750252616,Local Outlier Factor
+1,invalid_age_range,1,4.46182659977889,Local Outlier Factor
+1,extreme_enrollment,1,19.808183321111127,Local Outlier Factor
+0,normal,0,-0.05163878844318326,Local Outlier Factor
+0,normal,0,-0.23271959645707874,Local Outlier Factor
+0,normal,0,-0.1554997633723958,Local Outlier Factor
+0,normal,0,-0.21864336449414923,Local Outlier Factor
+1,invalid_age_range,1,3.248189956929777,Local Outlier Factor
+0,normal,0,-0.2127174712815525,Local Outlier Factor
+0,normal,0,-0.19105053521656967,Local Outlier Factor
+0,normal,0,-0.2314223043613597,Local Outlier Factor
+1,extreme_duration,1,3.3603756806016136,Local Outlier Factor
+1,extreme_enrollment,1,23.232974850858234,Local Outlier Factor
+0,normal,0,-0.2080500786337609,Local Outlier Factor
+0,normal,0,-0.19655009725150197,Local Outlier Factor
+0,normal,0,-0.23241002488611284,Local Outlier Factor
+0,normal,0,-0.1822069228674028,Local Outlier Factor
+0,normal,0,-0.20675454276402094,Local Outlier Factor
+0,normal,0,-0.22256715459714482,Local Outlier Factor
+0,normal,0,-0.17168169624330543,Local Outlier Factor
+0,normal,0,-0.2301450755248302,Local Outlier Factor
+0,normal,0,-0.22099054002271035,Local Outlier Factor
+0,normal,0,-0.2266061955026486,Local Outlier Factor
+0,normal,0,-0.06603377420165257,Local Outlier Factor
+0,normal,0,-0.14721251695048698,Local Outlier Factor
+0,normal,0,-0.21578026142426143,Local Outlier Factor
+0,normal,0,-0.12627559895894924,Local Outlier Factor
+0,normal,0,-0.10161804230356575,Local Outlier Factor
+0,normal,0,-0.17867966388553524,Local Outlier Factor
+0,normal,0,-0.18743149574387918,Local Outlier Factor
+0,normal,0,-0.2064004007838447,Local Outlier Factor
+0,normal,0,-0.17851241960221675,Local Outlier Factor
+0,normal,0,-0.22390602856862296,Local Outlier Factor
+0,normal,0,-0.08541007510195131,Local Outlier Factor
+0,normal,0,-0.21821991999435153,Local Outlier Factor
+0,normal,0,-0.19681708740590365,Local Outlier Factor
+0,normal,0,-0.23558456165099761,Local Outlier Factor
+0,normal,0,-0.20813855883753551,Local Outlier Factor
+0,normal,0,-0.17886245164574155,Local Outlier Factor
+0,normal,0,-0.1021696213238914,Local Outlier Factor
+0,normal,0,-0.18446331942184147,Local Outlier Factor
+0,normal,0,-0.043076343538859474,Local Outlier Factor
+0,normal,0,-0.17289585650890382,Local Outlier Factor
+0,normal,0,-0.2068583150130998,Local Outlier Factor
+0,normal,0,-0.22982044023040582,Local Outlier Factor
+0,normal,0,-0.23062649016682069,Local Outlier Factor
+0,normal,0,-0.20379869391411054,Local Outlier Factor
+0,normal,0,-0.13590252039122963,Local Outlier Factor
+0,normal,1,0.03356207883181006,Local Outlier Factor
+0,normal,0,-0.22275440044652517,Local Outlier Factor
+0,normal,0,-0.22441297531999815,Local Outlier Factor
+1,extreme_enrollment,1,30.68572473711875,Local Outlier Factor
+0,normal,0,-0.24449930780786744,Local Outlier Factor
+0,normal,0,-0.22964694962296583,Local Outlier Factor
+0,normal,0,-0.22597786229846917,Local Outlier Factor
+0,normal,0,-0.24095519537822785,Local Outlier Factor
+1,extreme_duration,1,5.63541607832553,Local Outlier Factor
+0,normal,0,-0.19766704823586467,Local Outlier Factor
+0,normal,1,0.0015803533290585925,Local Outlier Factor
+0,normal,0,-0.2008049243663359,Local Outlier Factor
+0,normal,0,-0.22957301956233833,Local Outlier Factor
+0,normal,0,-0.22375953064418397,Local Outlier Factor
+0,normal,0,-0.18184878312735364,Local Outlier Factor
+1,invalid_age_range,1,2.945564824561065,Local Outlier Factor
+0,normal,0,-0.1951301707153752,Local Outlier Factor
+0,normal,0,-0.17247084833293447,Local Outlier Factor
+0,normal,0,-0.2083025487467498,Local Outlier Factor
+0,normal,0,-0.02186089392409718,Local Outlier Factor
+1,extreme_enrollment,1,19.735175832981877,Local Outlier Factor
+0,normal,0,-0.1877039279938999,Local Outlier Factor
+0,normal,0,-0.09793621764022875,Local Outlier Factor
+1,extreme_enrollment,1,36.63437388905541,Local Outlier Factor
+0,normal,0,-0.2512227949248681,Local Outlier Factor
+0,normal,0,-0.17546174546399573,Local Outlier Factor
+0,normal,0,-0.1916608926817862,Local Outlier Factor
+0,normal,0,-0.18136071746195404,Local Outlier Factor
+0,normal,0,-0.22061409476872051,Local Outlier Factor
+0,normal,0,-0.21162457759726072,Local Outlier Factor
+0,normal,0,-0.15110365533796255,Local Outlier Factor
+0,normal,0,-0.1931216634287929,Local Outlier Factor
+0,normal,0,-0.207106898905272,Local Outlier Factor
+0,normal,0,-0.2275870956230872,Local Outlier Factor
+0,normal,0,-0.10422962570260319,Local Outlier Factor
+0,normal,0,-0.08723075089192678,Local Outlier Factor
+0,normal,0,-0.22161040861111414,Local Outlier Factor
+0,normal,0,-0.22641705315525074,Local Outlier Factor
+0,normal,0,-0.2481084387432244,Local Outlier Factor
+0,normal,0,-0.03295717864534575,Local Outlier Factor
+0,normal,0,-0.2047217490654507,Local Outlier Factor
+0,normal,0,-0.23201215028557964,Local Outlier Factor
+0,normal,0,-0.20107821183831698,Local Outlier Factor
+1,invalid_age_range,1,3.2188638789187616,Local Outlier Factor
+0,normal,0,-0.21163979724329662,Local Outlier Factor
+0,normal,0,-0.21658360664541143,Local Outlier Factor
+0,normal,0,-0.16343991960587934,Local Outlier Factor
+0,normal,0,-0.14982501942284276,Local Outlier Factor
+0,normal,0,-0.11845660060800922,Local Outlier Factor
+0,normal,0,-0.17676085926597063,Local Outlier Factor
+0,normal,0,-0.09936713483531201,Local Outlier Factor
+0,normal,0,-0.16755229484266265,Local Outlier Factor
+0,normal,0,-0.25484991057767314,Local Outlier Factor
+0,normal,0,-0.16877228568486302,Local Outlier Factor
+0,normal,0,-0.199418633974618,Local Outlier Factor
+0,normal,0,-0.2313269558554728,Local Outlier Factor
+0,normal,0,-0.13971112340331282,Local Outlier Factor
+0,normal,0,-0.2024601918428781,Local Outlier Factor
+0,normal,0,-0.17376605502638376,Local Outlier Factor
+0,normal,1,0.06224888822171737,Local Outlier Factor
+0,normal,1,0.14239553973457286,Local Outlier Factor
+0,normal,0,-0.09934337350731415,Local Outlier Factor
+0,normal,1,0.010989315476637618,Local Outlier Factor
+0,normal,0,-0.04053235746323347,Local Outlier Factor
+0,normal,1,0.026449158547773077,Local Outlier Factor
+0,normal,0,-0.03613712699225591,Local Outlier Factor
+0,normal,0,-0.14371474209681523,Local Outlier Factor
+0,normal,0,-0.16030855324619186,Local Outlier Factor
+0,normal,0,-0.20836256363186,Local Outlier Factor
+0,normal,0,-0.07676829367817573,Local Outlier Factor
+0,normal,0,-0.22172892609791783,Local Outlier Factor
+0,normal,0,-0.2345041826209291,Local Outlier Factor
+0,normal,0,-0.18952410465127545,Local Outlier Factor
+0,normal,0,-0.22356892966174868,Local Outlier Factor
+0,normal,0,-0.23112897471588023,Local Outlier Factor
+0,normal,0,-0.15349165350471017,Local Outlier Factor
+1,extreme_duration,1,4.022807252124055,Local Outlier Factor
+0,normal,0,-0.21225411497969615,Local Outlier Factor
+0,normal,0,-0.21509379909652426,Local Outlier Factor
+0,normal,0,-0.23249616476793433,Local Outlier Factor
+0,normal,0,-0.09856296817371524,Local Outlier Factor
+0,normal,0,-0.19870737148992168,Local Outlier Factor
+0,normal,0,-0.09700306128867386,Local Outlier Factor
+1,invalid_age_range,1,4.448319428692413,Local Outlier Factor
+0,normal,0,-0.13879740903446103,Local Outlier Factor
+0,normal,0,-0.2348398073886392,Local Outlier Factor
+0,normal,0,-0.221546492142078,Local Outlier Factor
+0,normal,0,-0.16538949405082848,Local Outlier Factor
+0,normal,1,0.033509301681827086,Local Outlier Factor
+0,normal,0,-0.21959902667635212,Local Outlier Factor
+0,normal,0,-0.17308949322862466,Local Outlier Factor
+0,normal,0,-0.2450576795466517,Local Outlier Factor
+0,normal,0,-0.2408963742705328,Local Outlier Factor
+0,normal,0,-0.1412080690669899,Local Outlier Factor
+0,normal,0,-0.20131572723385616,Local Outlier Factor
+0,normal,0,-0.2276112183903769,Local Outlier Factor
+0,normal,0,-0.14425844124326748,Local Outlier Factor
+0,normal,0,-0.23431397810203847,Local Outlier Factor
+0,normal,0,-0.19436508535363073,Local Outlier Factor
+0,normal,0,-0.22526529957381358,Local Outlier Factor
+0,normal,0,-0.10735791567611708,Local Outlier Factor
+0,normal,0,-0.16473698564497696,Local Outlier Factor
+0,normal,1,0.7160811630605228,Local Outlier Factor
+0,normal,0,-0.18517302063857022,Local Outlier Factor
+0,normal,0,-0.2444975280330468,Local Outlier Factor
+0,normal,0,-0.2499519656567737,Local Outlier Factor
+0,normal,0,-0.14041650548211893,Local Outlier Factor
+0,normal,0,-0.20050898658234728,Local Outlier Factor
+0,normal,0,-0.23586077935926197,Local Outlier Factor
+0,normal,0,-0.16636044434948438,Local Outlier Factor
+0,normal,1,0.06176143702364634,Local Outlier Factor
+0,normal,0,-0.15746125763061536,Local Outlier Factor
+0,normal,0,-0.0489999592056769,Local Outlier Factor
+0,normal,0,-0.17476177987885277,Local Outlier Factor
+0,normal,0,-0.07783103079872644,Local Outlier Factor
+0,normal,0,-0.08145078018743046,Local Outlier Factor
+0,normal,0,-0.23379146645323734,Local Outlier Factor
+0,normal,0,-0.07074758105434897,Local Outlier Factor
+0,normal,0,-0.15448997595801273,Local Outlier Factor
+0,normal,0,-0.1855784785300707,Local Outlier Factor
+0,normal,0,-0.23503379163101523,Local Outlier Factor
+0,normal,0,-0.039734207402309485,Local Outlier Factor
+0,normal,0,-0.22663088047625557,Local Outlier Factor
+0,normal,0,-0.2415873098804313,Local Outlier Factor
+0,normal,0,-0.21321149799991246,Local Outlier Factor
+0,normal,0,-0.15497212562323526,Local Outlier Factor
+0,normal,0,-0.11221000502370071,Local Outlier Factor
+0,normal,0,-0.1874772122574102,Local Outlier Factor
+0,normal,0,-0.19029204313298198,Local Outlier Factor
+0,normal,0,-0.21091732125100937,Local Outlier Factor
+0,normal,0,-0.22351987146764385,Local Outlier Factor
+0,normal,0,-0.15829814858606261,Local Outlier Factor
+0,normal,0,-0.23552224561848212,Local Outlier Factor
+0,normal,0,-0.20956264187334983,Local Outlier Factor
+0,normal,0,-0.19170634998959724,Local Outlier Factor
+0,normal,1,0.059470707325627314,Local Outlier Factor
+0,normal,0,-0.1439437994189008,Local Outlier Factor
+0,normal,0,-0.17395291283978764,Local Outlier Factor
+0,normal,0,-0.21544272738210624,Local Outlier Factor
+0,normal,0,-0.12579393728563137,Local Outlier Factor
+1,invalid_age_range,1,3.9495842955429,Local Outlier Factor
+0,normal,0,-0.19062108925147525,Local Outlier Factor
+0,normal,0,-0.209802092372517,Local Outlier Factor
+0,normal,0,-0.19291860452786236,Local Outlier Factor
+0,normal,0,-0.22760421643760642,Local Outlier Factor
+0,normal,0,-0.20339373313186226,Local Outlier Factor
+0,normal,1,0.17897324679042015,Local Outlier Factor
+0,normal,0,-0.18736219869248716,Local Outlier Factor
+0,normal,0,-0.08143881758937499,Local Outlier Factor
+0,normal,0,-0.19372408776738825,Local Outlier Factor
+0,normal,1,0.05030784382043407,Local Outlier Factor
+0,normal,0,-0.016365241538158326,Local Outlier Factor
+0,normal,0,-0.15048845837534985,Local Outlier Factor
+0,normal,0,-0.15347037283994824,Local Outlier Factor
+0,normal,0,-0.17549983349682874,Local Outlier Factor
+0,normal,0,-0.17940323102871925,Local Outlier Factor
+0,normal,0,-0.17923956890122494,Local Outlier Factor
+0,normal,0,-0.11757078972274093,Local Outlier Factor
+0,normal,0,-0.1977038973156824,Local Outlier Factor
+0,normal,0,-0.057747308144889375,Local Outlier Factor
+0,normal,0,-0.13901221152624021,Local Outlier Factor
+0,normal,1,0.06343932146906606,Local Outlier Factor
+0,normal,0,-0.22667919380788293,Local Outlier Factor
+0,normal,0,-0.19715736090070335,Local Outlier Factor
+0,normal,0,-0.2448272206024944,Local Outlier Factor
+0,normal,1,0.0194386632712944,Local Outlier Factor
+0,normal,0,-0.09513033703059093,Local Outlier Factor
+0,normal,0,-0.22170385362421152,Local Outlier Factor
+0,normal,0,-0.24183910315344437,Local Outlier Factor
+1,extreme_duration,1,4.591604003899577,Local Outlier Factor
+1,invalid_age_range,1,4.285281446468041,Local Outlier Factor
+0,normal,0,-0.1840718028627366,Local Outlier Factor
+0,normal,0,-0.1694756364796839,Local Outlier Factor
+0,normal,0,-0.21215769030448728,Local Outlier Factor
+0,normal,0,-0.22579766394620027,Local Outlier Factor
+0,normal,1,0.058445256159227466,Local Outlier Factor
+0,normal,1,0.005130209637227434,Local Outlier Factor
+0,normal,0,-0.22573060393026667,Local Outlier Factor
+0,normal,0,-0.18670914112222947,Local Outlier Factor
+0,normal,0,-0.17517466342632604,Local Outlier Factor
+0,normal,0,-0.22203585640000756,Local Outlier Factor
+0,normal,0,-0.23418939148312323,Local Outlier Factor
+0,normal,0,-0.20021342502552741,Local Outlier Factor
+0,normal,0,-0.20520308977339918,Local Outlier Factor
+0,normal,0,-0.161363236706348,Local Outlier Factor
+0,normal,0,-0.2223372879566552,Local Outlier Factor
+0,normal,0,-0.16624245087302403,Local Outlier Factor
+0,normal,0,-0.2045243431807684,Local Outlier Factor
+0,normal,0,-0.2073988610043367,Local Outlier Factor
+0,normal,0,-0.21034669504446368,Local Outlier Factor
+0,normal,0,-0.19899740263721433,Local Outlier Factor
+0,normal,0,-0.22726017412451727,Local Outlier Factor
+0,normal,0,-0.2139709883809635,Local Outlier Factor
+0,normal,0,-0.18506800605932727,Local Outlier Factor
+0,normal,0,-0.12981329228737826,Local Outlier Factor
+0,normal,0,-0.07575595967898385,Local Outlier Factor
+0,normal,0,-0.19806590265292878,Local Outlier Factor
+0,normal,0,-0.20789014289893593,Local Outlier Factor
+0,normal,0,-0.2010037050630178,Local Outlier Factor
+0,normal,0,-0.2067413745361999,Local Outlier Factor
+0,normal,0,-0.1885001569493312,Local Outlier Factor
+0,normal,0,-0.20201745409895833,Local Outlier Factor
+0,normal,0,-0.10704295505843331,Local Outlier Factor
+1,extreme_duration,1,6.946608905036248,Local Outlier Factor
+0,normal,0,-0.23240084216809598,Local Outlier Factor
+0,normal,0,-0.05800720286949246,Local Outlier Factor
+0,normal,0,-0.15102433029319107,Local Outlier Factor
+0,normal,0,-0.13456588719319074,Local Outlier Factor
+0,normal,0,-0.24182358282790606,Local Outlier Factor
+0,normal,0,-0.2117712287880038,Local Outlier Factor
+0,normal,0,-0.21534980702352913,Local Outlier Factor
+0,normal,0,-0.23596985089380396,Local Outlier Factor
+0,normal,0,-0.19280455031824362,Local Outlier Factor
+0,normal,0,-0.1670993173419899,Local Outlier Factor
+1,extreme_duration,1,6.716114653472223,Local Outlier Factor
+0,normal,0,-0.2281286297071322,Local Outlier Factor
+0,normal,0,-0.1743716424413564,Local Outlier Factor
+0,normal,0,-0.12789786148984073,Local Outlier Factor
+0,normal,0,-0.2327611524721631,Local Outlier Factor
+0,normal,0,-0.2385585248020755,Local Outlier Factor
+0,normal,1,0.16304042677774433,Local Outlier Factor
+0,normal,0,-0.1900813543069113,Local Outlier Factor
+0,normal,0,-0.1953682134098469,Local Outlier Factor
+0,normal,0,-0.14345039254442038,Local Outlier Factor
+0,normal,0,-0.22651705380046527,Local Outlier Factor
+0,normal,0,-0.17362886836630143,Local Outlier Factor
+0,normal,0,-0.21803189817731194,Local Outlier Factor
+0,normal,0,-0.21018335442704417,Local Outlier Factor
+0,normal,0,-0.23950668787615825,Local Outlier Factor
+0,normal,0,-0.18332882489081048,Local Outlier Factor
+0,normal,0,-0.16611933206724538,Local Outlier Factor
+0,normal,0,-0.19563908657959184,Local Outlier Factor
+0,normal,0,-0.2094585522915844,Local Outlier Factor
+0,normal,0,-0.2136017883488448,Local Outlier Factor
+0,normal,0,-0.14557979033758217,Local Outlier Factor
+0,normal,0,-0.18209460433812152,Local Outlier Factor
+0,normal,0,-0.05115944841963982,Local Outlier Factor
+0,normal,0,-0.24869637309198356,Local Outlier Factor
+0,normal,0,-0.22778650455928373,Local Outlier Factor
+1,extreme_enrollment,1,23.17299792353126,Local Outlier Factor
+0,normal,0,-0.06416364113868611,Local Outlier Factor
+0,normal,0,-0.26040920263515466,Local Outlier Factor
+0,normal,0,-0.14621051052692202,Local Outlier Factor
+0,normal,0,-0.23682942814899588,Local Outlier Factor
+0,normal,0,-0.2407103721555155,Local Outlier Factor
+0,normal,0,-0.17936326521475587,Local Outlier Factor
+0,normal,0,-0.21481131421570554,Local Outlier Factor
+0,normal,0,-0.13003449372111486,Local Outlier Factor
+0,normal,0,-0.1623701938951998,Local Outlier Factor
+0,normal,0,-0.220083382930786,Local Outlier Factor
+0,normal,0,-0.22499518899360527,Local Outlier Factor
+0,normal,0,-0.20659566294595733,Local Outlier Factor
+0,normal,0,-0.15048625697598883,Local Outlier Factor
+0,normal,0,-0.19278353531203263,Local Outlier Factor
+0,normal,0,-0.09237195196337522,Local Outlier Factor
+0,normal,0,-0.25637910043854206,Local Outlier Factor
+0,normal,0,-0.15507150075692966,Local Outlier Factor
+0,normal,0,-0.1710839939046056,Local Outlier Factor
+0,normal,0,-0.22681143865378095,Local Outlier Factor
+0,normal,0,-0.18446117910119808,Local Outlier Factor
+0,normal,0,-0.017855367620717155,Local Outlier Factor
+0,normal,0,-0.2238108255648652,Local Outlier Factor
+0,normal,0,-0.21723626946238594,Local Outlier Factor
+0,normal,0,-0.1835351267857146,Local Outlier Factor
+0,normal,1,0.10094429090590218,Local Outlier Factor
+0,normal,0,-0.18240879338125504,Local Outlier Factor
+0,normal,0,-0.18941551627316455,Local Outlier Factor
+0,normal,0,-0.24114686977131927,Local Outlier Factor
+0,normal,0,-0.16648128065983125,Local Outlier Factor
+0,normal,0,-0.20681143856835082,Local Outlier Factor
+0,normal,0,-0.24289201673809857,Local Outlier Factor
+0,normal,0,-0.16747309711554825,Local Outlier Factor
+0,normal,0,-0.20648381740210509,Local Outlier Factor
+0,normal,0,-0.15172215598935024,Local Outlier Factor
+0,normal,0,-0.24519864076165676,Local Outlier Factor
+0,normal,0,-0.18854299808375674,Local Outlier Factor
+0,normal,0,-0.20732058602600079,Local Outlier Factor
+0,normal,0,-0.18982336260152666,Local Outlier Factor
+0,normal,0,-0.0790287785275916,Local Outlier Factor
+0,normal,0,-0.19555658629533856,Local Outlier Factor
+0,normal,0,-0.14108422623003292,Local Outlier Factor
+0,normal,0,-0.21083628378142683,Local Outlier Factor
+0,normal,0,-0.25296243202910595,Local Outlier Factor
+0,normal,0,-0.17941539901897996,Local Outlier Factor
+0,normal,0,-0.22240594821659032,Local Outlier Factor
+0,normal,0,-0.16524945146338665,Local Outlier Factor
+0,normal,0,-0.21395920674115887,Local Outlier Factor
+0,normal,0,-0.2303117642313136,Local Outlier Factor
+0,normal,0,-0.19819557392614606,Local Outlier Factor
+0,normal,0,-0.2270976554293136,Local Outlier Factor
+0,normal,0,-0.15288972369726594,Local Outlier Factor
+1,extreme_duration,1,5.566535273749687,Local Outlier Factor
+0,normal,0,-0.12491167823580263,Local Outlier Factor
+0,normal,0,-0.14446211492392558,Local Outlier Factor
+0,normal,0,-0.20693153254428198,Local Outlier Factor
+0,normal,0,-0.23233249533809952,Local Outlier Factor
+0,normal,0,-0.06578331540833093,Local Outlier Factor
+0,normal,0,-0.01194453069308854,Local Outlier Factor
+0,normal,0,-0.23658965130869924,Local Outlier Factor
+0,normal,0,-0.21492172172647606,Local Outlier Factor
+0,normal,0,-0.11790829657633539,Local Outlier Factor
+0,normal,0,-0.20676389638403303,Local Outlier Factor
+0,normal,0,-0.21074523633520403,Local Outlier Factor
+0,normal,0,-0.2196052735174081,Local Outlier Factor
+0,normal,0,-0.2240493207374814,Local Outlier Factor
+0,normal,0,-0.1532486590655595,Local Outlier Factor
+0,normal,0,-0.22926739399975404,Local Outlier Factor
+0,normal,0,-0.21010292047592438,Local Outlier Factor
+0,normal,0,-0.24217984107876234,Local Outlier Factor
+0,normal,0,-0.1947183168185418,Local Outlier Factor
+0,normal,0,-0.22201199733239974,Local Outlier Factor
+0,normal,0,-0.10458366234425753,Local Outlier Factor
+0,normal,0,-0.2026286560250783,Local Outlier Factor
+0,normal,0,-0.2453682036028797,Local Outlier Factor
+1,invalid_age_range,1,4.340862707924018,Local Outlier Factor
+0,normal,0,-0.06704871255185596,Local Outlier Factor
+0,normal,0,-0.22797985698232393,Local Outlier Factor
+0,normal,0,-0.2503424550976211,Local Outlier Factor
+0,normal,0,-0.22637210241926087,Local Outlier Factor
+0,normal,0,-0.210259220216368,Local Outlier Factor
+0,normal,0,-0.20743240475075764,Local Outlier Factor
+0,normal,0,-0.14613261111758313,Local Outlier Factor
+1,extreme_duration,1,3.6512685773374036,Local Outlier Factor
+0,normal,0,-0.22568539068612403,Local Outlier Factor
+0,normal,0,-0.19492722107519378,Local Outlier Factor
+0,normal,0,-0.1657705803424283,Local Outlier Factor
+0,normal,0,-0.19408814661325868,Local Outlier Factor
+0,normal,0,-0.17731892357167567,Local Outlier Factor
+1,invalid_age_range,1,3.6735620371933635,Local Outlier Factor
+0,normal,0,-0.20559143994036289,Local Outlier Factor
+0,normal,0,-0.21419400593109716,Local Outlier Factor
+0,normal,0,-0.15558857245153113,Local Outlier Factor
+0,normal,0,-0.18659342391878586,Local Outlier Factor
+0,normal,0,-0.15313187123526673,Local Outlier Factor
+0,normal,0,-0.1954097173363596,Local Outlier Factor
+1,extreme_duration,1,6.947087973292888,Local Outlier Factor
+0,normal,0,-0.1533710799876784,Local Outlier Factor
+0,normal,0,-0.24974608674156418,Local Outlier Factor
+0,normal,0,-0.23031016136925753,Local Outlier Factor
+0,normal,0,-0.2166331471746823,Local Outlier Factor
+0,normal,0,-0.2465923081310354,Local Outlier Factor
+0,normal,1,0.022536705323988437,Local Outlier Factor
+0,normal,0,-0.06526120413585779,Local Outlier Factor
+0,normal,0,-0.19841692515556986,Local Outlier Factor
+0,normal,0,-0.17455514003934347,Local Outlier Factor
+0,normal,0,-0.23609352827789842,Local Outlier Factor
+0,normal,0,-0.21503925727044715,Local Outlier Factor
+0,normal,0,-0.19855083047417565,Local Outlier Factor
+0,normal,0,-0.24022573399026081,Local Outlier Factor
+0,normal,0,-0.23882609342536865,Local Outlier Factor
+0,normal,0,-0.2168594768023704,Local Outlier Factor
+0,normal,0,-0.18615966075044588,Local Outlier Factor
+0,normal,0,-0.14075946229956204,Local Outlier Factor
+0,normal,0,-0.2278874237950237,Local Outlier Factor
+0,normal,1,0.08429849436941472,Local Outlier Factor
+0,normal,0,-0.14725702570189259,Local Outlier Factor
+0,normal,0,-0.13717421073306624,Local Outlier Factor
+0,normal,0,-0.06852880276912443,Local Outlier Factor
+0,normal,0,-0.04487181695579201,Local Outlier Factor
+0,normal,0,-0.1810317904801182,Local Outlier Factor
+0,normal,0,-0.19077120831705097,Local Outlier Factor
+0,normal,0,-0.17041093131281326,Local Outlier Factor
+0,normal,0,-0.17855932935714391,Local Outlier Factor
+0,normal,0,-0.23605319694271965,Local Outlier Factor
+0,normal,0,-0.16305193494653203,Local Outlier Factor
+0,normal,0,-0.17048100482647155,Local Outlier Factor
+1,extreme_duration,1,4.235096196479753,Local Outlier Factor
+0,normal,0,-0.21096113400644967,Local Outlier Factor
+1,extreme_duration,1,7.564609858382049,Local Outlier Factor
+0,normal,0,-0.21654097376647208,Local Outlier Factor
+0,normal,1,0.0695037245453407,Local Outlier Factor
+0,normal,0,-0.10353250786653967,Local Outlier Factor
+0,normal,0,-0.1923468182223702,Local Outlier Factor
+0,normal,0,-0.1680447065920374,Local Outlier Factor
+0,normal,0,-0.23947705476693337,Local Outlier Factor
+0,normal,0,-0.22688407330187776,Local Outlier Factor
+0,normal,0,-0.24783393537941545,Local Outlier Factor
+0,normal,0,-0.23199314540450777,Local Outlier Factor
+0,normal,0,-0.13062723587812797,Local Outlier Factor
+0,normal,0,-0.22481807423948563,Local Outlier Factor
+0,normal,0,-0.14873634210529962,Local Outlier Factor
+0,normal,0,-0.229544846722311,Local Outlier Factor
+0,normal,0,-0.15444846734181295,Local Outlier Factor
+0,normal,0,-0.19660373004627574,Local Outlier Factor
+0,normal,0,-0.12268884835649074,Local Outlier Factor
+0,normal,0,-0.21496490055437478,Local Outlier Factor
+0,normal,0,-0.13813085923077129,Local Outlier Factor
+0,normal,0,-0.23524008535312646,Local Outlier Factor
+0,normal,0,-0.11091378882366598,Local Outlier Factor
+0,normal,0,-0.18564473613832488,Local Outlier Factor
+0,normal,0,-0.1212656325411261,Local Outlier Factor
+0,normal,0,-0.19249540333597515,Local Outlier Factor
+0,normal,0,-0.23413943956590388,Local Outlier Factor
+0,normal,0,-0.19053684685914463,Local Outlier Factor
+0,normal,0,-0.17056819812837665,Local Outlier Factor
+0,normal,0,-0.18837540097548233,Local Outlier Factor
+0,normal,0,-0.2003847405085557,Local Outlier Factor
+0,normal,0,-0.1855882628771104,Local Outlier Factor
+0,normal,0,-0.01724216585912175,Local Outlier Factor
+0,normal,0,-0.18117644433207603,Local Outlier Factor
+0,normal,0,-0.18283177241576487,Local Outlier Factor
+0,normal,0,-0.16608683458467732,Local Outlier Factor
+0,normal,0,-0.12285528047008332,Local Outlier Factor
+0,normal,0,-0.23697483090203397,Local Outlier Factor
+0,normal,0,-0.2034093477632246,Local Outlier Factor
+0,normal,0,-0.18624717496939747,Local Outlier Factor
+0,normal,0,-0.16940316692022117,Local Outlier Factor
+0,normal,0,-0.20090567421104444,Local Outlier Factor
+0,normal,0,-0.21672864591428587,Local Outlier Factor
+0,normal,0,-0.19957684897419936,Local Outlier Factor
+0,normal,0,-0.1257081794830346,Local Outlier Factor
+0,normal,0,-0.25030691268048477,Local Outlier Factor
+0,normal,0,-0.2251496303936833,Local Outlier Factor
+1,invalid_age_range,1,3.705289703216481,Local Outlier Factor
+0,normal,1,0.21390145656545645,Local Outlier Factor
+0,normal,0,-0.17797647878913936,Local Outlier Factor
+0,normal,0,-0.16837056526142957,Local Outlier Factor
+0,normal,0,-0.17421076552764414,Local Outlier Factor
+0,normal,0,-0.19917676525420625,Local Outlier Factor
+0,normal,0,-0.2001076486349318,Local Outlier Factor
+0,normal,0,-0.18463573521021281,Local Outlier Factor
+0,normal,0,-0.19398621727922194,Local Outlier Factor
+0,normal,0,-0.15995844953773974,Local Outlier Factor
+0,normal,0,-0.22044432784480605,Local Outlier Factor
+0,normal,0,-0.20503934921482858,Local Outlier Factor
+1,extreme_enrollment,1,36.21335616453766,Local Outlier Factor
+0,normal,0,-0.2298987055318884,Local Outlier Factor
+0,normal,0,-0.1544637629698613,Local Outlier Factor
+0,normal,0,-0.16851870557871962,Local Outlier Factor
+0,normal,0,-0.22188740414906372,Local Outlier Factor
+0,normal,0,-0.164585350802382,Local Outlier Factor
+0,normal,0,-0.2080770339122413,Local Outlier Factor
+0,normal,0,-0.19741657361587928,Local Outlier Factor
+0,normal,0,-0.09372337282513765,Local Outlier Factor
+0,normal,0,-0.16338024967362874,Local Outlier Factor
+0,normal,0,-0.1485599136506217,Local Outlier Factor
+0,normal,1,0.07612313059010667,Local Outlier Factor
+0,normal,0,-0.11532034745355357,Local Outlier Factor
+0,normal,0,-0.2305011192417561,Local Outlier Factor
+0,normal,0,-0.19774366197285298,Local Outlier Factor
+0,normal,0,-0.21534317426060356,Local Outlier Factor
+0,normal,0,-0.22219874674582551,Local Outlier Factor
+0,normal,0,-0.13588304018828823,Local Outlier Factor
+0,normal,0,-0.2093706835872442,Local Outlier Factor
+0,normal,0,-0.24006134069078333,Local Outlier Factor
+0,normal,0,-0.23387955722803233,Local Outlier Factor
+0,normal,0,-0.21088407725639846,Local Outlier Factor
+0,normal,0,-0.05956272764357107,Local Outlier Factor
+0,normal,0,-0.05559677823880582,Local Outlier Factor
+0,normal,0,-0.23842562812271573,Local Outlier Factor
+0,normal,0,-0.1506318042876147,Local Outlier Factor
+0,normal,0,-0.15999347597521596,Local Outlier Factor
+0,normal,0,-0.2594384692344338,Local Outlier Factor
+0,normal,0,-0.08699213112392701,Local Outlier Factor
+0,normal,0,-0.20318987462373927,Local Outlier Factor
+0,normal,0,-0.16724160370766583,Local Outlier Factor
+0,normal,0,-0.20419718780539964,Local Outlier Factor
+0,normal,0,-0.2458465182105577,Local Outlier Factor
+0,normal,0,-0.14800709941635448,Local Outlier Factor
+0,normal,0,-0.1308853985620897,Local Outlier Factor
+0,normal,0,-0.23607572246856723,Local Outlier Factor
+0,normal,0,-0.24429690924521186,Local Outlier Factor
+0,normal,0,-0.1981877661119582,Local Outlier Factor
+0,normal,0,-0.1463165425704207,Local Outlier Factor
+0,normal,0,-0.2000363191251462,Local Outlier Factor
+0,normal,0,-0.10524611728421229,Local Outlier Factor
+0,normal,0,-0.25445379379630195,Local Outlier Factor
+0,normal,0,-0.2078196242154362,Local Outlier Factor
+0,normal,0,-0.22496547318987847,Local Outlier Factor
+0,normal,0,-0.1803713289215061,Local Outlier Factor
+0,normal,0,-0.2443215139925501,Local Outlier Factor
+0,normal,0,-0.19308484602560338,Local Outlier Factor
+0,normal,0,-0.0763861042766334,Local Outlier Factor
+0,normal,0,-0.158819530361467,Local Outlier Factor
+0,normal,0,-0.23807530949746236,Local Outlier Factor
+0,normal,0,-0.2190542156946642,Local Outlier Factor
+0,normal,0,-0.21072443856010503,Local Outlier Factor
+0,normal,0,-0.02500882974387042,Local Outlier Factor
+0,normal,0,-0.21747627411549342,Local Outlier Factor
+0,normal,0,-0.172828089145745,Local Outlier Factor
+0,normal,0,-0.18626684282083117,Local Outlier Factor
+0,normal,0,-0.20837525407458246,Local Outlier Factor
+0,normal,0,-0.2127331895331248,Local Outlier Factor
+0,normal,0,-0.19509959303891033,Local Outlier Factor
+0,normal,0,-0.09326870584653912,Local Outlier Factor
+0,normal,0,-0.1892737477808264,Local Outlier Factor
+0,normal,0,-0.09314013836156443,Local Outlier Factor
+1,invalid_age_range,1,4.152514864104224,Local Outlier Factor
+0,normal,0,-0.23442378542592512,Local Outlier Factor
+0,normal,0,-0.23348435723543337,Local Outlier Factor
+0,normal,0,-0.2168769257320693,Local Outlier Factor
+0,normal,0,-0.23336289841975655,Local Outlier Factor
+0,normal,0,-0.20004039853980338,Local Outlier Factor
+0,normal,0,-0.15488993709783871,Local Outlier Factor
+0,normal,0,-0.15803461001226649,Local Outlier Factor
+1,extreme_enrollment,1,11.479468174529678,Local Outlier Factor
+0,normal,0,-0.24418845434395087,Local Outlier Factor
+0,normal,0,-0.2584417580170342,Local Outlier Factor
+0,normal,0,-0.1629900723555333,Local Outlier Factor
+0,normal,0,-0.22738665404699554,Local Outlier Factor
+1,extreme_enrollment,1,30.78284995165229,Local Outlier Factor
+0,normal,0,-0.22133532150277757,Local Outlier Factor
+0,normal,0,-0.19439482596261604,Local Outlier Factor
+0,normal,0,-0.2109591284813166,Local Outlier Factor
+0,normal,0,-0.21185085778760504,Local Outlier Factor
+0,normal,0,-0.20063552339623802,Local Outlier Factor
+0,normal,0,-0.215307272107077,Local Outlier Factor
+0,normal,0,-0.22878185884416224,Local Outlier Factor
+0,normal,0,-0.198624679885403,Local Outlier Factor
+0,normal,0,-0.20495334532165987,Local Outlier Factor
+0,normal,0,-0.1399615385929427,Local Outlier Factor
+0,normal,0,-0.2358567342641027,Local Outlier Factor
+0,normal,0,-0.11090013512315733,Local Outlier Factor
+0,normal,0,-0.21013045209011372,Local Outlier Factor
+0,normal,0,-0.09606887704410338,Local Outlier Factor
+0,normal,0,-0.13296518979996397,Local Outlier Factor
+0,normal,0,-0.19835384179920434,Local Outlier Factor
+0,normal,0,-0.10539347675905075,Local Outlier Factor
+0,normal,0,-0.16644081695804092,Local Outlier Factor
+0,normal,0,-0.17496043623332724,Local Outlier Factor
+0,normal,0,-0.1534091882330284,Local Outlier Factor
+0,normal,0,-0.1417851594361781,Local Outlier Factor
+0,normal,0,-0.22925445584556914,Local Outlier Factor
+0,normal,0,-0.1460077666086934,Local Outlier Factor
+0,normal,0,-0.19078110174868934,Local Outlier Factor
+0,normal,0,-0.1887944839141058,Local Outlier Factor
+0,normal,0,-0.14544180742334145,Local Outlier Factor
+0,normal,0,-0.14397813164757034,Local Outlier Factor
+0,normal,0,-0.17381215942911932,Local Outlier Factor
+0,normal,0,-0.18532264032721502,Local Outlier Factor
+0,normal,0,-0.1628817843686119,Local Outlier Factor
+0,normal,0,-0.23354375780620185,Local Outlier Factor
+0,normal,0,-0.21995378655178643,Local Outlier Factor
+0,normal,1,0.0025948329424054783,Local Outlier Factor
+0,normal,0,-0.02646399192188076,Local Outlier Factor
+0,normal,0,-0.1952699607963082,Local Outlier Factor
+0,normal,0,-0.03825254618694229,Local Outlier Factor
+0,normal,0,-0.14389987184892372,Local Outlier Factor
+0,normal,0,-0.12772982378681008,Local Outlier Factor
+0,normal,0,-0.21134434098166222,Local Outlier Factor
+0,normal,0,-0.200796464089815,Local Outlier Factor
+0,normal,0,-0.2403188438343451,Local Outlier Factor
+0,normal,0,-0.040786618048345824,Local Outlier Factor
+0,normal,0,-0.21917310125542588,Local Outlier Factor
+0,normal,0,-0.14065744745056996,Local Outlier Factor
+0,normal,0,-0.25088968782868604,Local Outlier Factor
+0,normal,0,-0.22332681098353024,Local Outlier Factor
+0,normal,0,-0.21995476804314218,Local Outlier Factor
+0,normal,0,-0.18687841106467062,Local Outlier Factor
+0,normal,0,-0.19498695027237067,Local Outlier Factor
+0,normal,0,-0.2103554952897455,Local Outlier Factor
+0,normal,0,-0.19861049622325644,Local Outlier Factor
+0,normal,0,-0.1741895148810937,Local Outlier Factor
+0,normal,1,0.010862982753670147,Local Outlier Factor
+0,normal,0,-0.17177770348407106,Local Outlier Factor
+0,normal,0,-0.1871774995622162,Local Outlier Factor
+0,normal,0,-0.1666267226184266,Local Outlier Factor
+1,extreme_enrollment,1,20.916228011200737,Local Outlier Factor
+0,normal,0,-0.24693553603120522,Local Outlier Factor
+0,normal,1,0.014392589607548745,Local Outlier Factor
+0,normal,0,-0.09587549707991871,Local Outlier Factor
+0,normal,0,-0.16732400371212575,Local Outlier Factor
+0,normal,0,-0.20012641316674817,Local Outlier Factor
+0,normal,0,-0.16758671773824374,Local Outlier Factor
+0,normal,0,-0.22477168333504016,Local Outlier Factor
+0,normal,0,-0.1855218325941661,Local Outlier Factor
+0,normal,0,-0.19594131293682637,Local Outlier Factor
+0,normal,0,-0.023951945135884944,Local Outlier Factor
+0,normal,0,-0.2070939663239051,Local Outlier Factor
+0,normal,0,-0.15200216742219608,Local Outlier Factor
+0,normal,0,-0.19515994071182652,Local Outlier Factor
+0,normal,0,-0.20133745342919296,Local Outlier Factor
+0,normal,0,-0.206402787957509,Local Outlier Factor
+0,normal,0,-0.11331323222318668,Local Outlier Factor
+0,normal,0,-0.24833533557240828,Local Outlier Factor
+0,normal,0,-0.14023444858935274,Local Outlier Factor
+0,normal,0,-0.056385919942744334,Local Outlier Factor
+0,normal,0,-0.10887549083303849,Local Outlier Factor
+0,normal,1,0.1286243362728885,Local Outlier Factor
+0,normal,0,-0.15294703589524028,Local Outlier Factor
+0,normal,1,0.003765095501843563,Local Outlier Factor
+0,normal,0,-0.19064850953041113,Local Outlier Factor
+0,normal,0,-0.20623421730642155,Local Outlier Factor
+0,normal,0,-0.23088612514763351,Local Outlier Factor
+0,normal,0,-0.21748109438543373,Local Outlier Factor
+0,normal,0,-0.22311986793553484,Local Outlier Factor
+0,normal,0,-0.2312276120730935,Local Outlier Factor
+1,invalid_age_range,1,3.580754943608569,Local Outlier Factor
+0,normal,0,-0.12060663504438174,Local Outlier Factor
+0,normal,0,-0.13313705158937594,Local Outlier Factor
+0,normal,0,-0.23413589500466725,Local Outlier Factor
+1,extreme_enrollment,1,31.331288887298637,Local Outlier Factor
+0,normal,0,-0.22727549412540804,Local Outlier Factor
+0,normal,0,-0.22068293155792618,Local Outlier Factor
+0,normal,0,-0.20434289055680477,Local Outlier Factor
+0,normal,0,-0.1380355027601241,Local Outlier Factor
+0,normal,0,-0.19741035648521832,Local Outlier Factor
+0,normal,0,-0.25414361956966314,Local Outlier Factor
+1,extreme_enrollment,1,33.517998931742525,Local Outlier Factor
+0,normal,0,-0.2463431923694941,Local Outlier Factor
+0,normal,0,-0.01057370052036477,Local Outlier Factor
+0,normal,0,-0.20451722250885407,Local Outlier Factor
+0,normal,0,-0.21207350331061137,Local Outlier Factor
+0,normal,0,-0.21220713531941704,Local Outlier Factor
+0,normal,0,-0.22311825636119553,Local Outlier Factor
+0,normal,0,-0.18128653817185114,Local Outlier Factor
+0,normal,1,0.3925236373986085,Local Outlier Factor
+0,normal,1,0.05086272624281407,Local Outlier Factor
+0,normal,0,-0.24628772839218593,Local Outlier Factor
+0,normal,0,-0.19342829603333223,Local Outlier Factor
+0,normal,0,-0.2240794556751624,Local Outlier Factor
+0,normal,0,-0.11694612052990849,Local Outlier Factor
+0,normal,0,-0.1740142019850306,Local Outlier Factor
+0,normal,0,-0.21404919223121643,Local Outlier Factor
+0,normal,0,-0.19606245422159385,Local Outlier Factor
+0,normal,0,-0.21569174523296897,Local Outlier Factor
+0,normal,0,-0.1955738440252477,Local Outlier Factor
+0,normal,0,-0.1402997159049426,Local Outlier Factor
+0,normal,1,0.27587395422671346,Local Outlier Factor
+0,normal,0,-0.1357486280729554,Local Outlier Factor

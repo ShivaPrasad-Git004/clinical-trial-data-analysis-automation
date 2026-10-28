@@ -1,0 +1,7 @@
+{
+  "project": "Clinical Trial Data Analysis and Automation",
+  "demo_dataset_rows": 5025,
+  "real_source": "AACT / ClinicalTrials.gov",
+  "real_source_page": "https://aact.ctti.clinicaltrials.org/downloads",
+  "starter_dataset_note": "Synthetic data for immediate execution; use AACT for research/publication version."
+}

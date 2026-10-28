@@ -1,0 +1,121 @@
+seed,model,defect_type,test_records_of_type,detected,missed,detection_rate
+11,Isolation Forest,invalid_age_range,13,13,0,1.0
+11,Isolation Forest,suspicious_enrollment,13,8,5,0.6153846153846154
+11,Isolation Forest,long_duration,12,2,10,0.16666666666666666
+11,Isolation Forest,missing_numeric_value,12,0,12,0.0
+11,Hybrid + Isolation Forest,invalid_age_range,13,13,0,1.0
+11,Hybrid + Isolation Forest,suspicious_enrollment,13,8,5,0.6153846153846154
+11,Hybrid + Isolation Forest,long_duration,12,2,10,0.16666666666666666
+11,Hybrid + Isolation Forest,missing_numeric_value,12,12,0,1.0
+11,One-Class SVM,invalid_age_range,13,13,0,1.0
+11,One-Class SVM,suspicious_enrollment,13,7,6,0.5384615384615384
+11,One-Class SVM,long_duration,12,2,10,0.16666666666666666
+11,One-Class SVM,missing_numeric_value,12,11,1,0.9166666666666666
+11,Hybrid + One-Class SVM,invalid_age_range,13,13,0,1.0
+11,Hybrid + One-Class SVM,suspicious_enrollment,13,7,6,0.5384615384615384
+11,Hybrid + One-Class SVM,long_duration,12,2,10,0.16666666666666666
+11,Hybrid + One-Class SVM,missing_numeric_value,12,12,0,1.0
+11,Local Outlier Factor,invalid_age_range,13,13,0,1.0
+11,Local Outlier Factor,suspicious_enrollment,13,2,11,0.15384615384615385
+11,Local Outlier Factor,long_duration,12,2,10,0.16666666666666666
+11,Local Outlier Factor,missing_numeric_value,12,12,0,1.0
+11,Hybrid + Local Outlier Factor,invalid_age_range,13,13,0,1.0
+11,Hybrid + Local Outlier Factor,suspicious_enrollment,13,2,11,0.15384615384615385
+11,Hybrid + Local Outlier Factor,long_duration,12,2,10,0.16666666666666666
+11,Hybrid + Local Outlier Factor,missing_numeric_value,12,12,0,1.0
+22,Isolation Forest,invalid_age_range,13,10,3,0.7692307692307693
+22,Isolation Forest,suspicious_enrollment,13,10,3,0.7692307692307693
+22,Isolation Forest,long_duration,12,8,4,0.6666666666666666
+22,Isolation Forest,missing_numeric_value,12,0,12,0.0
+22,Hybrid + Isolation Forest,invalid_age_range,13,13,0,1.0
+22,Hybrid + Isolation Forest,suspicious_enrollment,13,10,3,0.7692307692307693
+22,Hybrid + Isolation Forest,long_duration,12,8,4,0.6666666666666666
+22,Hybrid + Isolation Forest,missing_numeric_value,12,12,0,1.0
+22,One-Class SVM,invalid_age_range,13,13,0,1.0
+22,One-Class SVM,suspicious_enrollment,13,8,5,0.6153846153846154
+22,One-Class SVM,long_duration,12,7,5,0.5833333333333334
+22,One-Class SVM,missing_numeric_value,12,12,0,1.0
+22,Hybrid + One-Class SVM,invalid_age_range,13,13,0,1.0
+22,Hybrid + One-Class SVM,suspicious_enrollment,13,8,5,0.6153846153846154
+22,Hybrid + One-Class SVM,long_duration,12,7,5,0.5833333333333334
+22,Hybrid + One-Class SVM,missing_numeric_value,12,12,0,1.0
+22,Local Outlier Factor,invalid_age_range,13,13,0,1.0
+22,Local Outlier Factor,suspicious_enrollment,13,3,10,0.23076923076923078
+22,Local Outlier Factor,long_duration,12,4,8,0.3333333333333333
+22,Local Outlier Factor,missing_numeric_value,12,12,0,1.0
+22,Hybrid + Local Outlier Factor,invalid_age_range,13,13,0,1.0
+22,Hybrid + Local Outlier Factor,suspicious_enrollment,13,3,10,0.23076923076923078
+22,Hybrid + Local Outlier Factor,long_duration,12,4,8,0.3333333333333333
+22,Hybrid + Local Outlier Factor,missing_numeric_value,12,12,0,1.0
+33,Isolation Forest,invalid_age_range,13,13,0,1.0
+33,Isolation Forest,suspicious_enrollment,13,13,0,1.0
+33,Isolation Forest,long_duration,12,8,4,0.6666666666666666
+33,Isolation Forest,missing_numeric_value,12,0,12,0.0
+33,Hybrid + Isolation Forest,invalid_age_range,13,13,0,1.0
+33,Hybrid + Isolation Forest,suspicious_enrollment,13,13,0,1.0
+33,Hybrid + Isolation Forest,long_duration,12,8,4,0.6666666666666666
+33,Hybrid + Isolation Forest,missing_numeric_value,12,12,0,1.0
+33,One-Class SVM,invalid_age_range,13,13,0,1.0
+33,One-Class SVM,suspicious_enrollment,13,13,0,1.0
+33,One-Class SVM,long_duration,12,7,5,0.5833333333333334
+33,One-Class SVM,missing_numeric_value,12,11,1,0.9166666666666666
+33,Hybrid + One-Class SVM,invalid_age_range,13,13,0,1.0
+33,Hybrid + One-Class SVM,suspicious_enrollment,13,13,0,1.0
+33,Hybrid + One-Class SVM,long_duration,12,7,5,0.5833333333333334
+33,Hybrid + One-Class SVM,missing_numeric_value,12,12,0,1.0
+33,Local Outlier Factor,invalid_age_range,13,13,0,1.0
+33,Local Outlier Factor,suspicious_enrollment,13,8,5,0.6153846153846154
+33,Local Outlier Factor,long_duration,12,3,9,0.25
+33,Local Outlier Factor,missing_numeric_value,12,12,0,1.0
+33,Hybrid + Local Outlier Factor,invalid_age_range,13,13,0,1.0
+33,Hybrid + Local Outlier Factor,suspicious_enrollment,13,8,5,0.6153846153846154
+33,Hybrid + Local Outlier Factor,long_duration,12,3,9,0.25
+33,Hybrid + Local Outlier Factor,missing_numeric_value,12,12,0,1.0
+44,Isolation Forest,invalid_age_range,13,12,1,0.9230769230769231
+44,Isolation Forest,suspicious_enrollment,13,10,3,0.7692307692307693
+44,Isolation Forest,long_duration,12,7,5,0.5833333333333334
+44,Isolation Forest,missing_numeric_value,12,0,12,0.0
+44,Hybrid + Isolation Forest,invalid_age_range,13,13,0,1.0
+44,Hybrid + Isolation Forest,suspicious_enrollment,13,10,3,0.7692307692307693
+44,Hybrid + Isolation Forest,long_duration,12,7,5,0.5833333333333334
+44,Hybrid + Isolation Forest,missing_numeric_value,12,12,0,1.0
+44,One-Class SVM,invalid_age_range,13,13,0,1.0
+44,One-Class SVM,suspicious_enrollment,13,6,7,0.46153846153846156
+44,One-Class SVM,long_duration,12,7,5,0.5833333333333334
+44,One-Class SVM,missing_numeric_value,12,11,1,0.9166666666666666
+44,Hybrid + One-Class SVM,invalid_age_range,13,13,0,1.0
+44,Hybrid + One-Class SVM,suspicious_enrollment,13,6,7,0.46153846153846156
+44,Hybrid + One-Class SVM,long_duration,12,7,5,0.5833333333333334
+44,Hybrid + One-Class SVM,missing_numeric_value,12,12,0,1.0
+44,Local Outlier Factor,invalid_age_range,13,13,0,1.0
+44,Local Outlier Factor,suspicious_enrollment,13,4,9,0.3076923076923077
+44,Local Outlier Factor,long_duration,12,6,6,0.5
+44,Local Outlier Factor,missing_numeric_value,12,11,1,0.9166666666666666
+44,Hybrid + Local Outlier Factor,invalid_age_range,13,13,0,1.0
+44,Hybrid + Local Outlier Factor,suspicious_enrollment,13,4,9,0.3076923076923077
+44,Hybrid + Local Outlier Factor,long_duration,12,6,6,0.5
+44,Hybrid + Local Outlier Factor,missing_numeric_value,12,12,0,1.0
+55,Isolation Forest,invalid_age_range,13,13,0,1.0
+55,Isolation Forest,suspicious_enrollment,13,12,1,0.9230769230769231
+55,Isolation Forest,long_duration,12,8,4,0.6666666666666666
+55,Isolation Forest,missing_numeric_value,12,0,12,0.0
+55,Hybrid + Isolation Forest,invalid_age_range,13,13,0,1.0
+55,Hybrid + Isolation Forest,suspicious_enrollment,13,12,1,0.9230769230769231
+55,Hybrid + Isolation Forest,long_duration,12,8,4,0.6666666666666666
+55,Hybrid + Isolation Forest,missing_numeric_value,12,12,0,1.0
+55,One-Class SVM,invalid_age_range,13,13,0,1.0
+55,One-Class SVM,suspicious_enrollment,13,8,5,0.6153846153846154
+55,One-Class SVM,long_duration,12,6,6,0.5
+55,One-Class SVM,missing_numeric_value,12,12,0,1.0
+55,Hybrid + One-Class SVM,invalid_age_range,13,13,0,1.0
+55,Hybrid + One-Class SVM,suspicious_enrollment,13,8,5,0.6153846153846154
+55,Hybrid + One-Class SVM,long_duration,12,6,6,0.5
+55,Hybrid + One-Class SVM,missing_numeric_value,12,12,0,1.0
+55,Local Outlier Factor,invalid_age_range,13,13,0,1.0
+55,Local Outlier Factor,suspicious_enrollment,13,4,9,0.3076923076923077
+55,Local Outlier Factor,long_duration,12,5,7,0.4166666666666667
+55,Local Outlier Factor,missing_numeric_value,12,12,0,1.0
+55,Hybrid + Local Outlier Factor,invalid_age_range,13,13,0,1.0
+55,Hybrid + Local Outlier Factor,suspicious_enrollment,13,4,9,0.3076923076923077
+55,Hybrid + Local Outlier Factor,long_duration,12,5,7,0.4166666666666667
+55,Hybrid + Local Outlier Factor,missing_numeric_value,12,12,0,1.0

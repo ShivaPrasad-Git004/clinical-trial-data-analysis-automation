@@ -1,0 +1,9 @@
+check,records_flagged
+duplicate_study_id,0
+invalid_minimum_age,0
+invalid_maximum_age,14
+reversed_age_range,0
+invalid_age_range,14
+invalid_enrollment,26
+unparseable_enrollment,0
+completion_before_start,0

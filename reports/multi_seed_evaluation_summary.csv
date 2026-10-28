@@ -1,0 +1,6 @@
+,precision,precision,recall,recall,f1_score,f1_score,average_precision,average_precision,roc_auc,roc_auc
+,mean,std,mean,std,mean,std,mean,std,mean,std
+model,,,,,,,,,,
+Isolation Forest,0.5002,0.0584,1.0,0.0,0.6653,0.0509,0.8495,0.0386,0.9932,0.0021
+Local Outlier Factor,0.5053,0.0289,1.0,0.0,0.671,0.0253,0.9999,0.0002,1.0,0.0
+One-Class SVM,0.4854,0.0238,1.0,0.0,0.6533,0.0215,0.9978,0.005,0.9999,0.0002

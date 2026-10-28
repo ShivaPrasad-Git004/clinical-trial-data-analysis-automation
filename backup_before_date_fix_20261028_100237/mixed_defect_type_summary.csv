@@ -1,0 +1,25 @@
+model,defect_type,mean,std
+Hybrid + Isolation Forest,invalid_age_range,1.0,0.0
+Hybrid + Isolation Forest,long_duration,0.55,0.2173
+Hybrid + Isolation Forest,missing_numeric_value,1.0,0.0
+Hybrid + Isolation Forest,suspicious_enrollment,0.8154,0.15
+Hybrid + Local Outlier Factor,invalid_age_range,1.0,0.0
+Hybrid + Local Outlier Factor,long_duration,0.3333,0.1318
+Hybrid + Local Outlier Factor,missing_numeric_value,1.0,0.0
+Hybrid + Local Outlier Factor,suspicious_enrollment,0.3231,0.1754
+Hybrid + One-Class SVM,invalid_age_range,1.0,0.0
+Hybrid + One-Class SVM,long_duration,0.4833,0.1807
+Hybrid + One-Class SVM,missing_numeric_value,1.0,0.0
+Hybrid + One-Class SVM,suspicious_enrollment,0.6462,0.2078
+Isolation Forest,invalid_age_range,0.9385,0.1003
+Isolation Forest,long_duration,0.55,0.2173
+Isolation Forest,missing_numeric_value,0.0,0.0
+Isolation Forest,suspicious_enrollment,0.8154,0.15
+Local Outlier Factor,invalid_age_range,1.0,0.0
+Local Outlier Factor,long_duration,0.3333,0.1318
+Local Outlier Factor,missing_numeric_value,0.9833,0.0373
+Local Outlier Factor,suspicious_enrollment,0.3231,0.1754
+One-Class SVM,invalid_age_range,1.0,0.0
+One-Class SVM,long_duration,0.4833,0.1807
+One-Class SVM,missing_numeric_value,0.95,0.0456
+One-Class SVM,suspicious_enrollment,0.6462,0.2078

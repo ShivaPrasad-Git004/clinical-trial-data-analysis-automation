@@ -1,0 +1,10 @@
+model,defect_type,test_records_of_type,detected,missed,detection_rate,mean_anomaly_score
+Isolation Forest,invalid_age_range,17,17,0,1.0,0.07520019128595218
+Isolation Forest,extreme_enrollment,17,17,0,1.0,0.10451579519703103
+Isolation Forest,extreme_duration,16,16,0,1.0,0.09581062474467013
+One-Class SVM,invalid_age_range,17,17,0,1.0,13.207775558212314
+One-Class SVM,extreme_enrollment,17,17,0,1.0,13.364796542103985
+One-Class SVM,extreme_duration,16,16,0,1.0,13.364780631063823
+Local Outlier Factor,invalid_age_range,17,17,0,1.0,3.977774981567208
+Local Outlier Factor,extreme_enrollment,17,17,0,1.0,26.05785086870848
+Local Outlier Factor,extreme_duration,16,16,0,1.0,5.039594140613872

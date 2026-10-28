@@ -1,0 +1,9 @@
+metric,value
+Total records,5000.0
+Average quality score,97.92
+Excellent,4971.0
+Good,29.0
+Moderate,0.0
+Poor,0.0
+Critical,0.0
+Anomalies,150.0

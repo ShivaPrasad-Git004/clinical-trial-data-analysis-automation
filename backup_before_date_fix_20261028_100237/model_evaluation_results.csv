@@ -1,0 +1,4 @@
+model,precision,recall,f1_score,average_precision,roc_auc,true_positives,false_positives,true_negatives,false_negatives,flagged_records
+Isolation Forest,0.968,0.968,0.968,0.9955116034378957,0.999770947368421,242,8,4742,8,250
+One-Class SVM,0.624,0.624,0.624,0.6829663352947186,0.9639343157894735,156,94,4656,94,250
+Local Outlier Factor,0.028,0.028,0.028,0.04431582706726075,0.45206736842105266,7,243,4507,243,250

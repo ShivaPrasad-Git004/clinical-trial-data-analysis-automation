@@ -1,0 +1,5 @@
+metric,value
+records,5000
+columns,27
+records_with_any_rule_issue,40
+duplicate_study_id_rows,0

@@ -1,0 +1,26 @@
+﻿# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Old local Python environment backup
+.venv_old/
+
+# Generated live dashboard data
+data/processed/clinicaltrials_live_dashboard.csv
